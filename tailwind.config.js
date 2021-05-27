@@ -27,12 +27,27 @@ module.exports = {
   
   theme: {
     extend: {
-      
+      fontFamily: {
+        sans: [
+          '"Cormorant Garamond"',
+          'system-ui',
+          '-apple-system',
+          'BlinkMacSystemFont',
+          '"Segoe UI"',
+          'Roboto',
+          '"Helvetica Neue"',
+          'Arial',
+          '"Noto Sans"',
+          'sans-serif',
+          '"Apple Color Emoji"',
+          '"Segoe UI Emoji"',
+          '"Segoe UI Symbol"',
+          '"Noto Color Emoji"',
+        ],
+      },
       colors: {
-        'primary': '#000000',
-        'ocre': '#d7d6cd',
-        'lila': '#c2b3dc',
-        'verde': '#d6e2ba',
+        'primary': '#01390c',
+        'secondary': '#d4af37',
         
       }
     },

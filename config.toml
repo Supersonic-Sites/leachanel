@@ -1,9 +1,70 @@
-baseURL = "/"
-title = "Supersonic"
+title = "Lea Chanel Beauty"
 description = "Lorem Ipsum"
 languageCode = "en-ca"
+baseURL = "/"
 DefaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+[params]
+gtm = "#"
+servicename = "Lea Chanel Beauty"
+googlemap = "#"
+sitename = "Lea Chanel Beauty"
+usebasin = "#"
+videoOn = false
+description = "Lorem ipsum"
+
+[params.schema]
+ogimage = "/img/lea_chanel_oggraph.jpg"
+logofooter = "/img/leachanel-1-.jpg"
+city = "Rigaud"
+logo = "/img/leachanel-1-.jpg"
+reservation = true
+phone = "(438) 929-1556"
+priceRange = "$$$"
+region = "QC"
+country = "Canada"
+postalcode = "J0P 1P0"
+type = "BeautySalon"
+openinghour = "Mo-Sa: 10-6"
+email = "lea@leachanelbeauty.com"
+address1 = "205 Chemin du Grand Quai"
+address2 = "#"
+address_toggle = true
+
+[params.social]
+facebook = "https://facebook.com/leachanelbeauty/"
+twitter = "#"
+pinterest = "#"
+instagram = "https://www.instagram.com/lea.chanel.beauty/"
+linkedin = "#"
+
+[[params.hours]]
+hours = "Mon to Fri: 9AM to 7PM"
+
+[[params.hours]]
+hours = "Sat: CLOSED"
+
+[[params.hours]]
+hours = "Sun: CLOSED"
+
+[module]
+
+[[module.mounts]]
+source = "assets"
+target = "assets"
+
+[[module.mounts]]
+source = "./node_modules/alpinejs/dist/alpine.js"
+target = "assets/js/alpine.js"
+
+[[module.mounts]]
+source = "./node_modules/lazysizes/lazysizes.js"
+target = "assets/js/lazysizes.js"
+
+[[module.mounts]]
+source = "./node_modules/aos/dist/aos.js"
+target = "assets/js/aos.js"
 
 [sitemap]
 changefreq = "monthly"
@@ -44,61 +105,3 @@ weight = "5"
 name = "Appointment"
 url = "/"
 weight = "6"
-
-[params]
-gtm = "#"
-servicename = "WebDesign"
-googlemap = "#"
-sitename = "Supersonic Template"
-usebasin = "#"
-videoOn = false
-description = "Lorem ipsum"
-
-[params.schema]
-ogimage = "/img/supersonicsites-logo-final-750x450-1.png"
-logofooter = "/img/supersonicsites-logo-final-750x450-1.png"
-city = "Vancouver"
-logo = "/img/supersonicsites-1.png"
-reservation = true
-phone = "+1-888-321-BOOM"
-priceRange = "$$$"
-region = "BC"
-country = "Canada"
-postalcode = "V5V 3N5"
-type = "WebDesign"
-openinghour = "Mo-Sa: 10-6"
-email = "hello@supersonicsites.com"
-address1 = "3622 Main Street"
-address2 = "#"
-address_toggle = true
-
-[params.social]
-facebook = "#"
-twitter = "#"
-pinterest = "#"
-instagram = "/"
-linkedin = "#"
-
-[[params.hours]]
-hours = "Mon to Sat: 10AM to 6PM"
-
-[[params.hours]]
-hours = "Sun: CLOSED"
-
-[module]
-
-    [[module.mounts]]
-        source = "assets"
-        target = "assets"
-
-    [[module.mounts]]
-        source = "./node_modules/alpinejs/dist/alpine.js"
-        target = "assets/js/alpine.js"
-
-    [[module.mounts]]
-        source = "./node_modules/lazysizes/lazysizes.js"
-        target = "assets/js/lazysizes.js"
-
-    [[module.mounts]]
-        source = "./node_modules/aos/dist/aos.js"
-        target = "assets/js/aos.js"

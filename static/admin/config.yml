@@ -48,7 +48,7 @@ collections:
               - label: "Social Media"
                 name: "social"
                 widget: "object"
-                fields:
+                fields: 
                   - { label: 'Facebook', name: 'facebook', widget: 'string', default: "#" }
                   - { label: 'Twitter', name: 'twitter', widget: 'string', default: "#" }
                   - { label: 'Pinterest', name: 'pinterest', widget: 'string', default: "#" }
@@ -68,6 +68,10 @@ collections:
                   - { label: 'Show Address Publicly?', name: 'address_toggle', widget: 'boolean', required: false }
                   - { label: 'Address Line 1', name: 'address1', widget: 'string' }
                   - { label: 'Address Line 2', name: 'address2', widget: 'string' }
+                  - { label: 'City', name: 'city', widget: 'string' }
+                  - { label: 'Region', name: 'region', widget: 'string' }
+                  - { label: 'Postal Code', name: 'postalcode', widget: 'string' }
+                  - { label: 'Country', name: 'country', widget: 'string' }
                   - { label: 'Phone Number', name: 'phone', widget: 'string', default: "+1-" }
                   - { label: 'Email Address', name: 'email', widget: 'string' }
               - label: "Business Hours"

@@ -2,12 +2,18 @@
   <div class="relative z-50" x-data="{ isOpen: false }">
     <nav class="relative mx-auto flex items-center justify-between" aria-label="Global">
       <div class="flex items-center justify-between w-full lg:w-auto py-2 pl-2 md:pl-0">
-        <a class="ml-4" href="{{ .Site.BaseURL | absURL }}">
-          <img class="py-2" 
-          width="150px"
-          height="75px" 
+        <div class="flex items-center">
+        <a class="ml-4" href="{{ .Site.BaseURL | absURL }} flex flex-row">
+          
+          <img class="rounded-full border-2 border-gray-300 shadow" 
+          width="110px"
+          height="110px" 
           src="{{ .Site.Params.schema.logo }}?nf_resize=fit&w=200" alt="{{ .Site.Params.sitename }}">
+          
         </a>
+        <p class="pl-4 text-2xl uppercase font-bold">Lea Chanel</p>
+      </div>
+        
 
         <!-- Mobile Menu Open Button -->
 
@@ -27,7 +33,7 @@
       <div class="hidden space-x-10 lg:flex lg:ml-10">
           <ul id="desktop_menu" class="flex">
               {{ range .Site.Menus.main -}}
-              <li class="py-12 px-4  transition duration-500 border-b-4 border-transparent hover:border-primary hover:text-primary active:text-primary">        
+              <li class="py-12 px-4  transition duration-500 border-b-4 border-transparent hover:border-secondary hover:text-secondary active:text-primary">        
               <a class="text-xl tracking-widest font-bold" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
             </li>
               {{ end }}
@@ -38,25 +44,27 @@
     <div class="absolute top-0 inset-x-0 p-2 transition transform origin-top lg:hidden"
 
     x-show="isOpen"
-    x-transition:enter="duration-150 ease-out"
-    x-transition:enter-start="opacity-0 scale-90"
+    x-transition:enter="duration-100 ease-out"
+    x-transition:enter-start="opacity-0 scale-100"
     x-transition:enter-end="opacity-100 scale-100"
     x-transition:leave="duration-100 ease-in"
     x-transition:leave-start="opacity-100 scale-100"
-    x-transition:leave-end="opacity-0 scale-90"
+    x-transition:leave-end="opacity-0 scale-100"
     class="origin-top-right absolute right-0 mt-2 w-56 rounded-md shadow-lg"
   
     >
 
       <div 
       class="rounded-sm shadow-lg bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
-        <div class="px-5 pt-4 flex items-center justify-between">
-          <div class="mx-auto pl-10 pt-4">
-          <img class="py-2"
-          width="150px"
-          height="75px" 
+        <div class="pl-4 flex items-center justify-between">
+          <div class="mr-auto flex flex-row items-center">
+          <img class="rounded-full border-2 border-gray-300 shadow"
+          width="110px"
+          height="110px" 
           src="{{ .Site.Params.schema.logo }}?nf_resize=fit&w=150" alt="{{ .Site.Params.sitename }}">
+          <p class="pl-4 text-2xl uppercase font-bold">Lea Chanel</p>
           </div>
+          
 
           <!-- Mobile Menu Close Button -->
 
@@ -64,7 +72,7 @@
             <button type="button" @click="isOpen = !isOpen" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-warm-gray-400 hover:bg-warm-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-transparent">
               <span class="sr-only">Close menu</span>
               <!-- Heroicon name: outline/x -->
-              <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+              <svg class="h-8 w-8 mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
               </svg>
             </button>
@@ -75,13 +83,14 @@
         </div>
         <div class="pt-5 pb-12">
           <div class="px-2 space-y-1">
-              <ul class="flex flex-col items-center justify-center">
+              <ul class="flex flex-col items-center justify-center space-y-4">
                   {{ range .Site.Menus.main -}}
-                  <li class="py-2 px-4 transition duration-500 border-b-4 border-transparent font-extrabold hover:border-lila hover:text-lila focus:text-lila">        
-                  <a class="text-xl font-bold" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                  <li class="py-2 px-4 transition duration-500 border-b-4 border-transparent font-extrabold hover:border-secondary hover:text-secondary focus:text-primary">        
+                  <a class="text-2xl font-bold" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 </li>
                   {{ end }}
-                  <li class="text-xl mt-4"><a href="tel:{{ .Site.Params.schema.phone }}" class="transition duration-500 py-4 px-10 my-6 md:text-xl text-xl rounded-sm shadow-2xl hover:shadow-sm text-center hover:shadow-sm font-bold bg-primary text-white border-2 border-primary hover:border-lila hover:bg-lila hover:text-primary">Call Now</a></li>
+                  <div class="mt-12"></div>
+                  <li class="text-xl mt-12"><a href="tel:{{ .Site.Params.schema.phone }}" class="transition duration-500 py-4 px-10 my-6 md:text-xl text-xl rounded-sm shadow-2xl hover:shadow-2xl text-center shadow-sm font-bold bg-primary text-white border-2 border-primary hover:border-primary hover:bg-white hover:text-primary">Call Now</a></li>
                 </ul>
           </div>
         </div>
