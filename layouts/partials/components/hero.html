@@ -1,0 +1,37 @@
+
+<section class="h-auto md:h-auto md:mt-0 py-24 md:py-72 px-8 text-white flex bg-right md:bg-center bg-center bg-cover bg-no-repeat"
+style="background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('{{ .img | absURL }}?nf_resize=fit&w=1440');">
+
+<div class="container max-w-7xl mx-auto flex flex-col justify-center items-center">
+
+  <div class="max-w-7xl flex flex-col items-center justify-center">
+    <img src="https://ik.imagekit.io/supersonicsites/tr:w-450,c_scale,f_auto,q_auto,dpr_auto,/Condesa/CJE_Logo_Circle_b50TgJfQs.jpg" class="h-60 w-52 md:hidden pb-8" width="13rem" height="15rem" alt="Condesa Jewelry Expertise Logo">
+    <p class="capitalize text-3xl tracking-widest  text-center md:text-left mb-2 hidden md:block">
+      {{ .pre_title }}
+    </p>
+    <h1 class="tracking-wider font-bold  uppercase text-5xl md:text-8xl text-center">
+      {{ .title }}
+    </h1>
+
+    <h2 class="tracking-widest text-xl md:text-3xl max-w-3xl text-center mt-4 mb-6 ">
+      {{ .desc | safeHTML }}
+    </h2>
+
+    <div class="flex flex-col items-center md:flex-row">
+      <a href="{{ .cta_link }}" class="transition duration-500 text-center w-full md:w-auto mb-2 md:mb-0 md:mr-2 btn_primary tracking-widest">
+        {{ .cta }}
+      </a>
+      {{ if .cta2_select }}
+      <a href="{{ .cta2_link }}" class="transition duration-500 text-center w-full md:w-auto btn_primary tracking-widest hidden md:block">
+        {{ .cta2 }}
+      </a>
+      <a href="tel:+1-604-874-1879" class="transition duration-500 text-center w-full md:w-auto btn_primary tracking-widest md:hidden">
+        Give Us A Call
+      </a>
+      {{ else }}
+      <span></span>
+      {{ end }}
+    </div>
+  </div>
+</div>
+</section>
