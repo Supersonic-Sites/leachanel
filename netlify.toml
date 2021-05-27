@@ -17,11 +17,11 @@ command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.79.1"
 
-[[redirects]]
-  from = "https://x.netlify.app/"
-  to = "https://www.domain.com/"
-  status = 301
-  force = true #COMMENT: ensure that we always redirect
+#[[redirects]]
+#  from = "https://leachanel.netlify.app/"
+#  to = "https://www.domain.com/"
+#  status = 301
+#  force = true #COMMENT: ensure that we always redirect
 
 
 [[headers]]
