@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
 components:
   - cta2: Contact Us
     img: /img/lea_chanel_background-1-.jpg
-    cta_link: "#"
+    cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     cta: Schedule An Appointment
     desc: Esthetician, make-up artist, skincare consultant, coffee lover
     cta2_link: contact/

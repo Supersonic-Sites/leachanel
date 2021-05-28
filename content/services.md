@@ -12,7 +12,7 @@ components:
     bg_color: lightgreen
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
-    cta_link: https://leachanel.netlify.app/book-now
+    cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
     img_alt: Please type in a description of the image
@@ -31,7 +31,7 @@ components:
     bg_color: lightgreen
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
-    cta_link: https://leachanel.netlify.app/book-now
+    cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
     img_alt: Please type in a description of the image
@@ -50,7 +50,7 @@ components:
     bg_color: lightgreen
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
-    cta_link: https://leachanel.netlify.app/book-now
+    cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
     img_alt: Please type in a description of the image
@@ -69,7 +69,7 @@ components:
     bg_color: lightgreen
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
-    cta_link: https://leachanel.netlify.app/book-now
+    cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
     img_alt: Please type in a description of the image
@@ -88,7 +88,7 @@ components:
     bg_color: lightgreen
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
-    cta_link: https://leachanel.netlify.app/book-now
+    cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
     img_alt: Please type in a description of the image
@@ -107,7 +107,7 @@ components:
     bg_color: lightgreen
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
-    cta_link: https://leachanel.netlify.app/book-now
+    cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
     img_alt: Please type in a description of the image
