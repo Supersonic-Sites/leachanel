@@ -104,5 +104,5 @@ weight = "6"
 
 [[menu.main]]
 name = "Appointment"
-url = "https://booking.leachanelbeauty.com"
+url = "https://leachanelbeauty.netlify.app/book-now/"
 weight = "7"
