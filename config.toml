@@ -104,5 +104,5 @@ weight = "6"
 
 [[menu.main]]
 name = "Appointment"
-url = "https://booking.leachanelbeauty.com/"
+url = "https://booking.leachanelbeauty.com"
 weight = "7"
