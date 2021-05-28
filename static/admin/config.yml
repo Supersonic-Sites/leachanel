@@ -99,31 +99,31 @@ collections:
             name: "divider"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
 
           - label: "Large Divider"
             name: "divider2x"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
 
           - label: "Small Divider"
             name: "divider_half"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
 
           - label: "Article Index"
             name: "article_index"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
 
           - label: "4 Columns Text Cards"
             name: "cards_fourth_text"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
                 - label: "Cards"
                   name: "cards"
                   label_singular: "card"
@@ -149,7 +149,7 @@ collections:
             name: "cards_fourth_icon"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
                 - label: "Cards"
                   name: "cards"
                   label_singular: "card"
@@ -168,7 +168,7 @@ collections:
             name: "cards_fourth_img"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
                 - label: "Cards"
                   name: "cards"
                   label_singular: "card"
@@ -188,7 +188,7 @@ collections:
             name: "pricing"
             widget: "object"
             fields:
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
               - { label: "Title", name: "title", widget: "string", default: "Pricing Plans" } 
               - { label: "Description", name: "desc", widget: "text", default: "Start building for free, then add a site plan to go live. Account plans unlock additional features." }
               - label: "Cards"
@@ -214,7 +214,7 @@ collections:
             name: "cards_third_text"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
                 - label: "Cards"
                   name: "cards"
                   label_singular: "card"
@@ -240,7 +240,7 @@ collections:
             name: "cards_third_icon"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
                 - label: "Cards"
                   name: "cards"
                   label_singular: "card"
@@ -259,7 +259,7 @@ collections:
             name: "cards_third_img"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
                 - label: "Cards"
                   name: "cards"
                   label_singular: "card"
@@ -279,7 +279,7 @@ collections:
             name: "cards_half_text"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
                 - label: "Cards"
                   name: "cards"
                   label_singular: "card"
@@ -305,7 +305,7 @@ collections:
             name: "cards_half_icon"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
                 - label: "Cards"
                   name: "cards"
                   label_singular: "card"
@@ -324,7 +324,7 @@ collections:
             name: "cards_half_img"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
                 - label: "Cards"
                   name: "cards"
                   label_singular: "card"
@@ -353,7 +353,7 @@ collections:
                   - { label: "First and Last Name", name: "name", widget: "string", default: "Erica Bailey" }
                   - { label: "Testimonial Text", name: "desc", widget: "text" }
                   - { label: "Image ON/OFF", name: "image_toggle", widget: "boolean", required: false }
-                  - { label: "Image", name: "img", widget: "string", default: "DEV/cropped-Supersonic-sites__logo-192x192__1__f85PI13RW.png" }
+                  - { label: "Image", name: "img", widget: "image", }
                   - { label: "Image", name: "img_alt", widget: "string", default: "Description of the picture here" }
                   - { label: "Position", name: "position", widget: "string", default: "CEO at Tulip.com" }
 
@@ -368,7 +368,7 @@ collections:
             name: "video_half_left"
             widget: "object"
             fields:
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
               - { label: "Video ID", name: "VideoID", widget: "string", default: "dQw4w9WgXcQ" }
               - { label: "Title", name: "title", widget: "string" }
               - { label: "Description", name: "desc", widget: "text" }
@@ -377,7 +377,7 @@ collections:
             name: "video_half_right"
             widget: "object"
             fields:
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
               - { label: "Video ID", name: "VideoID", widget: "string", default: "dQw4w9WgXcQ" }
               - { label: "Title", name: "title", widget: "string" }
               - { label: "Description", name: "desc", widget: "text" }
@@ -410,7 +410,7 @@ collections:
             name: "img_full"
             widget: "object"
             fields:
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
               - { label: "AOS ON/OFF", name: "aos_select", widget: "boolean", required: false }
               - { label: "AOS", name: "aos", widget: "string" }
               - { label: "Image", name: "img", widget: "image" }
@@ -420,7 +420,7 @@ collections:
             name: "img_half_left"
             widget: "object"
             fields:
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
               - { label: "AOS ON/OFF", name: "aos_select", widget: "boolean", required: false }
               - { label: "AOS", name: "aos", widget: "string" }
               - { label: "Image", name: "img", widget: "image" }
@@ -435,7 +435,7 @@ collections:
             name: "img_half_right"
             widget: "object"
             fields:
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
               - { label: "AOS ON/OFF", name: "aos_select", widget: "boolean", required: false }
               - { label: "AOS", name: "aos", widget: "string" }
               - { label: "Image", name: "img", widget: "image" }
@@ -450,7 +450,7 @@ collections:
             name: "img_third_left"
             widget: "object"
             fields:
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
               - { label: "AOS ON/OFF", name: "aos_select", widget: "boolean", required: false }
               - { label: "AOS", name: "aos", widget: "string" }
               - { label: "Image", name: "img", widget: "image" }
@@ -465,7 +465,7 @@ collections:
             name: "img_third_right"
             widget: "object"
             fields:
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
               - { label: "AOS ON/OFF", name: "aos_select", widget: "boolean", required: false }
               - { label: "AOS", name: "aos", widget: "string" }
               - { label: "Image", name: "img", widget: "image" }
@@ -536,7 +536,7 @@ collections:
               - { label: "Title", name: "title", widget: "string" }
               - { label: "ID ON/OFF", name: "id_select", widget: "boolean", required: false }
               - { label: "ID", name: "id", widget: "string", default: "none" }
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
               - { label: "Title Size", name: "title_size", widget: "select", options: ["small", "medium", "big"] }
               - { label: "Align", name: "align", widget: "select", options: ["left", "center"], default: "center" }
               - { label: "Description ON/OFF", name: "desc_select", widget: "boolean", required: false }
@@ -546,7 +546,7 @@ collections:
             name: "cta"
             widget: "object"
             fields:
-                - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+                - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
                 - { label: "Title", name: "title", widget: "string" }
                 - { label: "Call to Action Text", name: "cta", widget: "string" }
                 - { label: "Call to Action Link", name: "cta_link", widget: "string" }
@@ -555,7 +555,7 @@ collections:
             name: "contact"
             widget: "object"
             fields:
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
               - { label: "Title", name: "title", widget: "desc", default: "Get In Touch" }
               - { label: "Sub Text", name: "desc", widget: "text", default: "Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa dictumst amet. Sapien tortor lacus arcu." }
               - { label: "Physical Address ON/OFF", name: "address_toggle", widget: "boolean", required: false }
@@ -570,8 +570,8 @@ collections:
             name: "form_center"
             widget: "object"
             fields:
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
-              - { label: "Form Background Color", name: "form_bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
+              - { label: "Form Background Color", name: "form_bg_color", widget: "string", default: "lightgreen" }
               - { label: "Usebasin Endpoint", name: "usebasin", widget: "string" }
               - { label: "CTA Button", name: "cta", widget: "string", default: "Submit" }
 
@@ -580,8 +580,8 @@ collections:
             name: "form_center_2"
             widget: "object"
             fields:
-              - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
-              - { label: "Form Background Color", name: "form_bg_color", widget: "string", default: "white" }
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
+              - { label: "Form Background Color", name: "form_bg_color", widget: "string", default: "lightgreen" }
               - { label: "Usebasin Endpoint", name: "usebasin", widget: "string" }
               - { label: "CTA Button", name: "cta", widget: "string", default: "Submit" }
 

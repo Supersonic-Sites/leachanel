@@ -1,4 +1,4 @@
-title = "Home - Esthetic & Beauty Services"
+title = "Léa Chanel Esthetic & Beauty Services"
 description = "Lorem Ipsum"
 languageCode = "en-ca"
 baseURL = "/"
@@ -7,9 +7,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [params]
 gtm = "#"
-servicename = "Lea Chanel Beauty"
+servicename = "Léa Chanel Esthetic & Beauty Services"
 googlemap = "#"
-sitename = "Lea Chanel Beauty"
+sitename = "Léa Chanel Esthetic & Beauty Services"
 usebasin = "#"
 videoOn = false
 description = "Lorem ipsum"

@@ -7,13 +7,12 @@
     
     {{ $alpinejs := resources.Get "js/alpine.js" }}
     {{ $lazysizes := resources.Get "js/lazysizes.js" }}
-    {{ $aos := resources.Get "js/aos.js" }}
+    
     {{ $js := resources.Get "js/script.js" }}
-    {{ $concatjs := slice $alpinejs $lazysizes $aos $js | resources.Concat "js/bundle.js" | resources.Minify }}
+    {{ $concatjs := slice $alpinejs $lazysizes $js | resources.Concat "js/bundle.js" | resources.Minify }}
     {{ $securejs := $concatjs | resources.Fingerprint "sha512" }}
 
     <script src="{{ $securejs.Permalink }}" integrity="{{ $securejs.Data.Integrity }}" defer></script>    
-
 
     {{/* styles */}}
     {{ $options := dict "inlineImports" true }}

@@ -1,4 +1,9 @@
 <!-- Main Script -->
+<script>
+    AOS.init({
+      disable: 'mobile'
+    });
+  </script>
 
 {{ if $.Site.Params.VideoOn}}
 {{ $script := resources.Get "js/video.js" | minify}}
