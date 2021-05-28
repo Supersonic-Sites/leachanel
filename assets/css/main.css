@@ -17,8 +17,12 @@
 .herobg {
   background-image:linear-gradient(180deg, rgba(238,241,234,1) 0%, rgba(238,241,234,0.75) 25%, rgba(238,241,234,0.75) 75%, rgba(238,241,234,1) 100%), url('/img/lea_chanel_background-1-.jpg');
 }
-
-
+.service_list {
+  @apply list-disc ml-4 mt-4; 
+}
+.service_list li {
+  @apply text-xl ml-2; 
+}
 
 .btn_primary {
   @apply transition duration-500 py-3 px-6 rounded-sm shadow-2xl text-xl md:text-2xl hover:shadow-sm text-center hover:shadow-sm font-bold bg-primary text-white border-2 border-primary hover:border-primary hover:bg-transparent hover:text-black text-base md:text-2xl;

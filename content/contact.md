@@ -9,7 +9,7 @@ components:
     img: DEV/boilerplate-bg_tRB-gJlPq.jpg
     title: Contact Us
     bg_toggle: false
-  - bg_color: white
+  - bg_color: lightgreen
     phone: +1 (604) 874-1879
     cta: "Send "
     desc: Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa

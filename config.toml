@@ -62,10 +62,6 @@ target = "assets/js/alpine.js"
 source = "./node_modules/lazysizes/lazysizes.js"
 target = "assets/js/lazysizes.js"
 
-[[module.mounts]]
-source = "./node_modules/aos/dist/aos.js"
-target = "assets/js/aos.js"
-
 [sitemap]
 changefreq = "monthly"
 filename = "sitemap.xml"
@@ -92,16 +88,21 @@ url = "gallery/"
 weight = "3"
 
 [[menu.main]]
+name = "Products"
+url = "products/"
+weight = "4"
+
+[[menu.main]]
 name = "Services"
 url = "services/"
-weight = "4"
+weight = "5"
 
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = "5"
+weight = "6"
 
 [[menu.main]]
 name = "Appointment"
-url = "/"
-weight = "6"
+url = "https://booking.leachanelbeauty.com/"
+weight = "7"

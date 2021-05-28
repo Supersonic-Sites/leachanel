@@ -1,14 +1,14 @@
 ---
-title: Photo Gallery of Léa Chanel Beauty
+title: Products
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
   aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
   aliquam at ut neque.
-slug: gallery
+slug: products
 components:
   - type: header_sub
     bg_color: primary
     img: DEV/boilerplate-bg_tRB-gJlPq.jpg
-    title: Gallery
+    title: Products
   - type: divider
     bg_color: lightgreen
   - type: gallery_lightbox
