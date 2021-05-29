@@ -446,6 +446,29 @@ collections:
               - { label: "CTA", name: "cta", widget: "string", default: "Call To Action" }
               - { label: "CTA Link", name: "cta_link", widget: "string", default: "contact/" }
 
+          - label: "Half Image Right Toggle"
+            name: "img_half_right_toggle"
+            widget: "object"
+            fields:
+              - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
+              - { label: "AOS ON/OFF", name: "aos_select", widget: "boolean", required: false }
+              - { label: "AOS", name: "aos", widget: "string" }
+              - { label: "Image", name: "img", widget: "image" }
+              - { label: "Image Alt Text", name: "img_alt", widget: "string", default: "Please type in a description of the image" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Top Service Title", name: "service", widget: "string" }
+              - { label: "Top Service Description", name: "desc", widget: "text" }
+              - label: "Service List"
+                name: "service_list"
+                label_singular: "Esthetic Service"
+                widget: "list"
+                fields: 
+                  - { label: "Service", name: "service", widget: "string", default: "How to you make holy water?" }
+                  - { label: "Description", name: "desc", widget: "text", default: "You boil the hell out of it. orem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat." }
+              - { label: "CTA ON/OFF", name: "cta_select", widget: "boolean", required: false }
+              - { label: "CTA", name: "cta", widget: "string", default: "Call To Action" }
+              - { label: "CTA Link", name: "cta_link", widget: "string", default: "contact/" }
+
           - label: "Third Image Left"
             name: "img_third_left"
             widget: "object"
