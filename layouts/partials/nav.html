@@ -88,11 +88,11 @@
               <ul class="flex flex-col items-center justify-center space-y-4">
                   {{ range .Site.Menus.main -}}
                   <li class="py-2 px-4 transition duration-500 border-b-4 border-transparent font-extrabold hover:border-secondary hover:text-secondary focus:text-primary">        
-                  <a class="text-2xl font-bold" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                  <a class="text-base font-bold" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 </li>
                   {{ end }}
                   <div class="mt-12"></div>
-                  <li class="text-xl mt-12"><a href="tel:{{ .Site.Params.schema.phone }}" class="transition duration-500 py-4 px-10 my-6 md:text-xl text-xl rounded-sm shadow-2xl hover:shadow-2xl text-center shadow-sm font-bold bg-primary text-white border-2 border-primary hover:border-primary hover:bg-lightgreen hover:text-primary">Call Now</a></li>
+                  <li class="text-base mt-12"><a href="tel:{{ .Site.Params.schema.phone }}" class="transition duration-500 py-4 px-10 my-6 md:text-xl text-xl rounded-sm shadow-2xl hover:shadow-2xl text-center shadow-sm font-bold bg-primary text-white border-2 border-primary hover:border-primary hover:bg-lightgreen hover:text-primary">Call Now</a></li>
                 </ul>
           </div>
         </div>
