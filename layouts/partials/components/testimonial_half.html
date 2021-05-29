@@ -3,7 +3,7 @@
     {{ range .testimonials }}
     <div class="px-4 py-8 sm:px-6 md:flex md:flex-col md:py-10 md:pl-0 md:pr-10 lg:pr-16" data-aos="fade-up" data-aos-duration="300">
       <blockquote class=" md:flex-grow flex flex-col">
-        <div class="relative text-xl font-medium text-black md:flex-grow">
+        <div class="relative text-xl font-medium text-black md:flex-grow order-2 md:order-1">
           <svg class="mx-auto md:mx-0 md:absolute md:top-0 md:left-0 transform -translate-x-3 -translate-y-2 h-8 w-8 text-black"
             fill="currentColor" viewBox="0 0 32 32" aria-hidden="true">
             <path
@@ -13,7 +13,7 @@
             {{ .desc }}
           </p>
         </div>
-        <div class="mt-8">
+        <div class="mt-8 mb-8 md:mb-0 order-1 md:order-2">
           <div class="flex items-center md:items-start flex-col md:flex-row">
             {{ if .image_toggle }}
             <div class="flex-shrink-0 inline-flex rounded-full border-2 border-white">
