@@ -1,9 +1,12 @@
 title = "Léa Chanel Esthetic & Beauty Services"
 description = "Lorem Ipsum"
-languageCode = "en-ca"
 baseURL = "/"
 DefaultContentLanguage = "en"
-disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+enableRobotsTXT = true
+disableAliases = true
+disableKinds = [ "categories", "tags" ]
+
 
 [params]
 gtm = "GTM-5DLMNCL"
@@ -70,39 +73,85 @@ filename = "sitemap.xml"
 writeStats = true
 enableRobotsTXT = true
 
-[menu]
 
-[[menu.main]]
+[languages.fr]
+languageCode = "fr"
+title = "Léa Chanel Esthetic & Beauty Services"
+contentDir = "content/fr"
+
+[[languages.fr.menu.main]]
+name = "Accueil"
+url = "/"
+weight = 1
+
+[[languages.fr.menu.main]]
+name = "À Propos"
+url = "a-propos/"
+weight = 2
+
+[[languages.fr.menu.main]]
+name = "Gallerie"
+url = "gallerie/"
+weight = 3
+
+[[languages.fr.menu.main]]
+name = "Produits"
+url = "produits/"
+weight = 4
+
+[[languages.fr.menu.main]]
+name = "Services"
+url = "services/"
+weight = 5
+
+[[languages.fr.menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 6
+
+[[languages.fr.menu.main]]
+name = "Rendez-vous"
+url = "https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services"
+weight = 7
+
+
+
+[languages.en]
+languageCode = "en"
+title = "Léa Chanel Esthetic & Beauty Services"
+contentDir = "content/en"
+
+[[languages.en.menu.main]]
 name = "Home"
 url = "/"
 weight = "1"
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "About"
 url = "about/"
 weight = "2"
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Gallery"
 url = "gallery/"
 weight = "3"
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Products"
 url = "products/"
 weight = "4"
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Services"
 url = "services/"
 weight = "5"
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
 weight = "6"
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Appointment"
 url = "https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services"
 weight = "7"

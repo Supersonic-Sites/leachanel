@@ -30,10 +30,11 @@
 .btn_secondary {
   @apply transition text-base md:text-lg duration-500 py-3 px-6 rounded-sm shadow-2xl text-xl md:text-2xl hover:shadow-sm text-center hover:shadow-sm font-bold bg-white text-primary border-2 border-white hover:border-primary hover:bg-transparent hover:text-primary text-base md:text-2xl;
 }
-#desktop_menu li:last-child a {
+
+#desktop_menu li:nth-last-child(2) a {
   @apply transition duration-500 py-4 px-10 md:text-xl text-xl rounded-sm shadow-2xl hover:shadow-sm text-center hover:shadow-sm font-bold bg-primary text-white border-2 border-primary hover:border-primary hover:bg-transparent hover:text-primary;
 }
-#desktop_menu li:last-child {
+#desktop_menu li:nth-last-child(2) {
   border: none; 
 }
 

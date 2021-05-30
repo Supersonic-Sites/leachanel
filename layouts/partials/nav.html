@@ -1,7 +1,7 @@
 <header class="relative bg-lightgreen">
   <div class="relative z-50" x-data="{ isOpen: false }">
     <nav class="relative mx-auto flex items-center justify-between" aria-label="Global">
-      <div class="flex items-center justify-between w-full lg:w-auto py-2 pl-2 md:pl-0">
+      <div class="flex items-center justify-between w-full 2xl:w-auto py-2 pl-2 md:pl-0">
         <div class="flex items-center">
         <a class="md:ml-4" href="{{ .Site.BaseURL | absURL }}">
           
@@ -19,7 +19,7 @@
 
         <!-- Mobile Menu Open Button -->
 
-        <div class="mr-2 flex items-center lg:hidden">
+        <div class="mr-2 flex items-center 2xl:hidden">
           <button type="button" @click="isOpen = !isOpen" class="bg-light-blue-800 bg-opacity-0 rounded-md p-2 flex-col justify-center items-center justify-center text-cyan-100 hover:bg-opacity-100 focus:outline-none focus:ring-2 focus-ring-inset focus:ring-white" aria-expanded="false">
             <span class="sr-only">Open main menu</span>
             <!-- Heroicon name: outline/menu -->
@@ -32,18 +32,33 @@
 
         <!-- End of Menu Open Button -->
       </div>
-      <div class="hidden space-x-10 lg:flex lg:ml-10">
+      <div class="hidden space-x-10 2xl:flex 2xl:ml-10">
           <ul id="desktop_menu" class="flex">
               {{ range .Site.Menus.main -}}
               <li class="py-12 px-4  transition duration-500 border-b-4 border-transparent hover:border-secondary hover:text-secondary active:text-primary">        
               <a class="text-2xl  font-bold" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
             </li>
               {{ end }}
+              {{ if .IsTranslated }}
+            {{ range .Translations }}
+              {{ if eq .Site.Language.Lang "en" }}
+            <li class="py-12 px-4 mt-1 transition duration-500 border-b-4 border-transparent hover:border-secondary hover:text-secondary active:text-primary"><a class="nav-item nav-link" title="English" href="{{ .RelPermalink }}">EN</a></li>
+              {{ else }}
+            <li class="py-12 px-4 mt-1 transition duration-500 border-b-4 border-transparent hover:border-secondary hover:text-secondary active:text-primary"><a class="nav-item nav-link" title="French" href="{{ .RelPermalink }}">FR</a></li>
+              {{ end }}
+            {{ end }}
+          {{ else }}
+            {{ if eq .Site.Language.Lang "fr" }}
+            <li class="py-12 px-4 mt-1 transition duration-500 border-b-4 border-transparent hover:border-secondary hover:text-secondary active:text-primary"><a class="nav-item nav-link" title="English" href="/en">EN</a></li>
+            {{ else }}
+            <li class="py-12 px-4 mt-1 transition duration-500 border-b-4 border-transparent hover:border-secondary hover:text-secondary active:text-primary"><a class="nav-item nav-link" title="French" href="/">FR</a></li>
+            {{ end }}
+          {{ end }}
             </ul>
       </div>
     </nav>
 
-    <div class="absolute top-0 inset-x-0 transition transform origin-top lg:hidden"
+    <div class="absolute top-0 inset-x-0 transition transform origin-top 2xl:hidden"
 
     x-show="isOpen"
     x-transition:enter="duration-100 ease-out"
