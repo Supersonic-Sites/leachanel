@@ -6,7 +6,7 @@ DefaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [params]
-gtm = "#"
+gtm = "GTM-5DLMNCL"
 servicename = "Léa Chanel Esthetic & Beauty Services"
 googlemap = "#"
 sitename = "Léa Chanel Esthetic & Beauty Services"

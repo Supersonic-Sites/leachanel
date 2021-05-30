@@ -1,10 +1,8 @@
 ---
 title: Privacy Policy
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
-companyname: Supersonic Sites
-companyemail: hello@supersonicsites.com
+description: Learn more about Lea Chanel Beauty's privacy policy.
+companyname: Lea Chanel Beauty
+companyemail: lea@leachanelbeauty.com
 layout: privacy_policy
 ---
 
