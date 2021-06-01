@@ -233,9 +233,21 @@ components:
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
     service_list:
-      - service: How to you make holy water?
-        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: Sideburn/Cheek Wax
+        desc: >-
+          <strong>Duration: 15 minutes</strong><br>
+
+          Hair removal of sideburn/cheek area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
+      - service: Chest Wax
+        desc: >-
+          <strong>Duration: 45 minutes</strong><br>
+
+          Hair removal of chest area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
+      - service: Back Wax
+        desc: >-
+          <strong>Duration: 45 minutes</strong><br>
+
+          Hair removal of upper and/or lower back area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
