@@ -137,6 +137,48 @@ components:
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
     service_list:
+      - service: Upper Lip Wax
+        desc: >-
+          <strong>Duration: 15 minutes</strong><br>
+
+          Waxing upper lip, using warm cream wax. Soothing post-wax cream and/or oil ensures calming of the skin and no leftover stickiness. Muwah!
+      - service: Underarms Wax
+        desc: >-
+          <strong>Duration: 15 minutes</strong><br>
+
+          Hair removal of under arm area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
+      - service: Basic Bikini Wax
+        desc: "<strong>Duration: 20 minutes</strong><br>Warm cream wax and/or hot honey
+          wax. Waxing of hair surrounding bikini line only. Soothing post-wax
+          cream ensures calming of the skin and no leftover stickiness."
+      - service: Brazilian/Full Bikini Wax
+        desc: >-
+          <strong>Duration: 30 minutes</strong><br>
+
+          Full or high-cut waxing of intimate bikini area, using warm cream wax and/or hot honey wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
+      - service: Half Legs Wax (Lower or Upper)
+        desc: '<strong>Duration: 45 minutes</strong><br>Waxing of lower or upper half
+          legs, using warm cream wax. Soothing post-wax cream ensures calming of
+          the skin and no leftover stickiness. *Add on "Basic Bikini Wax" for
+          only $10 more.'
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
       - service: How to you make holy water?
         desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
           adipisicing elit. Quas cupiditate laboriosam fugiat.
@@ -146,10 +188,10 @@ components:
     img_alt: Please type in a description of the image
     cta: See Pricing
     desc: >-
-      <strong>Duration: 1 hour</strong><br>
+      <strong>Duration: 20 minutes</strong><br>
 
-      Good for ALL skin types. In the Express Glow Facial, we'll be focusing on a deep clean, exfoliation, & hydratation for the skin resulting in an even glow. Quick extractions if necessary. No massage included. Effective, gentle, and safe for sensitive skin. Also safe for PREGNANT women.
-    service: Express Glow Facial
+      Basic waxing of eyebrows to clean-up existing shape using warm cream wax and tweezing if needed. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
+    service: Eyebrow Clean-Up Wax
     title: Hair Removal
     type: img_half_right_toggle
   - type: divider2x
