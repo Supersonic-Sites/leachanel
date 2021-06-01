@@ -15,7 +15,7 @@ googlemap = "#"
 sitename = "Léa Chanel Esthetic & Beauty Services"
 usebasin = "#"
 videoOn = false
-description = "Lorem ipsum"
+
 
 [params.schema]
 ogimage = "/img/lea_chanel_oggraph.jpg"
@@ -77,6 +77,7 @@ enableRobotsTXT = true
 [languages.fr]
 languageCode = "fr"
 title = "Léa Chanel Esthetic & Beauty Services"
+
 contentDir = "content/fr"
 
 [[languages.fr.menu.main]]

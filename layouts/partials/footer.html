@@ -62,7 +62,7 @@
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
           <div class="flex flex-col text-center sm:text-left">
             <h3 class="text-xl  font-semibold text-black tracking-wider uppercase">
-              Navigate
+              {{ i18n "navigate" }}
             </h3>
             <ul class="mt-4 space-y-3">
               {{ range .Site.Menus.main -}}
@@ -127,7 +127,7 @@
 
       <div class="flex flex-col items-center sm:items-start">
       <h3 class="text-xl mt-5 md:mt-0 font-semibold text-black tracking-wider uppercase space-y-4">
-        Business Hours
+        {{ i18n "hours" }}
       </h3>
       <ul class="mt-4 space-y-2">
 
@@ -147,11 +147,11 @@
     <div class="mt-12 border-t border-gray-200 pt-8 lg:flex lg:flex-row lg:justify-between">
       <p class="text-base text-black text-center">
         Copyright &copy; {{ dateFormat "2006" now }} - <a href="{{ .Site.BaseURL | relLangURL }}privacy-policy"
-          class="underline hover:text-secondary transition duration-500">Privacy Policy</a>
+          class="underline hover:text-secondary transition duration-500">{{ i18n "privacypolicy" }}</a>
       </p>
       <div class="flex flex-col lg:flex-row items-center">
         <p class="text-base text-black text-center">
-          Handcrafted with ❤️ by
+          {{ i18n "credit" }}
           <div class="ml-1">
             <a href="https://www.supersonicsites.com" class="underline hover:text-secondary transition duration-500"
               target="_blank" rel="noopener noreferrer">Supersonic Sites</a>

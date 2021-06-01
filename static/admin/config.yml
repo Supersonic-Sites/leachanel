@@ -105,6 +105,7 @@ collections:
             name: "divider2x"
             widget: "object"
             fields:
+                - { label: "ID", name: "id", widget: "string" }
                 - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
 
           - label: "Small Divider"
@@ -450,7 +451,6 @@ collections:
             name: "img_half_right_toggle"
             widget: "object"
             fields:
-              - { label: "ID for linking", name: "id", widget: "string" }
               - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
               - { label: "AOS ON/OFF", name: "aos_select", widget: "boolean", required: false }
               - { label: "AOS", name: "aos", widget: "string" }
@@ -666,6 +666,7 @@ collections:
             name: "divider2x"
             widget: "object"
             fields:
+                - { label: "ID", name: "id", widget: "string" }
                 - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
 
           - label: "Small Divider"
@@ -1012,7 +1013,6 @@ collections:
             widget: "object"
             fields:
               - { label: "Background Color", name: "bg_color", widget: "string", default: "lightgreen" }
-              - { label: "ID for linking", name: "id", widget: "string" }
               - { label: "AOS ON/OFF", name: "aos_select", widget: "boolean", required: false }
               - { label: "AOS", name: "aos", widget: "string" }
               - { label: "Image", name: "img", widget: "image" }
