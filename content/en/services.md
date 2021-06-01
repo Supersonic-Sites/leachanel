@@ -228,6 +228,11 @@ components:
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
     service_list:
+      - service: Manicure for Men
+        desc: >-
+          <strong>Duration: 30 minutes</strong><br>
+
+          Filing, shaping, & buffing of nails. Soak, if needed, with cuticle removal. Gentle hand massage to finish off with good hydration & some relaxation.
       - service: Sideburn/Cheek Wax
         desc: >-
           <strong>Duration: 15 minutes</strong><br>
