@@ -83,8 +83,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Men's Services
-        desc: "Pursuing healthy skin and feet is for everyone. Give those tired, sore
-          feet and toes a break with a pedicure. Check out my Services for hair
+        desc: "Pursuing healthy skin, hands, and feet is for everyone. Invest in your
+          health with a manicure or pedicure. Check out my Services for hair
           removal options. "
         aos_select: true
         aos: fade-up
