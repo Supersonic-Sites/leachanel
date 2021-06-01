@@ -152,24 +152,6 @@ components:
           <strong>Duration: 15 minutes</strong><br>
 
           Hair removal of under arm area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-      - service: Basic Bikini Wax
-        desc: "<strong>Duration: 20 minutes</strong><br>Warm cream wax and/or hot honey
-          wax. Waxing of hair surrounding bikini line only. Soothing post-wax
-          cream ensures calming of the skin and no leftover stickiness."
-      - service: Brazilian/Full Bikini Wax
-        desc: >-
-          <strong>Duration: 30 minutes</strong><br>
-
-          Full or high-cut waxing of intimate bikini area, using warm cream wax and/or hot honey wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-      - service: Half Legs Wax (Lower or Upper)
-        desc: '<strong>Duration: 45 minutes</strong><br>Waxing of lower or upper half
-          legs, using warm cream wax. Soothing post-wax cream ensures calming of
-          the skin and no leftover stickiness. *Add on "Basic Bikini Wax" for
-          only $10 more.'
-      - service: Full Leg Wax
-        desc: '<strong>Duration: 45 minutes</strong><br>Waxing of full leg, using warm
-          cream wax. Soothing post-wax cream ensures calming of the skin and no
-          leftover stickiness. *Add on "Basic Bikini Wax" for only $10 more.'
       - service: Half Arms Wax (Upper or Lower)
         desc: >+
           <strong>Duration: 30 minutes</strong><br>Hair removal of upper or
@@ -181,6 +163,24 @@ components:
           <strong>Duration: 30 minutes</strong><br>
 
           Hair removal of full arms using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
+      - service: Half Legs Wax (Lower or Upper)
+        desc: '<strong>Duration: 45 minutes</strong><br>Waxing of lower or upper half
+          legs, using warm cream wax. Soothing post-wax cream ensures calming of
+          the skin and no leftover stickiness. *Add on "Basic Bikini Wax" for
+          only $10 more.'
+      - service: Full Leg Wax
+        desc: '<strong>Duration: 45 minutes</strong><br>Waxing of full leg, using warm
+          cream wax. Soothing post-wax cream ensures calming of the skin and no
+          leftover stickiness. *Add on "Basic Bikini Wax" for only $10 more.'
+      - service: Basic Bikini Wax
+        desc: "<strong>Duration: 20 minutes</strong><br>Warm cream wax and/or hot honey
+          wax. Waxing of hair surrounding bikini line only. Soothing post-wax
+          cream ensures calming of the skin and no leftover stickiness."
+      - service: Brazilian/Full Bikini Wax
+        desc: >-
+          <strong>Duration: 30 minutes</strong><br>
+
+          Full or high-cut waxing of intimate bikini area, using warm cream wax and/or hot honey wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
       - service: Chest Wax
         desc: >-
           <strong>Duration: 45 minutes</strong><br>
