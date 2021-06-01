@@ -8,27 +8,35 @@ components:
     img: /img/lea_chanel_background-1-.jpg
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     cta: Schedule An Appointment
-    desc: Esthetician, make-up artist, skincare consultant, coffee lover
+    desc: "Make-up artist. Esthetician. Skincare consultant. Coffee Lover. "
     cta2_link: contact/
-    title: léa Chanel Beauty
+    title: Léa Chanel Beauty
     cta2_select: true
     type: hero
-    pre_title: Unplug & Reconnect
+    pre_title: Esthetic & Beauty Services
   - type: divider
     bg_color: lightgreen
   - type: heading_full
     id: none
     bg_color: lightgreen
     align: center
-    title: Lorem Ipsum
+    title: Make Healthy Skin A Way of Life
     title_size: big
     desc_select: true
-    desc: Lorem Ipsum
+    desc: "A healthy lifestyle often takes just a few changes. Investing in your
+      skincare is one of them. Whether you're looking for a relaxing spa outing
+      or reoccurring treatments, Léa Chanel Beauty is here for you. It's never
+      too early, or late, to begin. Enjoy professional one-on-one care,
+      treatments with high end natural products, and real, noticeable results in
+      the comfort of a private home care salon. Léa's knowledge and expertise
+      will help you understand the WHY behind the care as you journey towards a
+      healthier life. "
   - type: divider
     bg_color: lightgreen
   - type: cards_third_img
     bg_color: lightgreen
     cards:
+<<<<<<< HEAD
       - img: /img/lea_chanel_background-1-.jpg
         aos: fade
         cta_link: services/#facial_care
@@ -75,6 +83,63 @@ components:
         aos_select: false
         title: Make-Up
       - img: /img/lea_chanel_background-1-.jpg
+=======
+      - img_alt: Please type in a description of the image
+        cta: Call To Action
+        cta_link: contact/
+        title: Facial Care
+        desc: Hydrate, refresh, stimulate. Treat your face right with personalized care
+          based on your skin's needs. Gentle, effective, and safe for sensitive
+          skin.
+        aos_select: true
+        aos: fade
+        img: /img/lea_chanel_background-1-.jpg
+      - img_alt: Please type in a description of the image
+        cta: Call To Action
+        cta_link: contact/
+        title: Hand Care
+        desc: Give your hands some well deserved attention. Rejuvenate your nails and
+          show off your relaxing treatment with an artistic splash of colour.
+        aos_select: true
+        aos: fade-up
+        img: /img/lea_chanel_background-1-.jpg
+      - img_alt: Please type in a description of the image
+        cta: Call To Action
+        cta_link: contact/
+        title: Foot Care
+        desc: "Decompress and enjoy a foot soak, scrub, and revitalizing nail treatment.
+          Conclude your session with a stunning polish application.  "
+        aos_select: true
+        aos: fade-up
+        img: /img/lea_chanel_background-1-.jpg
+      - img_alt: Please type in a description of the image
+        cta: Call To Action
+        cta_link: contact/
+        title: Hair Removal
+        desc: "Say goodbye to unwanted hair anywhere and everywhere. Enjoy a soothing
+          post-wax cream, calming the skin and ensuring no sticky residue. "
+        aos_select: true
+        aos: fade-up
+        img: /img/lea_chanel_background-1-.jpg
+      - img_alt: Please type in a description of the image
+        cta: Call To Action
+        cta_link: contact/
+        title: Make-Up
+        desc: If you're looking for efficient professional make-up application for your
+          wedding, prom, graduation, or any other special event, I am here to
+          help you shine on your big day.
+        aos_select: true
+        aos: fade-up
+        img: /img/lea_chanel_background-1-.jpg
+      - img_alt: Please type in a description of the image
+        cta: Call To Action
+        cta_link: contact/
+        title: Men's Services
+        desc: "Pursuing healthy skin, hands, and feet is for everyone. Invest in your
+          health with a manicure or pedicure. Check out my Services for hair
+          removal options. "
+        aos_select: true
+>>>>>>> 340eebad1959f64aa38c1642a59722b5681a41b4
         aos: fade-up
         cta_link: services/#men_care
         cta_select: true
