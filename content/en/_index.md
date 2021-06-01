@@ -61,7 +61,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Hair Removal
-        desc: Lorem Ipsum
+        desc: "Say goodbye to unwanted hair anywhere and everywhere. Enjoy a soothing
+          post-wax cream, calming the skin and ensuring no sticky residue. "
         aos_select: true
         aos: fade-up
         img: /img/lea_chanel_background-1-.jpg
