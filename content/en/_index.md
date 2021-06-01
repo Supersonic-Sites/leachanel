@@ -33,7 +33,9 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Facial Care
-        desc: Lorem ipsum
+        desc: Hydrate, refresh, stimulate. Treat your face right with personalized care
+          based on your skin's needs. Gentle, effective, and safe for sensitive
+          skin. Lorem ipsum
         aos_select: true
         aos: fade
         img: /img/lea_chanel_background-1-.jpg
