@@ -18,11 +18,6 @@ components:
           <strong>Duration: 1 hour 30 minutes</strong><br>
 
           Good for ALL skin types. In the Classic Facial, we'll be treating your skin according to its needs, based on your skin type and skin condition. The main goal is to refresh, hydrate, and target-treat certain goals with potent active ingredients. Gentle neck, shoulders, & hand massage included. Effective, gentle, and safe for sensitive skin. (Pregnant women should go for the Express Glow Facial instead.)
-      - service: Anti-Aging Relaxation Facial
-        desc: >-
-          <strong>Duration: 1 hour 30 minutes</strong><br>
-
-          Good for MATURE skin types. Age 50+. In the Anti-Aging Facial, we'll be treating your skin according to its needs, based on your skin type. The main goal is to plump, lift, tighten, and smooth out the skin with potent active ingredients. Facial massage with extracts full of active ingredients will help stimulate the facial muscles, giving a lift and firmness while completely relaxing the mind. The organic chocolate mask with active ingredients such as Acmella Oleracea will hydrate, plump, and tighten up the skin. Also, neck, shoulders, and foot massage is included. Are you even ready for this? It's going to be amazing. Effective, gentle, and safe for sensitive skin.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
