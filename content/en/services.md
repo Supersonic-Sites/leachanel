@@ -150,7 +150,7 @@ components:
 
       Good for ALL skin types. In the Express Glow Facial, we'll be focusing on a deep clean, exfoliation, & hydratation for the skin resulting in an even glow. Quick extractions if necessary. No massage included. Effective, gentle, and safe for sensitive skin. Also safe for PREGNANT women.
     service: Express Glow Facial
-    title: Facial Care
+    title: Hair Removal
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
@@ -170,7 +170,7 @@ components:
 
       Good for ALL skin types. In the Express Glow Facial, we'll be focusing on a deep clean, exfoliation, & hydratation for the skin resulting in an even glow. Quick extractions if necessary. No massage included. Effective, gentle, and safe for sensitive skin. Also safe for PREGNANT women.
     service: Express Glow Facial
-    title: Facial Care
+    title: Make-Up
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
