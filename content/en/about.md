@@ -56,14 +56,16 @@ components:
         divider_color: primary
       - divider_select: true
         title_select: true
-        subtitle_select: true
+        subtitle_select: false
         aos: fade
         title_size: medium
         cta_link: none
         cta: none
-        desc: Description here
+        desc: If you have any questions about the services or scheduling, don't hesitate
+          to ask. Léa prioritizes a fast response time and looks forward to
+          hearing from you.
         subtitle: Ipsum
-        title: Lorem
+        title: Quick Response Time
         shadow_select: true
         title_color: black
         divider_color: primary
