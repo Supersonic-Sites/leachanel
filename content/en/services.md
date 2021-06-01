@@ -147,6 +147,11 @@ components:
           <strong>Duration: 15 minutes</strong><br>
 
           Waxing upper lip, using warm cream wax. Soothing post-wax cream and/or oil ensures calming of the skin and no leftover stickiness. Muwah!
+      - service: Sideburn/Cheek Wax
+        desc: >-
+          <strong>Duration: 15 minutes</strong><br>
+
+          Hair removal of sideburn/cheek area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
       - service: Underarms Wax
         desc: >-
           <strong>Duration: 15 minutes</strong><br>
@@ -191,11 +196,6 @@ components:
           <strong>Duration: 45 minutes</strong><br>
 
           Hair removal of upper and/or lower back area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-      - service: Sideburn/Cheek Wax
-        desc: >-
-          <strong>Duration: 15 minutes</strong><br>
-
-          Hair removal of sideburn/cheek area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
