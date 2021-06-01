@@ -48,6 +48,39 @@ components:
         desc: "<strong>Duration: 30 minutes</strong><br>Filing, shaping, & buffing of
           nails. Cream hydration application, followed by meticulous polish
           application. (No cuticle removal or massage)"
+      - service: Manicure Relaxation Spa Treatment
+        desc: "<strong>Duration: 1 hour 30 minutes</strong><br>Filing, shaping, &
+          buffing of nails. Soak, if needed, cuticle removal. All-natural hand
+          scrub, relaxation massage, & 10 minute revitalizing mask application.
+          Finished off by meticulous polish application."
+      - service: GEL Relaxation Spa Treatment Manicure
+        desc: >-
+          <strong>Duration: 30 minutes</strong><br>
+
+          Filing, shaping, & buffing of nails. Cuticle removal. Gel polish application. Natural scrub, hydrating relaxation massage, and finishes off with revitalizing 10 minute mask application.
+      - service: GEL Removal Only
+        desc: >-
+          <strong>Duration: 15 minutes</strong><br>
+
+          Acetone soak-off. Buff/file nails. Replenish with hydration. Gel removals are included FREE when followed with a Gel Manicure or Gel Polish Change. Otherwise, alone, $10.
+      - service: GEL Polish Change Only
+        desc: >-
+          <strong>Duration: 1 hour</strong><br>
+
+          Gel soak-off removal. Filing, shaping, & buffing of nails. Clean up. Gel polish application followed by hydration cream & cuticle oil.
+      - service: Polish Color Change Only
+        desc: "<strong>Duration: 30 minutes</strong><br>Removal of old nail-polish.
+          Filing & buffing if necessary, followed by meticulous polish
+          application."
+      - service: Mani & Pedi Combo
+        desc: |-
+          <strong>Duration: 2 hours</strong><br>
+          Get a regular manicure & pedicure combination for $70.00
+      - service: GEL Mani + Pedicure Combo
+        desc: >-
+          <strong>Duration: 2 hours 15 minutes</strong><br>
+
+          Save some money by booking a *classic pedicure* paired with a gel/shellac manicure to receive the combo price.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
