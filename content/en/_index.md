@@ -95,17 +95,17 @@ components:
   - type: gallery
     images:
       - img_alt: Please type in a description of the image
-        img: /img/lea_chanel_background-1-.jpg
+        img: /img/IMG_20210503_162940_896.jpg
+      - img_alt: Please type in a description of the image
+        img: /img/IMG_20210506_203006_068.jpg
+      - img_alt: Please type in a description of the image
+        img: /img/IMG_20210510_114928_821.jpg
+      - img_alt: Please type in a description of the image
+        img: /img/IMG_20210512_085514_601.jpg
       - img_alt: Please type in a description of the image
         img: /img/lea_chanel_background-1-.jpg
       - img_alt: Please type in a description of the image
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        img: /img/lea_chanel_background-1-.jpg
+        img: /img/IMG_20210522_144401_138.jpg
   - type: divider
     bg_color: lightgreen
   - type: heading_full
