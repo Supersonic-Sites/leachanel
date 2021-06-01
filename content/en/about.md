@@ -17,16 +17,22 @@ components:
     img_alt: Please type in a description of the image
     cta: Call To Action
     desc: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae ex
-      lectus. Maecenas porttitor iaculis sem. Pellentesque ipsum diam, hendrerit
-      nec ante eu, sodales porta diam. Nulla aliquam lorem non lectus ultrices,
-      et varius libero sodales. Proin mattis quis velit quis elementum. Nulla
-      faucibus pulvinar nunc, ut condimentum arcu mattis nec. Vestibulum
-      ullamcorper laoreet tortor, sed luctus felis dapibus ac.
+      "Many of my clients arrive stressed out or tired. It's so rewarding to see
+      them relax during the session and leave more peaceful and rejuvenated.
+      It's what I love about my job."<br><br>
 
 
-      Proin consectetur dolor at dolor viverra malesuada tempor vitae massa. Fusce volutpat rhoncus luctus. Nulla eget dui euismod lorem fringilla mollis. Morbi suscipit mi sit amet fringilla sodales. Nullam tristique odio id magna cursus, ut fringilla velit mollis. Morbi ullamcorper pellentesque est, quis viverra eros tristique quis. Curabitur vel metus mattis, ultrices dolor eu, ultricies libero. Donec mollis iaculis ipsum non ornare. Mauris non orci ac tellus fringilla aliquam non ac nisl. Nulla efficitur, mauris ut commodo blandit, augue lectus fringilla orci, nec blandit eros elit id libero. Nam condimentum sapien eget nisl iaculis, vitae facilisis dolor rutrum. Sed pulvinar nisi ac commodo pharetra. In eget vestibulum massa. Phasellus vel condimentum sapien. Duis non enim nunc. Nulla sed consequat nunc, vitae faucibus mi.
-    title: A Love For Beauty
+      When Léa graduated as an esthetician and Valedictorian of her class, she realized a dream that began at 14 years old. Coming from a family of artists, she was always interested in beauty, art, fashion, and make-up. Eventually, that past-time developed into a passion for not only the artistic side of cosmetology but also the health and well-being aspect as well.<br><br>
+
+
+      Léa is fascinated by the WHY behind the treatments and brings her extensive expertise to every client interaction. She is dedicated to problem solving and finding real solutions for skincare treatments. Because the skincare industry is always changing, she uses her love of learning to ensure that she stays informed with the latest products and treatments.<br><br>
+
+
+      Léa is proud to offer her services in her own home care salon. "I love that my clients can experience the perfect mixture of a private salon blended with the chic professional air of a spa facility." She seeks to create a comfortable, relaxing atmosphere, conversational or peaceful, based on the client's needs.<br><br>
+
+
+      Want to know more about Léa Chanel Beauty and its esthetic and beauty services? Contact me today.
+    title: Dedicated to Health and Beauty
     type: img_half_right
   - type: divider
     bg_color: lightgreen
