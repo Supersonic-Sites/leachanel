@@ -103,7 +103,7 @@ components:
       - img_alt: Please type in a description of the image
         img: /img/IMG_20210512_085514_601.jpg
       - img_alt: Please type in a description of the image
-        img: /img/lea_chanel_background-1-.jpg
+        img: /img/IMG_20210516_105457_636.jpg
       - img_alt: Please type in a description of the image
         img: /img/IMG_20210522_144401_138.jpg
   - type: divider
