@@ -36,118 +36,60 @@ components:
   - type: cards_third_img
     bg_color: lightgreen
     cards:
-<<<<<<< HEAD
-      - img: /img/lea_chanel_background-1-.jpg
-        aos: fade
-        cta_link: services/#facial_care
-        cta_select: true
-        img_alt: Please type in a description of the image
-        cta: See Details
-        desc: Lorem ipsum
-        aos_select: false
-        title: Facial Care
-      - img: /img/lea_chanel_background-1-.jpg
-        aos: fade-up
-        cta_link: services/#hand_care
-        cta_select: true
-        img_alt: Please type in a description of the image
-        cta: See Details
-        desc: Lorem Ipsum
-        aos_select: false
-        title: Hand Care
-      - img: /img/lea_chanel_background-1-.jpg
-        aos: fade-up
-        cta_link: services/#foot_care
-        cta_select: true
-        img_alt: Please type in a description of the image
-        cta: See Details
-        desc: Lorem Ipsum
-        aos_select: false
-        title: Foot Care
-      - img: /img/lea_chanel_background-1-.jpg
-        aos: fade-up
-        cta_link: services/#hair_removal
-        cta_select: true
-        img_alt: Please type in a description of the image
-        cta: See Details
-        desc: Lorem Ipsum
-        aos_select: false
-        title: Hair Removal
-      - img: /img/lea_chanel_background-1-.jpg
-        aos: fade-up
-        cta_link: services/#make_up
-        cta_select: true
-        img_alt: Please type in a description of the image
-        cta: See Details
-        desc: Lorem Ipsum
-        aos_select: false
-        title: Make-Up
-      - img: /img/lea_chanel_background-1-.jpg
-=======
       - img_alt: Please type in a description of the image
-        cta: Call To Action
-        cta_link: contact/
+        cta: See Details
+        cta_link: services/#facial_care
         title: Facial Care
         desc: Hydrate, refresh, stimulate. Treat your face right with personalized care
           based on your skin's needs. Gentle, effective, and safe for sensitive
           skin.
-        aos_select: true
+        aos: fade
+        img: /img/lea_chanel_background-1-.jpg
+        cta_select: false
+      - img_alt: Please type in a description of the image
+        cta: See Details
+        cta_link: services/#hand_care
+        title: Hand Care
+        desc: Give your hands some well deserved attention. Rejuvenate your nails and
+          show off your relaxing treatment with an artistic splash of colour.
+        aos: fade
+        img: /img/lea_chanel_background-1-.jpg
+        cta_select: false
+      - img_alt: Please type in a description of the image
+        cta: See Details
+        cta_link: services/#foot_care
+        title: Foot Care
+        desc: Decompress and enjoy a foot soak, scrub, and revitalizing nail treatment.
+          Conclude your session with a stunning polish application.
+        aos: fade
+        img: /img/lea_chanel_background-1-.jpg
+        cta_select: false
+      - img_alt: Please type in a description of the image
+        cta: Call To Action
+        cta_link: services/#hair_removal
+        title: Hair Removal
+        desc: Say goodbye to unwanted hair anywhere and everywhere. Enjoy a soothing
+          post-wax cream, calming the skin and ensuring no sticky residue.
         aos: fade
         img: /img/lea_chanel_background-1-.jpg
       - img_alt: Please type in a description of the image
         cta: Call To Action
-        cta_link: contact/
-        title: Hand Care
-        desc: Give your hands some well deserved attention. Rejuvenate your nails and
-          show off your relaxing treatment with an artistic splash of colour.
-        aos_select: true
-        aos: fade-up
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        cta: Call To Action
-        cta_link: contact/
-        title: Foot Care
-        desc: "Decompress and enjoy a foot soak, scrub, and revitalizing nail treatment.
-          Conclude your session with a stunning polish application.  "
-        aos_select: true
-        aos: fade-up
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        cta: Call To Action
-        cta_link: contact/
-        title: Hair Removal
-        desc: "Say goodbye to unwanted hair anywhere and everywhere. Enjoy a soothing
-          post-wax cream, calming the skin and ensuring no sticky residue. "
-        aos_select: true
-        aos: fade-up
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        cta: Call To Action
-        cta_link: contact/
+        cta_link: services/#make_up
         title: Make-Up
         desc: If you're looking for efficient professional make-up application for your
           wedding, prom, graduation, or any other special event, I am here to
           help you shine on your big day.
-        aos_select: true
-        aos: fade-up
+        aos: fade
         img: /img/lea_chanel_background-1-.jpg
       - img_alt: Please type in a description of the image
         cta: Call To Action
-        cta_link: contact/
-        title: Men's Services
-        desc: "Pursuing healthy skin, hands, and feet is for everyone. Invest in your
-          health with a manicure or pedicure. Check out my Services for hair
-          removal options. "
-        aos_select: true
->>>>>>> 340eebad1959f64aa38c1642a59722b5681a41b4
-        aos: fade-up
         cta_link: services/#men_care
-        cta_select: true
-        img_alt: Please type in a description of the image
-        cta: See Details
-        desc: Lorem Ipsum
-        aos_select: false
         title: Men's Services
+        desc: Pursuing healthy skin, hands, and feet is for everyone. Invest in your
+          health with a manicure or pedicure. Check out my services page for
+          hair removal options.
+        aos: fade
+        img: /img/lea_chanel_background-1-.jpg
   - type: divider
     bg_color: lightgreen
   - type: gallery

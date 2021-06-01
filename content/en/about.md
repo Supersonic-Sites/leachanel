@@ -40,46 +40,46 @@ components:
     bg_color: lightgreen
     cards:
       - divider_select: true
-        title_select: true
-        subtitle_select: false
+        title_select: false
+        subtitle_select: true
         aos: fade
-        title_size: medium
+        title_size: small
         cta_link: none
         cta: none
         desc: "Léa is dedicated to delivering results. She can tell you the WHY behind
           certain skincare issues and commits to guide you in your journey
           towards a healthier lifestyle. "
-        subtitle: lorem
+        subtitle: Specialized Knowledge
         title: Specialized Knowledge
         shadow_select: true
         title_color: black
         divider_color: primary
       - divider_select: true
-        title_select: true
-        subtitle_select: false
+        title_select: false
+        subtitle_select: true
         aos: fade
-        title_size: medium
+        title_size: small
         cta_link: none
         cta: none
         desc: If you have any questions about the services or scheduling, don't hesitate
           to ask. Léa prioritizes a fast response time and looks forward to
           hearing from you.
-        subtitle: Ipsum
+        subtitle: Quick Response Time
         title: Quick Response Time
         shadow_select: true
         title_color: black
         divider_color: primary
       - divider_select: true
-        title_select: true
-        subtitle_select: false
+        title_select: false
+        subtitle_select: true
         aos: fade
-        title_size: medium
+        title_size: small
         cta_link: none
         cta: none
         desc: Léa is devoted to beauty but also to health. Personalizing each treatment,
           she only uses quality, updated, natural products, including essential
           oils, that will deliver radiant results.
-        subtitle: Ipsum
+        subtitle: All Natural Products
         title: All Natural Products
         shadow_select: true
         title_color: black
