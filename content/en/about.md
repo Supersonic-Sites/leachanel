@@ -22,7 +22,7 @@ components:
       It's what I love about my job."<br><br>
 
 
-      When Léa graduated as an esthetician and Valedictorian of her class, she realized a dream that began at 14 years old. Coming from a family of artists, she was always interested in beauty, art, fashion, and make-up. Eventually, that past-time developed into a passion for not only the artistic side of cosmetology but also the health and well-being aspect as well.<br><br>
+      When Léa graduated as an esthetician and Valedictorian of her class, she realized a dream that began at 14 years old. Coming from a family of artists, she was always interested in beauty, art, fashion, and make-up. Eventually, that past-time developed into a passion for not only the artistic side of esthetics but also the health and well-being aspect as well.<br><br>
 
 
       Léa is fascinated by the WHY behind the treatments and brings her extensive expertise to every client interaction. She is dedicated to problem solving and finding real solutions for skincare treatments. Because the skincare industry is always changing, she uses her love of learning to ensure that she stays informed with the latest products and treatments.<br><br>
