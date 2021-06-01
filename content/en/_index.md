@@ -52,7 +52,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Foot Care
-        desc: Lorem Ipsum
+        desc: "Decompress and enjoy a foot soak, scrub, and revitalizing nail treatment.
+          Conclude your session with a stunning polish application.  "
         aos_select: true
         aos: fade-up
         img: /img/lea_chanel_background-1-.jpg
