@@ -76,7 +76,7 @@ components:
         title_size: medium
         cta_link: none
         cta: none
-        desc: Léa is dedicated to beauty but also to health. She only uses quality,
+        desc: Léa is devoted to beauty but also to health. She only uses quality,
           updated, natural products, including essential oils, that will deliver
           radiant results.
         subtitle: Ipsum
