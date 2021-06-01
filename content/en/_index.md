@@ -35,7 +35,7 @@ components:
         title: Facial Care
         desc: Hydrate, refresh, stimulate. Treat your face right with personalized care
           based on your skin's needs. Gentle, effective, and safe for sensitive
-          skin. Lorem ipsum
+          skin.
         aos_select: true
         aos: fade
         img: /img/lea_chanel_background-1-.jpg
