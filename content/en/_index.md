@@ -43,7 +43,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Hand Care
-        desc: Lorem Ipsum
+        desc: Give your hands some well deserved attention. Rejuvenate your nails and
+          show off your relaxing treatment with an artistic splash of colour.
         aos_select: true
         aos: fade-up
         img: /img/lea_chanel_background-1-.jpg
