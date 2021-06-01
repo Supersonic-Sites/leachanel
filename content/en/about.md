@@ -41,14 +41,16 @@ components:
     cards:
       - divider_select: true
         title_select: true
-        subtitle_select: true
+        subtitle_select: false
         aos: fade
         title_size: medium
         cta_link: none
         cta: none
-        desc: description
-        subtitle: Ipsum
-        title: Lorem
+        desc: "Léa is dedicated to delivering results. She can tell you the WHY behind
+          certain skincare issues and commits to guide you in your journey
+          towards a healthier lifestyle. "
+        subtitle: lorem
+        title: Specialized Knowledge
         shadow_select: true
         title_color: black
         divider_color: primary
