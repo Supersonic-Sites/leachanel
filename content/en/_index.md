@@ -44,7 +44,7 @@ components:
           based on your skin's needs. Gentle, effective, and safe for sensitive
           skin.
         aos: fade
-        img: /img/lea_chanel_background-1-.jpg
+        img: /img/img_20210506_173226_114.jpg
         cta_select: false
       - img_alt: Please type in a description of the image
         cta: See Details
@@ -53,7 +53,7 @@ components:
         desc: Give your hands some well deserved attention. Rejuvenate your nails and
           show off your relaxing treatment with an artistic splash of colour.
         aos: fade
-        img: /img/lea_chanel_background-1-.jpg
+        img: /img/img_20210407_204015_078-1-.jpg
         cta_select: false
       - img_alt: Please type in a description of the image
         cta: See Details
@@ -62,7 +62,7 @@ components:
         desc: Decompress and enjoy a foot soak, scrub, and revitalizing nail treatment.
           Conclude your session with a stunning polish application.
         aos: fade
-        img: /img/lea_chanel_background-1-.jpg
+        img: /img/billie-5oxe3kjdefi-unsplash.jpg
         cta_select: false
       - img_alt: Please type in a description of the image
         cta: Call To Action
@@ -71,7 +71,7 @@ components:
         desc: Say goodbye to unwanted hair anywhere and everywhere. Enjoy a soothing
           post-wax cream, calming the skin and ensuring no sticky residue.
         aos: fade
-        img: /img/lea_chanel_background-1-.jpg
+        img: /img/how-soon-ngu-7vz3dtqdt3q-unsplash.jpg
       - img_alt: Please type in a description of the image
         cta: Call To Action
         cta_link: services/#make_up
@@ -80,7 +80,7 @@ components:
           wedding, prom, graduation, or any other special event, I am here to
           help you shine on your big day.
         aos: fade
-        img: /img/lea_chanel_background-1-.jpg
+        img: /img/IMG_20210528_165713_154.jpg
       - img_alt: Please type in a description of the image
         cta: Call To Action
         cta_link: services/#men_care
@@ -89,7 +89,7 @@ components:
           health with a manicure or pedicure. Check out my services page for
           hair removal options.
         aos: fade
-        img: /img/lea_chanel_background-1-.jpg
+        img: /img/alex-sheldon-j1wrsuj5qi0-unsplash.jpg
   - type: divider
     bg_color: lightgreen
   - type: gallery

@@ -14,7 +14,7 @@ components:
   - type: gallery_lightbox
     images:
       - img_alt: Please type in a description of the image
-        img: /img/lea_chanel_oggraph.jpg
+        img: /img/img_20210506_203006_068.jpg
       - img_alt: Please type in a description of the image
         img: /img/lea_chanel_background-1-.jpg
       - img_alt: Please type in a description of the image
