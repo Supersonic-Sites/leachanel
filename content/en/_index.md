@@ -77,8 +77,9 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Make-Up
-        desc: If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day.
+        desc: If you're looking for efficient professional make-up application for your
+          wedding, prom, graduation, or any other special event, I am here to
+          help you shine on your big day.
         aos_select: true
         aos: fade-up
         img: /img/lea_chanel_background-1-.jpg
