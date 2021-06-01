@@ -29,54 +29,60 @@ components:
   - type: cards_third_img
     bg_color: lightgreen
     cards:
-      - img_alt: Please type in a description of the image
-        cta: Call To Action
-        cta_link: contact/
-        title: Facial Care
-        desc: Lorem ipsum
-        aos_select: true
+      - img: /img/lea_chanel_background-1-.jpg
         aos: fade
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        cta: Call To Action
-        cta_link: contact/
+        cta_link: services/#facial_care
+        cta_select: true
+        img_alt: Please type in a description of the image
+        cta: See Details
+        desc: Lorem ipsum
+        aos_select: false
+        title: Facial Care
+      - img: /img/lea_chanel_background-1-.jpg
+        aos: fade-up
+        cta_link: services/#hand_care
+        cta_select: true
+        img_alt: Please type in a description of the image
+        cta: See Details
+        desc: Lorem Ipsum
+        aos_select: false
         title: Hand Care
-        desc: Lorem Ipsum
-        aos_select: true
+      - img: /img/lea_chanel_background-1-.jpg
         aos: fade-up
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        cta: Call To Action
-        cta_link: contact/
+        cta_link: services/#foot_care
+        cta_select: true
+        img_alt: Please type in a description of the image
+        cta: See Details
+        desc: Lorem Ipsum
+        aos_select: false
         title: Foot Care
-        desc: Lorem Ipsum
-        aos_select: true
+      - img: /img/lea_chanel_background-1-.jpg
         aos: fade-up
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        cta: Call To Action
-        cta_link: contact/
+        cta_link: services/#hair_removal
+        cta_select: true
+        img_alt: Please type in a description of the image
+        cta: See Details
+        desc: Lorem Ipsum
+        aos_select: false
         title: Hair Removal
-        desc: Lorem Ipsum
-        aos_select: true
+      - img: /img/lea_chanel_background-1-.jpg
         aos: fade-up
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        cta: Call To Action
-        cta_link: contact/
+        cta_link: services/#make_up
+        cta_select: true
+        img_alt: Please type in a description of the image
+        cta: See Details
+        desc: Lorem Ipsum
+        aos_select: false
         title: Make-Up
-        desc: Lorem Ipsum
-        aos_select: true
+      - img: /img/lea_chanel_background-1-.jpg
         aos: fade-up
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        cta: Call To Action
-        cta_link: contact/
+        cta_link: services/#men_care
+        cta_select: true
+        img_alt: Please type in a description of the image
+        cta: See Details
+        desc: Lorem Ipsum
+        aos_select: false
         title: Men's Services
-        desc: Lorem Ipsum
-        aos_select: true
-        aos: fade-up
-        img: /img/lea_chanel_background-1-.jpg
   - type: divider
     bg_color: lightgreen
   - type: gallery
@@ -154,7 +160,7 @@ components:
     cta: Send
     desc: Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa
       dictumst amet. Sapien tortor lacus arcu.
-    usebasin: "https://usebasin.com/f/d4be518d3691"
+    usebasin: https://usebasin.com/f/d4be518d3691
     title: Get In Touch
     type: contact
     email: support@example.com

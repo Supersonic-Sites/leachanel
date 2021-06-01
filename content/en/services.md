@@ -28,6 +28,7 @@ components:
     service: Express Glow Facial
     title: Facial Care
     type: img_half_right_toggle
+    id: facial_care
   - type: divider2x
     bg_color: lightgreen
   - img: /img/lea_chanel_background-1-.jpg
@@ -48,6 +49,7 @@ components:
     service: Express Glow Facial
     title: Facial Care
     type: img_half_right_toggle
+    id: hand_care
   - type: divider2x
     bg_color: lightgreen
   - img: /img/lea_chanel_background-1-.jpg
@@ -68,6 +70,7 @@ components:
     service: Express Glow Facial
     title: Facial Care
     type: img_half_right_toggle
+    id: foot_care
   - type: divider2x
     bg_color: lightgreen
   - img: /img/lea_chanel_background-1-.jpg
@@ -88,6 +91,7 @@ components:
     service: Express Glow Facial
     title: Facial Care
     type: img_half_right_toggle
+    id: hair_removal
   - type: divider2x
     bg_color: lightgreen
   - img: /img/lea_chanel_background-1-.jpg
@@ -108,6 +112,7 @@ components:
     service: Express Glow Facial
     title: Facial Care
     type: img_half_right_toggle
+    id: make_up
   - type: divider2x
     bg_color: lightgreen
   - img: /img/lea_chanel_background-1-.jpg
@@ -128,6 +133,7 @@ components:
     service: Express Glow Facial
     title: Facial Care
     type: img_half_right_toggle
+    id: men_care
   - type: divider2x
     bg_color: lightgreen
 ---
