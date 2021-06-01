@@ -25,10 +25,12 @@ components:
     desc_select: true
     desc: "A healthy lifestyle often takes just a few changes. Investing in your
       skincare is one of them. Whether you're looking for a relaxing spa outing
-      or reoccurring treatments, from your head to your feet, Léa Chanel Beauty
-      is here for you. It's never too early, or late, to begin. Enjoy
-      professional one-on-one care and noticeable results in the comfort of a
-      private home care salon. "
+      or reoccurring treatments, Léa Chanel Beauty is here for you. It's never
+      too early, or late, to begin. Enjoy professional one-on-one care,
+      treatments with high end natural products, and real, noticeable results in
+      the comfort of a private home care salon. Léa's knowledge and expertise
+      will help you understand the WHY behind the care as you journey towards a
+      healthier life. "
   - type: divider
     bg_color: lightgreen
   - type: cards_third_img
