@@ -40,10 +40,6 @@ components:
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
     service_list:
-      - service: GEL Manicure
-        desc: "<strong>Duration: 1 hour</strong><br>Filing, shaping, buffing of nails.
-          Cuticle removal, gel nail polish application, followed by gentle,
-          hydrating massage. (No nail extensions)"
       - service: Manicure Express/Polish Change
         desc: "<strong>Duration: 30 minutes</strong><br>Filing, shaping, & buffing of
           nails. Cream hydration application, followed by meticulous polish
@@ -53,6 +49,14 @@ components:
           buffing of nails. Soak, if needed, cuticle removal. All-natural hand
           scrub, relaxation massage, & 10 minute revitalizing mask application.
           Finished off by meticulous polish application."
+      - service: Polish Color Change Only
+        desc: "<strong>Duration: 30 minutes</strong><br>Removal of old nail-polish.
+          Filing & buffing if necessary, followed by meticulous polish
+          application."
+      - service: GEL Manicure
+        desc: "<strong>Duration: 1 hour</strong><br>Filing, shaping, buffing of nails.
+          Cuticle removal, gel nail polish application, followed by gentle,
+          hydrating massage. (No nail extensions)"
       - service: GEL Relaxation Spa Treatment Manicure
         desc: >-
           <strong>Duration: 30 minutes</strong><br>
@@ -68,19 +72,15 @@ components:
           <strong>Duration: 1 hour</strong><br>
 
           Gel soak-off removal. Filing, shaping, & buffing of nails. Clean up. Gel polish application followed by hydration cream & cuticle oil.
-      - service: Polish Color Change Only
-        desc: "<strong>Duration: 30 minutes</strong><br>Removal of old nail-polish.
-          Filing & buffing if necessary, followed by meticulous polish
-          application."
-      - service: Mani & Pedi Combo
-        desc: |-
-          <strong>Duration: 2 hours</strong><br>
-          Get a regular manicure & pedicure combination for $70.00
       - service: GEL Mani + Pedicure Combo
         desc: >-
           <strong>Duration: 2 hours 15 minutes</strong><br>
 
           Save some money by booking a *classic pedicure* paired with a gel/shellac manicure to receive the combo price.
+      - service: Mani & Pedi Combo
+        desc: |-
+          <strong>Duration: 2 hours</strong><br>
+          Get a regular manicure & pedicure combination for $70.00
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
@@ -101,6 +101,30 @@ components:
       - service: How to you make holy water?
         desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
           adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: Mani & Pedi Combo
+        desc: |-
+          <strong>Duration: 2 hours</strong><br>
+          Get a regular manicure & pedicure combination for $70.00
+      - service: GEL Mani + Pedicure Combo
+        desc: >-
+          <strong>Duration: 2 hours 15 minutes</strong><br>
+
+          Save some money by booking a *classic pedicure* paired with a gel/shellac manicure to receive the combo price.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
@@ -109,9 +133,9 @@ components:
     desc: >-
       <strong>Duration: 1 hour</strong><br>
 
-      Good for ALL skin types. In the Express Glow Facial, we'll be focusing on a deep clean, exfoliation, & hydratation for the skin resulting in an even glow. Quick extractions if necessary. No massage included. Effective, gentle, and safe for sensitive skin. Also safe for PREGNANT women.
-    service: Express Glow Facial
-    title: Facial Care
+      Bubble & blue salt bath soak. File, shape, & buffing of nails. Light buffing off the dead skin/callous build-up. Cuticle melt & removal. Hydration cream application (no massage included), followed by meticulous polish application. Bring flip flops!
+    service: Pedicure Express
+    title: Foot Care
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
