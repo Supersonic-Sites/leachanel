@@ -77,7 +77,8 @@ components:
         cta: Call To Action
         cta_link: contact/
         title: Make-Up
-        desc: Lorem Ipsum
+        desc: If you are looking for a calming, cheerful personality, and efficient,
+          high-quality makeup application, I am the MUA for your special day.
         aos_select: true
         aos: fade-up
         img: /img/lea_chanel_background-1-.jpg
