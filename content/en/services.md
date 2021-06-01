@@ -208,19 +208,28 @@ components:
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
     service_list:
-      - service: How to you make holy water?
-        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: Prom Make-up
+        desc: "If you are looking for a calming, cheerful personality, and efficient,
+          high-quality makeup application, I am the MUA for your special day. "
+      - service: Graduation Make-up
+        desc: "If you are looking for a calming, cheerful personality, and efficient,
+          high-quality makeup application, I am the MUA for your special day. "
+      - service: Special Events
+        desc: "If you are looking for a calming, cheerful personality, and efficient,
+          high-quality makeup application, I am the MUA for your special day. "
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
     img_alt: Please type in a description of the image
     cta: See Pricing
     desc: >-
-      <strong>Duration: 1 hour</strong><br>
+      My goal is to set a certain mood of relaxation, building confidence for
+      the bride, and a joyful atmosphere of anticipation for the big day. Cheers
+      to you!  For just the bride alone, the cost for full makeup application is
+      $100.<br><b>
 
-      Good for ALL skin types. In the Express Glow Facial, we'll be focusing on a deep clean, exfoliation, & hydratation for the skin resulting in an even glow. Quick extractions if necessary. No massage included. Effective, gentle, and safe for sensitive skin. Also safe for PREGNANT women.
-    service: Express Glow Facial
+      For the bride plus at least one bridesmaid or more, the cost is $80 for the bride, and $70 per bridesmaid, and/or mother-of-the-bride's makeup. 
+    service: Wedding Make-up
     title: Make-Up
     type: img_half_right_toggle
   - type: divider2x
