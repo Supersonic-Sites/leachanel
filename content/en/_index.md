@@ -8,12 +8,12 @@ components:
     img: /img/lea_chanel_background-1-.jpg
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     cta: Schedule An Appointment
-    desc: Esthetician, make-up artist, skincare consultant, coffee lover
+    desc: Make healthy skin a way of life
     cta2_link: contact/
-    title: léa Chanel Beauty
+    title: Léa Chanel Beauty
     cta2_select: true
     type: hero
-    pre_title: Unplug & Reconnect
+    pre_title: Esthetic & Beauty Services
   - type: divider
     bg_color: lightgreen
   - type: heading_full
@@ -154,7 +154,7 @@ components:
     cta: Send
     desc: Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa
       dictumst amet. Sapien tortor lacus arcu.
-    usebasin: "https://usebasin.com/f/d4be518d3691"
+    usebasin: https://usebasin.com/f/d4be518d3691
     title: Get In Touch
     type: contact
     email: support@example.com
