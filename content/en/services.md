@@ -98,15 +98,19 @@ components:
   - img: /img/lea_chanel_background-1-.jpg
     aos: fade
     service_list:
-      - service: How to you make holy water?
-        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
-      - service: How to you make holy water?
-        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
-      - service: How to you make holy water?
-        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: Pedicure Classic
+        desc: >
+          <strong>Duration: 1 hour 15 minutes</strong><br>
+
+          Bubble & blue salt bath soak. File, shape, & buffing of nails. Ridha Cosmetiques callous melt treatment, followed by buffing off the dead skin/callous build-up. Cuticle melt & removal. Revitalizing foot & calf massage, followed by meticulous polish application. Bring flip flops!
+      - service: Pedicure Relaxation Spa Treatment
+        desc: "<strong>Duration: 1 hour 30 minutes</strong><br>Rose petal & floral bath
+          salt soak. File, shape, & buffing of nails. Ridha Cosmetiques callous
+          melt treatment, followed by buffing off the dead skin/callous
+          build-up. Cuticle melt & removal. Extra exfoliation by creamy scrub
+          and revitalizing foot & calf massage, followed by a refreshing
+          hydration mask, wrapped in hot towels. Last but not least, meticulous
+          polish application. Voila! Bring flip flops!"
       - service: Mani & Pedi Combo
         desc: |-
           <strong>Duration: 2 hours</strong><br>
@@ -116,15 +120,6 @@ components:
           <strong>Duration: 2 hours 15 minutes</strong><br>
 
           Save some money by booking a *classic pedicure* paired with a gel/shellac manicure to receive the combo price.
-      - service: How to you make holy water?
-        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
-      - service: How to you make holy water?
-        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
-      - service: How to you make holy water?
-        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
-          adipisicing elit. Quas cupiditate laboriosam fugiat.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
@@ -191,11 +186,11 @@ components:
     img_alt: Please type in a description of the image
     cta: See Pricing
     desc: >-
-      <strong>Duration: 1 hour</strong><br>
+      <strong>Duration: 45 minutes</strong><br>
 
-      Good for ALL skin types. In the Express Glow Facial, we'll be focusing on a deep clean, exfoliation, & hydratation for the skin resulting in an even glow. Quick extractions if necessary. No massage included. Effective, gentle, and safe for sensitive skin. Also safe for PREGNANT women.
-    service: Express Glow Facial
-    title: Facial Care
+      Bubble bath, blue salt soak. Clean, cut, and buff nails. Remove excess cuticle growth, and buff away callous/dry skin. Hydration cream application with massage.
+    service: Pedicure for Men
+    title: Men's Services
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
