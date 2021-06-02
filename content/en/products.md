@@ -14,7 +14,7 @@ components:
     id: none
     bg_color: lightgreen
     align: center
-    title: "Natural, Premium Products for All Types of Skin "
+    title: "Natural Products for All Types of Skin "
     title_size: medium
     desc_select: true
     desc: "Léa Chanel Beauty is proud to use and offer Nelly De Vuyst products,
