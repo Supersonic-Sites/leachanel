@@ -79,7 +79,7 @@ components:
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: Please type in a description of the image
+    img_alt: hand care and manicures
     cta: See Pricing
     desc: >-
       <strong>Duration: 45 minutes</strong><br>
@@ -119,7 +119,7 @@ components:
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: Please type in a description of the image
+    img_alt: foot care and pedicures
     cta: See Pricing
     desc: >-
       <strong>Duration: 1 hour</strong><br>
@@ -196,7 +196,7 @@ components:
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: Please type in a description of the image
+    img_alt: waxed legs
     cta: See Pricing
     desc: >-
       <strong>Duration: 20 minutes</strong><br>
@@ -223,7 +223,7 @@ components:
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: Please type in a description of the image
+    img_alt: make-up application
     cta: See Pricing
     desc: >-
       My goal is to set a certain mood of relaxation, building confidence for
@@ -264,7 +264,7 @@ components:
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: Please type in a description of the image
+    img_alt: men's esthetic services
     cta: See Pricing
     desc: >-
       <strong>Duration: 45 minutes</strong><br>
