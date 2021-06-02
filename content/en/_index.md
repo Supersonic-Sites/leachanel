@@ -1,8 +1,7 @@
 ---
 title: Home
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: "Professional esthetic and beauty services offered in a chic and
+  beautiful private home salon.  "
 components:
   - cta2: Contact Us
     img: /img/lea_chanel_background-1-.jpg
