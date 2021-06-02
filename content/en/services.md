@@ -1,8 +1,7 @@
 ---
 title: Esthetic Services
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: Esthetic and beauty services include facial treatments, hand and
+  foot care, hair removal, make-up services, and men's care.
 components:
   - type: header_sub
     bg_color: lightgreen
@@ -21,7 +20,7 @@ components:
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: Please type in a description of the image
+    img_alt: facial treatments
     cta: See Pricing
     desc: >-
       <strong>Duration: 1 hour</strong><br>
