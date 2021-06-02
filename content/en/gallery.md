@@ -19,7 +19,7 @@ components:
     desc: Health and beauty services don’t get better than this. Enjoy relaxing,
       effective one-on-one treatments from facial, hand, and foot care to
       stunning make-up application for any special occasion. Léa Chanel Beauty
-      is here for you
+      is here for you.
     desc_select: true
   - type: divider
     bg_color: lightgreen
