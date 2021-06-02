@@ -1,8 +1,7 @@
 ---
 title: About Léa Chanel
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: Léa Chanel is a professional esthetician and runs a private home
+  salon dedicated to health and beauty services.
 components:
   - type: header_sub
     bg_color: white
@@ -14,7 +13,7 @@ components:
     aos: fade
     cta_link: contact/
     bg_color: lightgreen
-    img_alt: Please type in a description of the image
+    img_alt: Léa headshot
     cta: Call To Action
     desc: >-
       "Many of my clients arrive stressed out or tired. It's so rewarding to see
