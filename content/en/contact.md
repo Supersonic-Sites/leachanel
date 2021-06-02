@@ -10,15 +10,15 @@ components:
     title: Contact Us
     bg_toggle: false
   - bg_color: lightgreen
-    phone: +1 (604) 874-1879
+    phone: +1 (438) 929-1556
     cta: "Send "
     desc: Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa
       dictumst amet. Sapien tortor lacus arcu.
     usebasin: https://usebasin.com/f/d4be518d3691
     title: Get In Touch
     type: contact
-    email: hello@supersonicsites.com
-    address1: 3622 Main Street
-    address2: Vancouver, BC
-    address_toggle: false
+    email: lea@leachanelbeauty.com
+    address1: 205 Chemin du Grand Quai
+    address2: Rigaud, QC J0P 1P0, Canada
+    address_toggle: true
 ---

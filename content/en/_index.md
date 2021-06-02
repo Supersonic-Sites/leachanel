@@ -163,15 +163,15 @@ components:
         image_toggle: true
         img: /img/testimonial4.jpg
   - bg_color: lightgreen
-    phone: +1 (555) 123-4567
+    phone: +1 (438) 929-1556
     cta: Send
     desc: Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa
       dictumst amet. Sapien tortor lacus arcu.
     usebasin: https://usebasin.com/f/d4be518d3691
     title: Get In Touch
     type: contact
-    email: support@example.com
-    address1: 742 Evergreen Terrace
-    address2: Springfield, OR 12345
+    email: lea@leachanelbeauty.com
+    address1: 205 Chemin du Grand Quai
+    address2: Rigaud, QC J0P 1P0, Canada
     address_toggle: true
 ---
