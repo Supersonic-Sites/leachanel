@@ -10,6 +10,16 @@ components:
     title: Gallery
   - type: divider
     bg_color: lightgreen
+  - type: heading_full
+    id: none
+    bg_color: lightgreen
+    align: center
+    title: Heading
+    title_size: medium
+    desc: Description
+    desc_select: true
+  - type: divider
+    bg_color: lightgreen
   - type: gallery_lightbox
     images:
       - img_alt: Bright white manicure

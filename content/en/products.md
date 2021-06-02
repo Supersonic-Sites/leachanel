@@ -10,6 +10,16 @@ components:
     title: Products
   - type: divider
     bg_color: lightgreen
+  - type: heading_full
+    id: none
+    bg_color: lightgreen
+    align: center
+    title: Heading
+    title_size: medium
+    desc_select: true
+    desc: Description
+  - type: divider
+    bg_color: lightgreen
   - type: gallery_lightbox
     images:
       - img_alt: Nelly De Vuyst - Cleansing Gel BioAcne -$48.00
