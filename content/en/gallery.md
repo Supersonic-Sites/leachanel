@@ -18,17 +18,17 @@ components:
         img: /img/img_20210511_091042_864.jpg
       - img_alt: Natural and fresh manicure
         img: /img/img_20210407_204015_078-1-.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: Make-up services
         img: /img/20157400_761628824025067_4473844401235338807_o.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: Bridal make-up
         img: /img/img_20210528_165713_154.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: Bridal beauty
         img: /img/rebekah-nathan-9652-1-.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: Home salon and spa
         img: /img/img_20210510_114928_821.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: Green chic comfort
         img: /img/img_20210506_203006_068.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: "Celebrating the natural and beautiful "
         img: /img/img_20210503_162940_896.jpg
   - type: divider
     bg_color: lightgreen
