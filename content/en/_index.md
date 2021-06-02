@@ -93,17 +93,17 @@ components:
     bg_color: lightgreen
   - type: gallery
     images:
-      - img_alt: Please type in a description of the image
+      - img_alt: home salon
         img: /img/home_gallery_1.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: manicure and coffee
         img: /img/home_gallery_2.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: beauty services
         img: /img/home_gallery_3.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: private spa
         img: /img/home_gallery_4.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: pedicure services
         img: /img/home_gallery_6.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: green salon
         img: /img/home_gallery_5.jpg
   - type: divider
     bg_color: lightgreen
