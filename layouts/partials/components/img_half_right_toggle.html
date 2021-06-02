@@ -18,7 +18,7 @@
                     <button type="button" x-description="Expand/collapse question button" 
                     class="text-left w-full flex justify-between items-start focus:outline-none" 
                     aria-controls="faq-0" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()">
-                      <span class=" text-2xl">
+                      <span class="text-xl md:text-2xl">
                         {{ .service }}
                       </span>
                       <span class="ml-6 h-7 flex items-center">
@@ -47,7 +47,7 @@
                   <button type="button" x-description="Expand/collapse question button" 
                   class="text-left w-full flex justify-between items-start  focus:outline-none" 
                   aria-controls="faq-0" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()">
-                    <span class="text-2xl">
+                    <span class="text-xl md:text-2xl">
                       {{ .service }}
                     </span>
                     <span class="ml-6 h-7 flex items-center">
