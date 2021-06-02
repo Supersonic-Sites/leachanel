@@ -76,7 +76,7 @@ components:
         cta_link: none
         cta: none
         desc: Léa is devoted to beauty but also to health. Personalizing each treatment,
-          she only uses quality, natural products, including essential oils,
+          she only uses quality, organic products, including essential oils,
           that will deliver radiant results.
         subtitle: All Natural Products
         title: All Natural Products
