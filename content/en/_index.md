@@ -35,7 +35,7 @@ components:
   - type: cards_third_img
     bg_color: lightgreen
     cards:
-      - img_alt: Please type in a description of the image
+      - img_alt: facial care
         cta: See Details
         cta_link: services/#facial_care
         title: Facial Care
@@ -45,7 +45,7 @@ components:
         aos: fade
         img: /img/home_facial.jpg
         cta_select: false
-      - img_alt: Please type in a description of the image
+      - img_alt: Hand and nail care
         cta: See Details
         cta_link: services/#hand_care
         title: Hand Care
@@ -54,7 +54,7 @@ components:
         aos: fade
         img: /img/home_hand_care.jpg
         cta_select: false
-      - img_alt: Please type in a description of the image
+      - img_alt: Food and nail care
         cta: See Details
         cta_link: services/#foot_care
         title: Foot Care
@@ -63,7 +63,7 @@ components:
         aos: fade
         img: /img/home_foot_care-1-.jpg
         cta_select: false
-      - img_alt: Please type in a description of the image
+      - img_alt: wax hair removal
         cta: Call To Action
         cta_link: services/#hair_removal
         title: Hair Removal
@@ -71,7 +71,7 @@ components:
           post-wax cream, calming the skin and ensuring no sticky residue.
         aos: fade
         img: /img/home_hair_removal-1-.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: make-up services
         cta: Call To Action
         cta_link: services/#make_up
         title: Make-Up
@@ -80,7 +80,7 @@ components:
           help you shine on your big day.
         aos: fade
         img: /img/home_makeup.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: men's esthetic services
         cta: Call To Action
         cta_link: services/#men_care
         title: Men's Services
