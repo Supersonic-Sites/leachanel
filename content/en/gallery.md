@@ -14,11 +14,23 @@ components:
   - type: gallery_lightbox
     images:
       - img_alt: Please type in a description of the image
+        img: /img/img_20210507_205142_729.jpg
+      - img_alt: Please type in a description of the image
+        img: /img/img_20210511_091042_864.jpg
+      - img_alt: Please type in a description of the image
+        img: /img/img_20210407_204015_078-1-.jpg
+      - img_alt: Please type in a description of the image
+        img: /img/20157400_761628824025067_4473844401235338807_o.jpg
+      - img_alt: Please type in a description of the image
+        img: /img/img_20210528_165713_154.jpg
+      - img_alt: Please type in a description of the image
+        img: /img/rebekah-nathan-9652-1-.jpg
+      - img_alt: Please type in a description of the image
+        img: /img/img_20210510_114928_821.jpg
+      - img_alt: Please type in a description of the image
         img: /img/img_20210506_203006_068.jpg
       - img_alt: Please type in a description of the image
-        img: /img/lea_chanel_background-1-.jpg
-      - img_alt: Please type in a description of the image
-        img: /img/lea_chanel_oggraph.jpg
+        img: /img/img_20210503_162940_896.jpg
   - type: divider
     bg_color: lightgreen
   - type: cta
