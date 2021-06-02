@@ -1,8 +1,7 @@
 ---
 title: Products
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: All natural, premium, safe, organic skincare products are used to
+  bring about effective, radiant results
 slug: products
 components:
   - type: header_sub
