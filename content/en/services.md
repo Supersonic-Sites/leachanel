@@ -10,7 +10,7 @@ components:
     title: Services
   - type: divider
     bg_color: lightgreen
-  - img: /img/lea_chanel_background-1-.jpg
+  - img: /img/service_facial_care.jpg
     aos: fade
     service_list:
       - service: Classic Target Facial
@@ -33,7 +33,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: hand_care
-  - img: /img/lea_chanel_background-1-.jpg
+  - img: /img/img_20180206_171643.jpg
     aos: fade
     service_list:
       - service: Manicure Express/Polish Change
@@ -92,7 +92,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: foot_care
-  - img: /img/lea_chanel_background-1-.jpg
+  - img: /img/how-soon-ngu-7vz3dtqdt3q-unsplash.jpg
     aos: fade
     service_list:
       - service: Pedicure Classic
@@ -129,11 +129,10 @@ components:
     service: Pedicure Express
     title: Foot Care
     type: img_half_right_toggle
-    
   - type: divider2x
     bg_color: lightgreen
     id: hair_removal
-  - img: /img/lea_chanel_background-1-.jpg
+  - img: /img/jose-hernandez-uribe-aq6d5cimeb0-unsplash.jpg
     aos: fade
     service_list:
       - service: Eyebrow Shaping Wax
@@ -210,7 +209,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: make_up
-  - img: /img/lea_chanel_background-1-.jpg
+  - img: /img/20157400_761628824025067_4473844401235338807_o.jpg
     aos: fade
     service_list:
       - service: Prom Make-Up
@@ -240,7 +239,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: men_care
-  - img: /img/lea_chanel_background-1-.jpg
+  - img: /img/fred-moon-vsi2kni4abc-unsplash.jpg
     aos: fade
     service_list:
       - service: Manicure for Men
