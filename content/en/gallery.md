@@ -14,7 +14,8 @@ components:
     id: none
     bg_color: lightgreen
     align: center
-    title: Heading
+    title: Professional Care. Private Home Salon.<br>Health & Beauty Services Have
+      Never Been Better
     title_size: medium
     desc: Description
     desc_select: true
