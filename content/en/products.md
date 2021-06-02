@@ -14,10 +14,13 @@ components:
     id: none
     bg_color: lightgreen
     align: center
-    title: Heading
+    title: "All Natural, Effective Skin Care Products for All Types of Skin "
     title_size: medium
     desc_select: true
-    desc: Description
+    desc: "Léa Chanel Beauty is proud to use and offer Nelly De Vuyst products,
+      designed for innovative, premium, organic skin care. Laboratory certified
+      according to the highest industry standards, these products will transform
+      your skin routine with radiant results. "
   - type: divider
     bg_color: lightgreen
   - type: gallery_lightbox
