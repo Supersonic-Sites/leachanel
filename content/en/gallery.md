@@ -1,8 +1,7 @@
 ---
 title: Photo Gallery of Léa Chanel Beauty
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: "Relax and enjoy a wide variety of esthetic and beauty services in
+  a professional private home salon. "
 slug: gallery
 components:
   - type: header_sub
@@ -13,11 +12,11 @@ components:
     bg_color: lightgreen
   - type: gallery_lightbox
     images:
-      - img_alt: Please type in a description of the image
+      - img_alt: Bright white manicure
         img: /img/img_20210507_205142_729.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: Manicure with a pop of baby blue
         img: /img/img_20210511_091042_864.jpg
-      - img_alt: Please type in a description of the image
+      - img_alt: Natural and fresh manicure
         img: /img/img_20210407_204015_078-1-.jpg
       - img_alt: Please type in a description of the image
         img: /img/20157400_761628824025067_4473844401235338807_o.jpg
