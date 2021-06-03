@@ -213,11 +213,15 @@ components:
     aos: fade
     service_list:
       - service: Prom Makeup
-        desc: "If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day. "
+        desc: If you are looking for a calming, cheerful personality, and efficient,
+          high-quality makeup application, I am the MUA for your special day. My
+          goal is to set a relaxing mood, and make you feel and look like a
+          queen.
       - service: Graduation Makeup
-        desc: "If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day. "
+        desc: If you are looking for a calming, cheerful personality, and efficient,
+          high-quality makeup application, I am the MUA for your special day.
+          You will look like the sophisticated, successful woman that you are.
+          Congratulations. Let's do this!
       - service: Special Events
         desc: "If you are looking for a calming, cheerful personality, and efficient,
           high-quality makeup application, I am the MUA for your special day. "
