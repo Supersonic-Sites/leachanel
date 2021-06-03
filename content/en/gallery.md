@@ -18,8 +18,8 @@ components:
     title_size: medium
     desc: Health and beauty services don’t get better than this. Enjoy relaxing,
       effective one-on-one treatments from facial, hand, and foot care to
-      stunning make-up application for any special occasion. Léa Chanel Beauty
-      is here for you.
+      stunning makeup application for any special occasion. Léa Chanel Beauty is
+      here for you.
     desc_select: true
   - type: divider
     bg_color: lightgreen
@@ -33,7 +33,7 @@ components:
         img: /img/img_20210407_204015_078-1-.jpg
       - img_alt: Make-up services
         img: /img/20157400_761628824025067_4473844401235338807_o.jpg
-      - img_alt: Bridal make-up
+      - img_alt: Bridal makeup
         img: /img/img_20210528_165713_154.jpg
       - img_alt: Bridal beauty
         img: /img/rebekah-nathan-9652-1-.jpg
