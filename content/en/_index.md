@@ -7,7 +7,7 @@ components:
     img: /img/lea_chanel_background-1-.jpg
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     cta: Schedule An Appointment
-    desc: "Make-up artist. Esthetician. Skincare consultant. Coffee Lover. "
+    desc: "Makeup artist. Esthetician. Skincare consultant. Coffee Lover. "
     cta2_link: contact/
     title: Léa Chanel Beauty
     cta2_select: true
