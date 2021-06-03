@@ -74,8 +74,8 @@ components:
       - img_alt: make-up services
         cta: Call To Action
         cta_link: services/#make_up
-        title: Make-Up
-        desc: If you're looking for efficient professional make-up application for your
+        title: Makeup
+        desc: If you're looking for efficient professional makeup application for your
           wedding, prom, graduation, or any other special event, I am here to
           help you shine on your big day.
         aos: fade
