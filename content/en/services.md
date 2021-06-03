@@ -168,12 +168,13 @@ components:
       - service: Half Legs Wax (Lower or Upper)
         desc: '<strong>Duration: 45 minutes</strong><br>Waxing of lower or upper half
           legs, using warm cream wax. Soothing post-wax cream ensures calming of
-          the skin and no leftover stickiness. *Add on "Basic Bikini Wax" for
-          only $10 more.'
+          the skin and no leftover stickiness. *Add on "Basic Bikini Wax" for a
+          discounted price.'
       - service: Full Leg Wax
         desc: '<strong>Duration: 45 minutes</strong><br>Waxing of full leg, using warm
           cream wax. Soothing post-wax cream ensures calming of the skin and no
-          leftover stickiness. *Add on "Basic Bikini Wax" for only $10 more.'
+          leftover stickiness. *Add on "Basic Bikini Wax" for a discounted
+          price.'
       - service: Basic Bikini Wax
         desc: "<strong>Duration: 20 minutes</strong><br>Warm cream wax and/or hot honey
           wax. Waxing of hair surrounding bikini line only. Soothing post-wax
