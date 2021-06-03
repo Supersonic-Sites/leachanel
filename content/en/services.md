@@ -1,7 +1,7 @@
 ---
 title: Esthetic Services
 description: Esthetic and beauty services include facial treatments, hand and
-  foot care, hair removal, make-up services, and men's care.
+  foot care, hair removal, makeup services, and men's care.
 components:
   - type: header_sub
     bg_color: lightgreen
@@ -61,7 +61,7 @@ components:
         desc: >-
           <strong>Duration: 15 minutes</strong><br>
 
-          Acetone soak-off. Buff/file nails. Replenish with hydration. Gel removals are included FREE when followed with a Gel Manicure or Gel Polish Change. Otherwise, alone, $10.
+          Acetone soak-off. Buff/file nails. Replenish with hydration. Gel removals are included FREE when followed with a Gel Manicure or Gel Polish Change. 
       - service: GEL Polish Change Only
         desc: >-
           <strong>Duration: 1 hour</strong><br>
@@ -75,7 +75,7 @@ components:
       - service: Mani & Pedi Combo
         desc: |-
           <strong>Duration: 2 hours</strong><br>
-          Get a regular manicure & pedicure combination for $70.00
+          Get a regular manicure & pedicure combination.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
@@ -110,7 +110,7 @@ components:
       - service: Mani & Pedi Combo
         desc: |-
           <strong>Duration: 2 hours</strong><br>
-          Get a regular manicure & pedicure combination for $70.00
+          Get a regular manicure & pedicure combination.
       - service: GEL Mani + Pedicure Combo
         desc: >-
           <strong>Duration: 2 hours 15 minutes</strong><br>
