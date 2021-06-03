@@ -17,10 +17,13 @@ components:
     title: "Natural Products for All Types of Skin "
     title_size: medium
     desc_select: true
-    desc: "Léa Chanel Beauty is proud to use and offer Nelly De Vuyst products,
-      designed for innovative, premium, organic skin care. Laboratory certified
-      according to the highest industry standards, these products will transform
-      your skin routine with radiant results. "
+    desc: "Léa Chanel Beauty is proud to use and offer Nelly De Vuyst and Druide
+      products, designed for innovative, premium, organic skin care. Although
+      Nelly De Vuyst products were born in Brussels, the ingredients are hand
+      picked from around the world and the final blends are produced locally
+      here in Quebec, Canada. Laboratory GMP certified according to the highest
+      industry standards, these products will transform your skin routine with
+      radiant results. "
   - type: divider
     bg_color: lightgreen
   - type: gallery_lightbox
