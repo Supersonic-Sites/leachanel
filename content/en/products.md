@@ -18,7 +18,7 @@ components:
     title_size: medium
     desc_select: true
     desc: "Léa Chanel Beauty is proud to use and offer Nelly De Vuyst and Druide
-      products, designed for innovative, premium, organic skin care. Although
+      products, designed for innovative, premium, organic skincare. Although
       Nelly De Vuyst products were born in Brussels, the ingredients are hand
       picked from around the world and the final blends are produced locally
       here in Quebec, Canada. Laboratory GMP certified according to the highest
