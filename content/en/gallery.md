@@ -31,7 +31,7 @@ components:
         img: /img/img_20210511_091042_864.jpg
       - img_alt: Natural and fresh manicure
         img: /img/img_20210407_204015_078-1-.jpg
-      - img_alt: Make-up services
+      - img_alt: Makeup services
         img: /img/20157400_761628824025067_4473844401235338807_o.jpg
       - img_alt: Bridal makeup
         img: /img/img_20210528_165713_154.jpg
