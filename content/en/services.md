@@ -231,7 +231,7 @@ components:
       the bride, and a joyful atmosphere of anticipation for the big day. Cheers
       to you! <br><br>
 
-      I offer makeup applications for the bride as well as bridesmaid(s) and the mother-of-the-bride.
+      I offer makeup applications for the bride as well as for bridesmaids and the mother-of-the-bride.
     service: Wedding Makeup
     title: Makeup
     type: img_half_right_toggle
