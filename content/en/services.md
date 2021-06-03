@@ -212,10 +212,10 @@ components:
   - img: /img/20157400_761628824025067_4473844401235338807_o.jpg
     aos: fade
     service_list:
-      - service: Prom Make-Up
+      - service: Prom Makeup
         desc: "If you are looking for a calming, cheerful personality, and efficient,
           high-quality makeup application, I am the MUA for your special day. "
-      - service: Graduation Make-Up
+      - service: Graduation Makeup
         desc: "If you are looking for a calming, cheerful personality, and efficient,
           high-quality makeup application, I am the MUA for your special day. "
       - service: Special Events
@@ -224,17 +224,16 @@ components:
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: make-up application
+    img_alt: makeup application
     cta: See Pricing
     desc: >-
       My goal is to set a certain mood of relaxation, building confidence for
       the bride, and a joyful atmosphere of anticipation for the big day. Cheers
-      to you!  For just the bride alone, the cost for full makeup application is
-      $100.<br><br>
+      to you! <br><br>
 
-      For the bride plus at least one bridesmaid or more, the cost is $80 for the bride, and $70 per bridesmaid, and/or mother-of-the-bride's makeup. 
-    service: Wedding Make-Up
-    title: Make-Up
+      I offer makeup applications for the bride as well as bridesmaid(s) and the mother-of-the-bride.
+    service: Wedding Makeup
+    title: Makeup
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
