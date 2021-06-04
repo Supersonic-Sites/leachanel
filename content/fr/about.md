@@ -1,9 +1,8 @@
 ---
 title: About Léa Chanel
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
-slug: a-propos/
+description: Léa Chanel is a professional esthetician and runs a private home
+  salon dedicated to health and beauty services.
+slug: a-propos
 components:
   - type: header_sub
     bg_color: white
@@ -15,19 +14,25 @@ components:
     aos: fade
     cta_link: contact/
     bg_color: lightgreen
-    img_alt: Please type in a description of the image
+    img_alt: Léa headshot
     cta: Call To Action
     desc: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae ex
-      lectus. Maecenas porttitor iaculis sem. Pellentesque ipsum diam, hendrerit
-      nec ante eu, sodales porta diam. Nulla aliquam lorem non lectus ultrices,
-      et varius libero sodales. Proin mattis quis velit quis elementum. Nulla
-      faucibus pulvinar nunc, ut condimentum arcu mattis nec. Vestibulum
-      ullamcorper laoreet tortor, sed luctus felis dapibus ac.
+      "Many of my clients arrive stressed out or tired. It's so rewarding to see
+      them relax during the session and leave more peaceful and rejuvenated.
+      It's what I love about my job."<br><br>
 
 
-      Proin consectetur dolor at dolor viverra malesuada tempor vitae massa. Fusce volutpat rhoncus luctus. Nulla eget dui euismod lorem fringilla mollis. Morbi suscipit mi sit amet fringilla sodales. Nullam tristique odio id magna cursus, ut fringilla velit mollis. Morbi ullamcorper pellentesque est, quis viverra eros tristique quis. Curabitur vel metus mattis, ultrices dolor eu, ultricies libero. Donec mollis iaculis ipsum non ornare. Mauris non orci ac tellus fringilla aliquam non ac nisl. Nulla efficitur, mauris ut commodo blandit, augue lectus fringilla orci, nec blandit eros elit id libero. Nam condimentum sapien eget nisl iaculis, vitae facilisis dolor rutrum. Sed pulvinar nisi ac commodo pharetra. In eget vestibulum massa. Phasellus vel condimentum sapien. Duis non enim nunc. Nulla sed consequat nunc, vitae faucibus mi.
-    title: A Love For Beauty
+      When Léa graduated as an esthetician and Valedictorian of her class, she realized a dream that began at 14 years old. Coming from a family of artists, she was always interested in beauty, art, fashion, and makeup. Eventually, that past-time developed into a passion for not only the artistic side of esthetics but also the health and well-being aspect as well.<br><br>
+
+
+      Léa is fascinated by the WHY behind the treatments and brings her extensive expertise to every client interaction. She is dedicated to problem solving and finding real solutions for skincare treatments. Because the skincare industry is always changing, she uses her love of learning to ensure that she stays informed with the latest products and treatments.<br><br>
+
+
+      Léa is proud to offer her services in her own home care salon. "I love that my clients can experience the perfect mixture of a private salon blended with the chic professional air of a spa facility." She seeks to create a comfortable, relaxing atmosphere, conversational or peaceful, based on the client's needs.<br><br>
+
+
+      Want to know more about Léa Chanel Beauty and its esthetic and beauty services? Contact me today.
+    title: Dedicated to Health and Beauty
     type: img_half_right
   - type: divider
     bg_color: lightgreen
@@ -35,41 +40,47 @@ components:
     bg_color: lightgreen
     cards:
       - divider_select: true
-        title_select: true
+        title_select: false
         subtitle_select: true
         aos: fade
-        title_size: medium
+        title_size: small
         cta_link: none
         cta: none
-        desc: description
-        subtitle: Ipsum
-        title: Lorem
+        desc: "Léa is dedicated to delivering results. She can tell you the WHY behind
+          certain skincare issues and commits to guide you in your journey
+          towards a healthier lifestyle. "
+        subtitle: Specialized Knowledge
+        title: Specialized Knowledge
         shadow_select: true
         title_color: black
         divider_color: primary
       - divider_select: true
-        title_select: true
+        title_select: false
         subtitle_select: true
         aos: fade
-        title_size: medium
+        title_size: small
         cta_link: none
         cta: none
-        desc: Description here
-        subtitle: Ipsum
-        title: Lorem
+        desc: If you have any questions about the services or scheduling, don't hesitate
+          to ask. Léa prioritizes a fast response time and looks forward to
+          hearing from you.
+        subtitle: Quick Response Time
+        title: Quick Response Time
         shadow_select: true
         title_color: black
         divider_color: primary
       - divider_select: true
-        title_select: true
+        title_select: false
         subtitle_select: true
         aos: fade
-        title_size: medium
+        title_size: small
         cta_link: none
         cta: none
-        desc: description
-        subtitle: Ipsum
-        title: Lorem
+        desc: Léa is devoted to beauty but also to health. Personalizing each treatment,
+          she only uses quality, organic products, including essential oils,
+          that will deliver radiant results.
+        subtitle: All Natural Products
+        title: All Natural Products
         shadow_select: true
         title_color: black
         divider_color: primary

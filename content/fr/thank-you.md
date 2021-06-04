@@ -1,5 +1,5 @@
 ---
-title: Thank You
-description: Thank you for contacting us
+title: Merci!
+description: Merci
 layout: thank-you
 ---
