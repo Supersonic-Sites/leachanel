@@ -17,6 +17,9 @@ components:
           <strong>Duration: 1 hour 30 minutes</strong><br>
 
           Good for ALL skin types. In the Classic Facial, we'll be treating your skin according to its needs, based on your skin type and skin condition. The main goal is to refresh, hydrate, and target-treat certain goals with potent active ingredients. Gentle neck, shoulders, & hand massage included. Effective, gentle, and safe for sensitive skin. (Pregnant women should go for the Express Glow Facial instead.)
+      - service: Add-on Treatments
+        desc: Ask us about our Organic Peels. Customize your facial to fight
+          hyperpigmentation & acne.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
