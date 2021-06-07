@@ -1,6 +1,6 @@
 title = "Léa Chanel Esthetic & Beauty Services"
 description = "Lorem Ipsum"
-baseURL = "/"
+baseURL = "https://leachanel.netlify.app/"
 DefaultContentLanguage = "en"
 
 enableRobotsTXT = true
@@ -18,7 +18,7 @@ videoOn = false
 
 
 [params.schema]
-ogimage = "/img/lea_chanel_oggraph.jpg"
+ogimage = "img/lea_chanel_oggraph.jpg"
 logofooter = "/img/leachanel-1-.jpg"
 city = "Rigaud"
 logo = "/img/leachanel-1-.jpg"
