@@ -1,12 +1,17 @@
-title = "Léa Chanel Esthetic & Beauty Services"
-description = "Lorem Ipsum"
 baseURL = "https://leachanel.netlify.app/"
+languageCode = "en-ca"
 DefaultContentLanguage = "en"
-
 enableRobotsTXT = true
 disableAliases = true
-disableKinds = [ "categories", "tags" ]
+disableKinds = ["categories", "tags"]
 
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+
+[build]
+writeStats = true
+enableRobotsTXT = true
 
 [params]
 gtm = "GTM-5DLMNCL"
@@ -15,10 +20,10 @@ googlemap = "#"
 sitename = "Léa Chanel Esthetic & Beauty Services"
 usebasin = "#"
 videoOn = false
-
+description = "#"
 
 [params.schema]
-ogimage = "img/lea_chanel_oggraph.jpg"
+ogimage = "/img/home_gallery_5.jpg"
 logofooter = "/img/leachanel-1-.jpg"
 city = "Rigaud"
 logo = "/img/leachanel-1-.jpg"
@@ -32,7 +37,7 @@ type = "BeautySalon"
 openinghour = "Mo-Sa: 10-6"
 email = "lea@leachanelbeauty.com"
 address1 = "205 Chemin du Grand Quai"
-address2 = ""
+address2 = "#"
 address_toggle = true
 
 [params.social]
@@ -65,20 +70,15 @@ target = "assets/js/alpine.js"
 source = "./node_modules/lazysizes/lazysizes.js"
 target = "assets/js/lazysizes.js"
 
-[sitemap]
-changefreq = "monthly"
-filename = "sitemap.xml"
-
-[build]
-writeStats = true
-enableRobotsTXT = true
-
+[languages]
 
 [languages.fr]
+title = "Léa Chanel Services D'Esthétique"
+description = "Services professionnels d'esthétique et de beauté offerts dans un salon privé chic et confortable."
 languageCode = "fr"
-title = "Léa Chanel Esthetic & Beauty Services"
-
 contentDir = "content/fr"
+
+[languages.fr.menu]
 
 [[languages.fr.menu.main]]
 name = "Accueil"
@@ -115,12 +115,13 @@ name = "Rendez-vous"
 url = "https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services"
 weight = 7
 
-
-
 [languages.en]
-languageCode = "en"
 title = "Léa Chanel Esthetic & Beauty Services"
+description = "Professional esthetic and beauty services offered in a chic and beautiful private home salon. "
+languageCode = "en"
 contentDir = "content/en"
+
+[languages.en.menu]
 
 [[languages.en.menu.main]]
 name = "Home"
