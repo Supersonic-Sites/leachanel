@@ -8,7 +8,7 @@
 
             <div class="mt-6 rounded-md shadow sm:mt-8">
 
-                <a href="{{ .cta_link | absURL }}" class="w-full flex items-center justify-center btn_secondary">
+                <a href="{{ .cta_link | relLangURL  }}" class="w-full flex items-center justify-center btn_secondary">
                     {{ .cta }}
                 </a>
             </div>
@@ -20,9 +20,9 @@
 
             <div class="mt-6 rounded-md shadow sm:mt-8">
 
-                <a href="{{ .cta_link | absURL }}" class="w-full flex items-center justify-center btn_secondary">
+                <a href="{{ .cta_link | relLangURL }}" class="w-full flex items-center justify-center btn_secondary">
                     {{ .cta }}
-                </a>
+                </a> 
             </div>
             {{ end }}
         </div>

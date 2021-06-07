@@ -10,10 +10,12 @@
   translation: "Frequently Asked Questions"
 - id: appointment
   translation: "Schedule An Appointment"
-- id: firstname
-  translation: "Your Name"
+- id: fullname
+  translation: "Your Full Name"
 - id: lastname
   translation: "Last Name"
+- id: callme
+  translation: "Call Now"
 - id: phone
   translation: "Phone"
 - id: email

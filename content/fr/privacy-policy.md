@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description: Learn more about Lea Chanel Beauty's privacy policy.
+description: En savoir plus sur la politique de confidentialité de Léa Chanel Beauté.
 companyname: Lea Chanel Beauty
 companyemail: lea@leachanelbeauty.com
 layout: privacy_policy

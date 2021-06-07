@@ -1,7 +1,8 @@
 ---
-title: Esthetic Services
-description: Esthetic and beauty services include facial treatments, hand and
-  foot care, hair removal, makeup services, and men's care.
+title: Services esthétiques
+description: Les services d'esthétique et de beauté comprennent les soins du
+  visage, les soins des mains et des pieds, l'épilation, le maquillage et les
+  soins pour hommes.
 components:
   - type: header_sub
     bg_color: lightgreen
@@ -12,25 +13,25 @@ components:
   - img: /img/service_facial_care.jpg
     aos: fade
     service_list:
-      - service: Classic Target Facial
+      - service: Facial Classique
         desc: >-
-          <strong>Duration: 1 hour 30 minutes</strong><br>
+          <strong>Durée : 1h30</strong><br>
 
-          Good for ALL skin types. In the Classic Facial, we'll be treating your skin according to its needs, based on your skin type and skin condition. The main goal is to refresh, hydrate, and target-treat certain goals with potent active ingredients. Gentle neck, shoulders, & hand massage included. Effective, gentle, and safe for sensitive skin. (Pregnant women should go for the Express Glow Facial instead.)
-      - service: Add-on Treatments
-        desc: Ask us about our Organic Peels. Customize your facial to fight
-          hyperpigmentation & acne.
+          Bon pour TOUS les types de peau. Dans le soin du visage classique, nous traiterons votre peau en fonction de ses besoins, en fonction de votre type de peau et de votre état de peau. L'objectif principal est de rafraîchir, hydrater et cibler certains objectifs avec des ingrédients actifs puissants. Massage doux du cou, des épaules et des mains inclus. Efficace, doux et sans danger pour les peaux sensibles. (Les femmes enceintes devraient plutôt opter pour le soin du visage Express Glow.)
+      - service: Traitements complémentaires
+        desc: Renseignez-vous sur nos Peelings Bio. Personnalisez votre soin du visage
+          pour lutter contre l'hyperpigmentation et l'acné.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: facial treatments
-    cta: See Pricing
+    img_alt: Traitement Facial
+    cta: Voir les tarifs
     desc: >-
-      <strong>Duration: 1 hour</strong><br>
+      <strong>Durée : 1 heure</strong><br>
 
-      Good for ALL skin types. In the Express Glow Facial, we'll be focusing on a deep clean, exfoliation, and hydratation for the skin resulting in an even glow. Quick extractions if necessary. No massage included. Effective, gentle, and safe for sensitive skin. Also safe for PREGNANT women.
-    service: Express Glow Facial
-    title: Facial Care
+      Bon pour TOUS les types de peau. Dans l'Express Glow Facial, nous nous concentrerons sur un nettoyage en profondeur, une exfoliation et une hydratation de la peau pour un éclat uniforme. Extractions rapides si nécessaire. Aucun massage inclus. Efficace, doux et sans danger pour les peaux sensibles. Également sans danger pour les femmes ENCEINTES.
+    service: Soin du visage éclat express
+    title: Soins du visage
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
@@ -38,58 +39,59 @@ components:
   - img: /img/img_20180206_171643.jpg
     aos: fade
     service_list:
-      - service: Manicure Express/Polish Change
-        desc: "<strong>Duration: 30 minutes</strong><br>Filing, shaping, & buffing of
-          nails. Cream hydration application, followed by meticulous polish
-          application. (No cuticle removal or massage)"
-      - service: Manicure Relaxation Spa Treatment
-        desc: "<strong>Duration: 1 hour 30 minutes</strong><br>Filing, shaping, &
-          buffing of nails. Soak, if needed, cuticle removal. All-natural hand
-          scrub, relaxation massage, & 10 minute revitalizing mask application.
-          Finished off by meticulous polish application."
-      - service: Polish Color Change Only
-        desc: "<strong>Duration: 30 minutes</strong><br>Removal of old nail-polish.
-          Filing & buffing if necessary, followed by meticulous polish
-          application."
-      - service: GEL Manicure
-        desc: "<strong>Duration: 1 hour</strong><br>Filing, shaping, buffing of nails.
-          Cuticle removal, gel nail polish application, followed by gentle,
-          hydrating massage. (No nail extensions)"
-      - service: GEL Relaxation Spa Treatment Manicure
+      - service: Manucure Express/Changement de Polissage
+        desc: "<strong>Durée : 30 minutes</strong><br>Limage, façonnage et polissage des
+          ongles. Application de crème hydratante, suivie d'une application
+          méticuleuse de vernis. (Pas d'ablation des cuticules ni de massage)"
+      - service: Soin Spa Détente Manucure
+        desc: "<strong>Durée : 1h30</strong><br>Limage, façonnage et polissage des
+          ongles. Tremper, si besoin, enlever les cuticules. Gommage des mains
+          entièrement naturel, massage de relaxation et application d'un masque
+          revitalisant de 10 minutes. Terminé par une application de vernis
+          méticuleuse."
+      - service: Changement de couleur du polissage
+        desc: "<strong>Durée : 30 minutes</strong><br>Enlèvement de l'ancien vernis à
+          ongles. Limage et polissage si nécessaire, suivi d'une application de
+          polissage méticuleuse."
+      - service: GEL Manucure
+        desc: "<strong>Durée : 1 heure</strong><br>Limage, façonnage, polissage des
+          ongles. Élimination des cuticules, pose de vernis gel, suivi d'un
+          massage doux et hydratant. (Pas d'extensions d'ongles)"
+      - service: GEL Détente Spa Soin Manucure
         desc: >-
-          <strong>Duration: 30 minutes</strong><br>
+          <strong>Durée : 30 minutes</strong><br>
 
-          Filing, shaping, & buffing of nails. Cuticle removal. Gel polish application. Natural scrub, hydrating relaxation massage, and finishes off with revitalizing 10 minute mask application.
-      - service: GEL Removal Only
+          Limage, façonnage et polissage des ongles. Élimination des cuticules. Application de vernis gel. Gommage naturel, modelage de relaxation hydratant et se termine par une application de masque revitalisant de 10 minutes.
+      - service: Retrait de GEL uniquement
         desc: >-
-          <strong>Duration: 15 minutes</strong><br>
+          <strong>Durée : 15 minutes</strong><br>
 
-          Acetone soak-off. Buff/file nails. Replenish with hydration. Gel removals are included FREE when followed with a Gel Manicure or Gel Polish Change. 
-      - service: GEL Polish Change Only
+          Absorption d'acétone. Polir/limer les ongles. Renouveler avec l'hydratation. Les retraits de gel sont inclus GRATUITEMENT lorsqu'ils sont suivis d'une manucure au gel ou d'un changement de vernis au gel.
+      - service: Changement de vernis GEL uniquement
         desc: >-
-          <strong>Duration: 1 hour</strong><br>
+          <strong>Durée : 1 heure</strong><br>
 
-          Gel soak-off removal. Filing, shaping, & buffing of nails. Clean up. Gel polish application followed by hydration cream & cuticle oil.
-      - service: GEL Mani + Pedicure Combo
+          Élimination par trempage du gel. Limage, façonnage et polissage des ongles. Nettoyer. Application de vernis gel suivie d'une crème hydratante et d'une huile pour cuticules.
+      - service: Combo GEL Mains + Pédicure
         desc: >-
-          <strong>Duration: 2 hours 15 minutes</strong><br>
+          <strong>Durée : 2 heures 15 minutes</strong><br>
 
-          Save some money by booking a *classic pedicure* paired with a gel/shellac manicure to receive the combo price.
-      - service: Mani & Pedi Combo
+          Économisez de l'argent en réservant une *pédicure classique* associée à une manucure gel/gomme laque pour bénéficier du prix combiné.
+      - service: Combo manucure et pédicure
         desc: |-
-          <strong>Duration: 2 hours</strong><br>
-          Get a regular manicure & pedicure combination.
+          <strong>Durée : 2 heures</strong><br>
+          Obtenez une combinaison régulière de manucure et de pédicure.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: hand care and manicures
-    cta: See Pricing
+    img_alt: soins des mains et manucure
+    cta: Voir les tarifs
     desc: >-
-      <strong>Duration: 45 minutes</strong><br>
+      <strong>Durée : 45 minutes</strong><br>
 
-      Filing, shaping, & buffing of nails. Soak, if needed, with cuticle removal. Gentle hand massage followed by meticulous polish application.
-    service: Manicure
-    title: Hand Care
+      Limage, façonnage et polissage des ongles. Faire tremper, si nécessaire, en enlevant les cuticules. Massage doux des mains suivi d'une application méticuleuse du vernis.
+    service: Manucure
+    title: Soins des mains
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
@@ -97,39 +99,41 @@ components:
   - img: /img/how-soon-ngu-7vz3dtqdt3q-unsplash.jpg
     aos: fade
     service_list:
-      - service: Pedicure Classic
+      - service: Pédicure Classique
         desc: >
-          <strong>Duration: 1 hour 15 minutes</strong><br>
+          <strong>Durée : 1h15</strong><br>
 
-          Bubble & blue salt bath soak. File, shape, & buffing of nails. Ridha Cosmetiques callous melt treatment, followed by buffing off the dead skin/callous build-up. Cuticle melt & removal. Revitalizing foot & calf massage, followed by meticulous polish application. Bring flip flops!
-      - service: Pedicure Relaxation Spa Treatment
-        desc: "<strong>Duration: 1 hour 30 minutes</strong><br>Rose petal & floral bath
-          salt soak. File, shape, & buffing of nails. Ridha Cosmetiques callous
-          melt treatment, followed by buffing off the dead skin/callous
-          build-up. Cuticle melt & removal. Extra exfoliation by creamy scrub
-          and revitalizing foot & calf massage, followed by a refreshing
-          hydration mask, wrapped in hot towels. Last but not least, meticulous
-          polish application. Voila! Bring flip flops!"
-      - service: Mani & Pedi Combo
+          Bain de bulles et de sel bleu. Lime, forme et polissage des ongles. Traitement de fonte calleuse Ridha Cosmetiques, suivi d'un polissage de la peau morte/de l'accumulation de callosités. Fonte et élimination des cuticules. Massage revitalisant des pieds et des mollets, suivi d'une application méticuleuse de vernis. Apportez des tongs !
+      - service: Soin Spa Détente Pédicure
+        desc: "<strong>Durée : 1h30</strong><br>Pétale de rose & sel de bain floral.
+          Lime, forme et polissage des ongles. Traitement de fonte calleuse
+          Ridha Cosmetiques, suivi d'un polissage de la peau morte/de
+          l'accumulation de callosités. Fonte et élimination des cuticules.
+          Exfoliation supplémentaire par un gommage crémeux et un massage
+          revitalisant des pieds et des mollets, suivi d'un masque hydratant
+          rafraîchissant, enveloppé dans des serviettes chaudes. Last but not
+          least, une application de vernis méticuleuse. Voila ! Apportez des
+          tongs !"
+      - service: Combo manucure et pédicure
         desc: |-
-          <strong>Duration: 2 hours</strong><br>
-          Get a regular manicure & pedicure combination.
-      - service: GEL Mani + Pedicure Combo
+          <strong>Durée : 2 heures</strong><br>
+          Obtenez une combinaison régulière de manucure et de pédicure.
+      - service: Combo GEL Mains + Pédicure
         desc: >-
-          <strong>Duration: 2 hours 15 minutes</strong><br>
+          <strong>Durée : 2 heures 15 minutes</strong><br>
 
-          Save some money by booking a *classic pedicure* paired with a gel/shellac manicure to receive the combo price.
+          Économisez de l'argent en réservant une *pédicure classique* associée à une manucure gel/gomme laque pour bénéficier du prix combiné.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: foot care and pedicures
-    cta: See Pricing
+    img_alt: soins des pieds et pédicures
+    cta: Voir les tarifs
     desc: >-
-      <strong>Duration: 1 hour</strong><br>
+      <strong>Durée : 1 heure</strong><br>
 
-      Bubble & blue salt bath soak. File, shape, & buffing of nails. Light buffing off the dead skin/callous build-up. Cuticle melt & removal. Hydration cream application (no massage included), followed by meticulous polish application. Bring flip flops!
-    service: Pedicure Express
-    title: Foot Care
+      Bain de bulles et de sel bleu. Lime, forme et polissage des ongles. Polissage léger de la peau morte/l'accumulation de callosités. Fonte et élimination des cuticules. Application de crème hydratante (pas de massage inclus), suivie d'une application méticuleuse de vernis. Apportez des tongs !
+    service: Pédicure Express
+    title: Soin des pieds
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
@@ -137,77 +141,79 @@ components:
   - img: /img/jose-hernandez-uribe-aq6d5cimeb0-unsplash.jpg
     aos: fade
     service_list:
-      - service: Eyebrow Shaping Wax
+      - service: "Épilation à la cire: modelage des sourcils"
         desc: >-
-          <strong>Duration: 30 minutes</strong><br>
+          <strong>Durée : 30 minutes</strong><br>
 
-          Shaping of eyebrows to create arch, curves, etc., using warm cream wax and tweezing if needed. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-      - service: Upper Lip Wax
+          Façonnage des sourcils pour créer des arcades, des courbes, etc., en utilisant de la cire crème chaude et une pince à épiler si nécessaire. La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
+      - service: "Épilation à la cire: lèvres supérieures"
         desc: >-
-          <strong>Duration: 15 minutes</strong><br>
+          <strong>Durée : 15 minutes</strong><br>
 
-          Waxing upper lip, using warm cream wax. Soothing post-wax cream and/or oil ensures calming of the skin and no leftover stickiness. Muwah!
-      - service: Sideburn/Cheek Wax
+          Épilation de la lèvre supérieure à l'aide de cire crème chaude. La crème et/ou l'huile apaisante après l'épilation assurent un apaisement de la peau et aucun résidu collant. Mouwah !
+      - service: "Épilation à la cire: favoris/joues"
         desc: >-
-          <strong>Duration: 15 minutes</strong><br>
+          <strong>Durée : 15 minutes</strong><br>
 
-          Hair removal of sideburn/cheek area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-      - service: Underarms Wax
+          Épilation de la zone des favoris/joues à l'aide de cire crème chaude. La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
+      - service: "Épilation à la cire: aisselles"
         desc: >-
-          <strong>Duration: 15 minutes</strong><br>
+          <strong>Durée : 15 minutes</strong><br>
 
-          Hair removal of under arm area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-      - service: Half Arms Wax (Upper or Lower)
-        desc: >+
-          <strong>Duration: 30 minutes</strong><br>Hair removal of upper or
-          lower half of arms using warm cream wax. Soothing post-wax cream
-          ensures calming of the skin and no leftover stickiness.
-
-      - service: Full Arms Wax
+          Épilation des aisselles à l'aide de cire crème chaude. La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
+      - service: "Épilation à la cire: demi-bras (supérieur ou inférieur)"
+        desc: >
+          <strong>Durée : 30 minutes</strong><br>Épilation de la moitié
+          supérieure ou inférieure des bras à l'aide de cire crème chaude. La
+          crème post-épilation apaisante assure un apaisement de la peau et
+          aucune adhérence résiduelle.
+      - service: "Épilation à la cire: bras complets"
         desc: >-
-          <strong>Duration: 30 minutes</strong><br>
+          <strong>Durée : 30 minutes</strong><br>
 
-          Hair removal of full arms using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-      - service: Half Legs Wax (Lower or Upper)
-        desc: '<strong>Duration: 45 minutes</strong><br>Waxing of lower or upper half
-          legs, using warm cream wax. Soothing post-wax cream ensures calming of
-          the skin and no leftover stickiness. *Add on "Basic Bikini Wax" for a
-          discounted price.'
-      - service: Full Leg Wax
-        desc: '<strong>Duration: 45 minutes</strong><br>Waxing of full leg, using warm
-          cream wax. Soothing post-wax cream ensures calming of the skin and no
-          leftover stickiness. *Add on "Basic Bikini Wax" for a discounted
-          price.'
-      - service: Basic Bikini Wax
-        desc: "<strong>Duration: 20 minutes</strong><br>Warm cream wax and/or hot honey
-          wax. Waxing of hair surrounding bikini line only. Soothing post-wax
-          cream ensures calming of the skin and no leftover stickiness."
-      - service: Brazilian/Full Bikini Wax
+          Épilation des bras complets à la cire crème chaude. La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
+      - service: "Épilation à la cire: demi-jambes (inférieure ou supérieure)"
+        desc: "<strong>Durée : 45 minutes</strong><br>Épilation des demi-jambes
+          inférieures ou supérieures, à l'aide de cire crème chaude. La crème
+          post-épilation apaisante assure un apaisement de la peau et aucune
+          adhérence résiduelle. *Ajoutez sur \"Basic Bikini Wax\" pour un prix
+          réduit."
+      - service: "Épilation à la cire: Jambes Complètes"
+        desc: "<strong>Durée : 45 minutes</strong><br>Épilation jambe entière, à l'aide
+          de cire crème tiède. La crème post-épilation apaisante assure un
+          apaisement de la peau et aucune adhérence résiduelle. *Ajoutez sur
+          \"Basic Bikini Wax\" pour un prix réduit."
+      - service: "Épilation à la cire: bikini (de base)"
+        desc: "<strong>Durée : 20 minutes</strong><br>Cire crème chaude et/ou cire miel
+          chaud. Épilation à la cire des cheveux entourant le maillot
+          uniquement. La crème post-épilation apaisante assure un apaisement de
+          la peau et aucune adhérence résiduelle."
+      - service: "Épilation à la cire: bikini brésilienne/complète"
         desc: >-
-          <strong>Duration: 30 minutes</strong><br>
+          <strong>Durée : 30 minutes</strong><br>
 
-          Full or high-cut waxing of intimate bikini area, using warm cream wax and/or hot honey wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-      - service: Chest Wax
+          Epilation complète ou échancrée de la zone intime du bikini, à l'aide de cire crème chaude et/ou de cire chaude au miel La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
+      - service: "Épilation à la cire:  Pectoraux"
         desc: >-
-          <strong>Duration: 45 minutes</strong><br>
+          <strong>Durée : 45 minutes</strong><br>
 
-          Hair removal of chest area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-      - service: Back Wax
+          Épilation de la poitrine à l'aide de cire crème chaude. La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
+      - service: "Épilation à la cire: Dos"
         desc: >-
-          <strong>Duration: 45 minutes</strong><br>
+          <strong>Durée : 45 minutes</strong><br>
 
-          Hair removal of upper and/or lower back area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
+          Épilation du haut et/ou du bas du dos à l'aide de cire crème chaude. La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: waxed legs
-    cta: See Pricing
+    img_alt: jambes cirées
+    cta: Voir les tarifs
     desc: >-
-      <strong>Duration: 20 minutes</strong><br>
+      <strong>Durée : 20 minutes</strong><br>
 
-      Basic waxing of eyebrows to clean-up existing shape using warm cream wax and tweezing if needed. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-    service: Eyebrow Clean-Up Wax
-    title: Hair Removal
+      Épilation de base des sourcils pour nettoyer la forme existante à l'aide de cire crème chaude et d'une pince à épiler si nécessaire. La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
+    service: "Épilation à la cire: Sourcils"
+    title: Épilation
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
@@ -215,32 +221,32 @@ components:
   - img: /img/20157400_761628824025067_4473844401235338807_o.jpg
     aos: fade
     service_list:
-      - service: Prom Makeup
-        desc: If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day. My
-          goal is to set a relaxing mood, and make you feel and look like a
-          queen.
-      - service: Graduation Makeup
-        desc: If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day.
-          You will look like the sophisticated, successful woman that you are.
-          Congratulations. Let's do this!
-      - service: Special Events
-        desc: "If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day. "
+      - service: Maquillage De Bal
+        desc: Si vous recherchez une personnalité apaisante et joyeuse et une
+          application de maquillage efficace et de haute qualité, je suis le MUA
+          pour votre journée spéciale. Mon objectif est de créer une ambiance
+          relaxante et de vous faire sentir et ressembler à une reine.
+      - service: Maquillage pour graduation
+        desc: Si vous recherchez une personnalité apaisante et joyeuse et une
+          application de maquillage efficace et de haute qualité, je suis la
+          pour votre journée spéciale. Vous ressemblerez à la femme sophistiquée
+          et réussie que vous êtes. Toutes nos félicitations. Faisons cela!
+      - service: Événements spéciaux
+        desc: Si vous recherchez une personnalité apaisante et joyeuse et une
+          application de maquillage efficace et de haute qualité.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: makeup application
-    cta: See Pricing
+    img_alt: application de maquillage
+    cta: Voir les tarifs
     desc: >-
-      My goal is to set a certain mood of relaxation, building confidence for
-      the bride, and a joyful atmosphere of anticipation for the big day. Cheers
-      to you! <br><br>
+      Mon objectif est de créer une certaine ambiance de détente, de
+      renforcement de la confiance pour la mariée et une atmosphère joyeuse
+      d'anticipation pour le grand jour. Santé à toi! <br><br>
 
-      I offer makeup applications for the bride as well as for bridesmaids and the mother-of-the-bride.
-    service: Wedding Makeup
-    title: Makeup
+      Je propose des applications de maquillage pour la mariée ainsi que pour les demoiselles d'honneur et la mère de la mariée.
+    service: Maquillage De Mariage
+    title: Maquillage
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
@@ -248,43 +254,43 @@ components:
   - img: /img/fred-moon-vsi2kni4abc-unsplash.jpg
     aos: fade
     service_list:
-      - service: Manicure for Men
+      - service: Manucure pour hommes
         desc: >-
-          <strong>Duration: 30 minutes</strong><br>
+          <strong>Durée : 30 minutes</strong><br>
 
-          Filing, shaping, & buffing of nails. Soak, if needed, with cuticle removal. Gentle hand massage to finish off with good hydration & some relaxation.
-      - service: Sideburn/Cheek Wax
+          Limage, façonnage et polissage des ongles. Faire tremper, si nécessaire, en enlevant les cuticules. Massage doux des mains pour terminer par une bonne hydratation et un peu de relaxation.
+      - service: "Épilation à la cire: favoris/joues"
         desc: >-
-          <strong>Duration: 15 minutes</strong><br>
+          <strong>Durée : 15 minutes</strong><br>
 
-          Hair removal of sideburn/cheek area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-      - service: Chest Wax
+          Épilation de la zone des favoris/joues à l'aide de cire crème chaude. La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
+      - service: "Épilation à la cire: pectoraux"
         desc: >-
-          <strong>Duration: 45 minutes</strong><br>
+          <strong>Durée : 45 minutes</strong><br>
 
-          Hair removal of chest area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
-      - service: Back Wax
+          Épilation de la poitrine à l'aide de cire crème chaude. La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
+      - service: "Épilation à la cire: Dos"
         desc: >-
-          <strong>Duration: 45 minutes</strong><br>
+          <strong>Durée : 45 minutes</strong><br>
 
-          Hair removal of upper and/or lower back area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
+          Épilation du haut et/ou du bas du dos à l'aide de cire crème chaude. La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
-    img_alt: men's esthetic services
-    cta: See Pricing
+    img_alt: services esthétiques pour hommes
+    cta: Voir les tarifs
     desc: >-
-      <strong>Duration: 45 minutes</strong><br>
+      <strong>Durée : 45 minutes</strong><br>
 
-      Bubble bath, blue salt soak. Clean, cut, and buff nails. Remove excess cuticle growth, and buff away callous/dry skin. Hydration cream application with massage.
-    service: Pedicure for Men
-    title: Men's Services
+      Bain moussant, bain de sel bleu. Nettoyer, couper et polir les ongles. Enlevez l'excès de cuticules et polissez la peau calleuse/sèche. Application de crème hydratante avec massage.
+    service: Pédicure pour hommes
+    title: Services pour hommes
     type: img_half_right_toggle
   - type: divider
     bg_color: lightgreen
   - type: cta
     bg_color: lightgreen
-    title: I'm Here To Help. Reach Out With Any Questions.
-    cta: Contact Me Today
+    title: Contactez-moi avec toutes vos questions.
+    cta: Contactez-moi
     cta_link: contact/
 ---

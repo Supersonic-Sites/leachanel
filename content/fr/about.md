@@ -1,13 +1,13 @@
 ---
-title: About Léa Chanel
-description: Léa Chanel is a professional esthetician and runs a private home
-  salon dedicated to health and beauty services.
+title: À propos de Léa
+description: Léa Chanel est esthéticienne professionnelle et dirige un salon
+  privé à domicile dédié aux services de santé et de beauté.
 slug: a-propos
 components:
   - type: header_sub
     bg_color: white
     img: /img/lea_chanel_background-1-.jpg
-    title: About Léa
+    title: À propos de Léa
   - type: divider
     bg_color: lightgreen
   - img: /img/leachanel.jpg
@@ -16,23 +16,20 @@ components:
     bg_color: lightgreen
     img_alt: Léa headshot
     cta: Call To Action
-    desc: >-
-      "Many of my clients arrive stressed out or tired. It's so rewarding to see
-      them relax during the session and leave more peaceful and rejuvenated.
-      It's what I love about my job."<br><br>
+    desc: >
+      "Beaucoup de mes clients arrivent stressés ou fatigués. C'est tellement
+      gratifiant de les voir se détendre pendant la séance et repartir plus
+      apaisés et rajeunis. C'est ce que j'aime dans mon travail."<br><br>
 
 
-      When Léa graduated as an esthetician and Valedictorian of her class, she realized a dream that began at 14 years old. Coming from a family of artists, she was always interested in beauty, art, fashion, and makeup. Eventually, that past-time developed into a passion for not only the artistic side of esthetics but also the health and well-being aspect as well.<br><br>
+      Lorsque Léa a obtenu son diplôme d'esthéticienne et major de promotion de sa promotion, elle a réalisé un rêve qui a commencé à 14 ans. Issue d'une famille d'artistes, elle s'est toujours intéressée à la beauté, l'art, la mode et le maquillage. Finalement, ce passe-temps s'est transformé en une passion non seulement pour l'aspect artistique de l'esthétique, mais aussi pour l'aspect santé et bien-être.<br><br>
 
 
-      Léa is fascinated by the WHY behind the treatments and brings her extensive expertise to every client interaction. She is dedicated to problem solving and finding real solutions for skincare treatments. Because the skincare industry is always changing, she uses her love of learning to ensure that she stays informed with the latest products and treatments.<br><br>
+      Léa est fascinée par le POURQUOI derrière les traitements et apporte sa vaste expertise dans chaque interaction avec le client. Elle se consacre à la résolution de problèmes et à la recherche de vraies solutions pour les soins de la peau. Parce que l'industrie des soins de la peau est en constante évolution, elle utilise son amour de l'apprentissage pour s'assurer qu'elle reste informée des derniers produits et traitements.<br><br>
 
 
-      Léa is proud to offer her services in her own home care salon. "I love that my clients can experience the perfect mixture of a private salon blended with the chic professional air of a spa facility." She seeks to create a comfortable, relaxing atmosphere, conversational or peaceful, based on the client's needs.<br><br>
-
-
-      Want to know more about Léa Chanel Beauty and its esthetic and beauty services? Contact me today.
-    title: Dedicated to Health and Beauty
+      Léa est fière d'offrir ses services dans son propre salon de soins à domicile. "J'aime que mes clients puissent découvrir le mélange parfait d'un salon privé mélangé à l'air chic et professionnel d'un spa." Elle cherche à créer une atmosphère confortable et relaxante, conversationnelle ou paisible, en fonction des besoins du client.<br><br>
+    title: Dédié à la santé et à la beauté
     type: img_half_right
   - type: divider
     bg_color: lightgreen
@@ -46,11 +43,11 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: "Léa is dedicated to delivering results. She can tell you the WHY behind
-          certain skincare issues and commits to guide you in your journey
-          towards a healthier lifestyle. "
-        subtitle: Specialized Knowledge
-        title: Specialized Knowledge
+        desc: Léa s'engage à fournir des résultats. Elle peut vous expliquer le POURQUOI
+          de certains problèmes de soins de la peau et s'engage à vous guider
+          dans votre cheminement vers un mode de vie plus sain.
+        subtitle: Connaissances spécialisées
+        title: Connaissances spécialisées
         shadow_select: true
         title_color: black
         divider_color: primary
@@ -61,11 +58,11 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: If you have any questions about the services or scheduling, don't hesitate
-          to ask. Léa prioritizes a fast response time and looks forward to
-          hearing from you.
-        subtitle: Quick Response Time
-        title: Quick Response Time
+        desc: Si vous avez des questions sur les services ou les horaires, n'hésitez pas
+          à demander. Léa privilégie un temps de réponse rapide et se réjouit
+          d'avoir de vos nouvelles.
+        subtitle: Temps de réponse rapide
+        title: Temps de réponse rapide
         shadow_select: true
         title_color: black
         divider_color: primary
@@ -76,11 +73,11 @@ components:
         title_size: small
         cta_link: none
         cta: none
-        desc: Léa is devoted to beauty but also to health. Personalizing each treatment,
-          she only uses quality, organic products, including essential oils,
-          that will deliver radiant results.
-        subtitle: All Natural Products
-        title: All Natural Products
+        desc: Léa est dévouée à la beauté mais aussi à la santé. Personnalisant chaque
+          soin, elle n'utilise que des produits biologiques de qualité, dont des
+          huiles essentielles, qui donneront des résultats éclatants.
+        subtitle: Tous les produits naturels
+        title: Tous les produits naturels
         shadow_select: true
         title_color: black
         divider_color: primary
@@ -88,7 +85,7 @@ components:
     bg_color: lightgreen
   - type: cta
     bg_color: lightgreen
-    title: I'm Here To Help. Reach Out With Any Questions.
-    cta: Contact Me Today
+    title: Contactez-moi avec toutes vos questions.
+    cta: Contactez-moi
     cta_link: contact/
 ---

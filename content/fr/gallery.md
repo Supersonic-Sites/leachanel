@@ -1,7 +1,7 @@
 ---
-title: Photo Gallery of Léa Chanel Beauty
-description: "Relax and enjoy a wide variety of esthetic and beauty services in
-  a professional private home salon. "
+title: Galerie photo de Léa Chanel Beauté
+description: Détendez-vous et profitez d'une grande variété de services
+  d'esthétique et de beauté dans un salon professionnel privé à domicile.
 slug: gallerie
 components:
   - type: header_sub
@@ -14,40 +14,40 @@ components:
     id: none
     bg_color: lightgreen
     align: center
-    title: Professional Care. Private Home Salon.
+    title: Soins Professionnels. Salon privé à domicile.
     title_size: medium
-    desc: Health and beauty services don’t get better than this. Enjoy relaxing,
-      effective one-on-one treatments from facial, hand, and foot care to
-      stunning makeup application for any special occasion. Léa Chanel Beauty is
-      here for you.
+    desc: Les services de santé et de beauté ne sont pas meilleurs que cela.
+      Profitez de soins individuels relaxants et efficaces, des soins du visage,
+      des mains et des pieds à une application de maquillage époustouflante pour
+      toute occasion spéciale. Léa Chanel Beauté est là pour vous.
     desc_select: true
   - type: divider
     bg_color: lightgreen
   - type: gallery_lightbox
     images:
-      - img_alt: Bright white manicure
+      - img_alt: Manucure blanche lumineuse
         img: /img/img_20210507_205142_729.jpg
-      - img_alt: Manicure with a pop of baby blue
+      - img_alt: Manucure avec une touche de bleu bébé
         img: /img/img_20210511_091042_864.jpg
-      - img_alt: Natural and fresh manicure
+      - img_alt: Manucure naturelle et fraîche
         img: /img/img_20210407_204015_078-1-.jpg
-      - img_alt: Makeup services
+      - img_alt: Service de maquillage
         img: /img/20157400_761628824025067_4473844401235338807_o.jpg
-      - img_alt: Bridal makeup
+      - img_alt: Maquillage de mariée
         img: /img/img_20210528_165713_154.jpg
-      - img_alt: Bridal beauty
+      - img_alt: Beauté nuptiale
         img: /img/rebekah-nathan-9652-1-.jpg
-      - img_alt: Home salon and spa
+      - img_alt: Salon et spa à domicile
         img: /img/img_20210510_114928_821.jpg
-      - img_alt: Green chic comfort
+      - img_alt: Confort vert chic
         img: /img/img_20210506_203006_068.jpg
-      - img_alt: "Celebrating the natural and beautiful "
+      - img_alt: Célébrer le naturel et le beau
         img: /img/img_20210503_162940_896.jpg
   - type: divider
     bg_color: lightgreen
   - type: cta
     bg_color: lightgreen
-    title: I'm Here To Help. Reach Out With Any Questions.
-    cta: Contact Me Today
+    title: Contactez-moi avec toutes vos questions.
+    cta: Contactez-moi
     cta_link: contact/
 ---

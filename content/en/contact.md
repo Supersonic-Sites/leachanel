@@ -1,8 +1,7 @@
 ---
-title: Contact Us
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+title: Contact Me
+description: I'm here to help! Give me a call or send me a message directly from
+  my website and I'll be happy to reach back to you quickly.
 components:
   - type: header_sub
     bg_color: primary
