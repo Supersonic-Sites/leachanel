@@ -32,7 +32,7 @@ type = "BeautySalon"
 openinghour = "Mo-Sa: 10-6"
 email = "lea@leachanelbeauty.com"
 address1 = "205 Chemin du Grand Quai"
-address2 = "#"
+address2 = ""
 address_toggle = true
 
 [params.social]

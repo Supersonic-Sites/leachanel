@@ -30,10 +30,10 @@
 <meta name="twitter:url" content="{{ .Permalink }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 
-<meta itemprop="image" content="{{ .Site.Params.schema.ogimage | absURL }}" />
-<meta property="og:image" content="{{ .Site.Params.schema.ogimage | absURL }}" />
-<meta name="twitter:image" content="{{ .Site.Params.schema.ogimage | absURL }}" />
-<meta name="twitter:image:src" content="{{ .Site.Params.schema.ogimage | absURL }}" />
+<meta itemprop="image" content="{{ .Site.BaseURL | absURL }}{{ .Site.Params.schema.ogimage }}" />
+<meta property="og:image" content="{{ .Site.BaseURL | absURL }}{{ .Site.Params.schema.ogimage }}" />
+<meta name="twitter:image" content="{{ .Site.BaseURL | absURL }}{{ .Site.Params.schema.ogimage }}" />
+<meta name="twitter:image:src" content="{{ .Site.BaseURL | absURL }}{{ .Site.Params.schema.ogimage }}" />
 
 <link rel="canonical" href="{{ .Site.BaseURL | absURL }}{{ .Permalink | absURL }}" />
 <meta name="robots" content="index, follow" />
@@ -61,7 +61,10 @@
                 "addressLocality": "{{ $.Site.Params.schema.city }}",
                 "addressRegion": "{{ $.Site.Params.schema.region }}",
                 "postalCode": "{{ $.Site.Params.schema.postalcode }}",
-                "streetAddress": "{{ $.Site.Params.schema.address }}, {{ $.Site.Params.schema.address2 }}" 
+                "streetAddress": "{{ $.Site.Params.schema.address1 }},
+                {{ if $.Site.Params.schema.address2 }} 
+                {{ $.Site.Params.schema.address2 }}
+                {{ end }}" 
             },
             "priceRange": "{{ $.Site.Params.schema.priceRange }}",
             "url":"{{.Site.BaseURL}}",
