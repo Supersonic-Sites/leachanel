@@ -25,7 +25,7 @@ HUGO_VERSION = "0.79.1"
 
 [[redirects]]
   from = "https://leachanel.netlify.app/"
-  to = "https://www.leachanelbeauty.com"
+  to = "https://www.leachanelbeauty.com/"
   status = 301
   force = true #COMMENT: ensure that we always redirect
 
