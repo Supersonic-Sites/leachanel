@@ -29,7 +29,7 @@
 - id: contactus
   translation: "Entrez En Contact"
 - id: contactdetail
-  translation: "Informations"
+  translation: "Information"
 - id: send
   translation: "Envoyer Le Message"
 
