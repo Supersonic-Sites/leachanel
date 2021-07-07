@@ -23,7 +23,7 @@
 - id: contactus
   translation: "Contact Me"
 - id: contactdetail
-  translation: "Informations"
+  translation: "Information"
 - id: send
   translation: "Send Message"
 - id: navigate
