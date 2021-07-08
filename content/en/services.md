@@ -17,6 +17,11 @@ components:
           <strong>Duration: 1 hour 30 minutes</strong><br>
 
           Good for ALL skin types. In the Classic Facial, we'll be treating your skin according to its needs, based on your skin type and skin condition. The main goal is to refresh, hydrate, and target-treat certain goals with potent active ingredients. Gentle neck, shoulders, & hand massage included. Effective, gentle, and safe for sensitive skin. (Pregnant women should go for the Express Glow Facial instead.)
+      - service: Oxygenation Facial
+        desc: >-
+          <strong>Duration: 1 hour 30 minutes</strong><br>
+
+          Ideal for dull, thick, blackhead-prone skin. In the Oxygenation Facial, we'll be treating your skin according to its needs, based on your skin type and skin condition. The facial is very similar to the Classic (deep cleaning and good exfoliation), however we will be using a specialized mask that resembles a bubble bath experience, only for the face! The bubble mask forces blood circulation with active ingredients, as it "suffocates" the skin (*you will breath as normal!* No worries, only referring to pores.)<br><br>This forces the skin to "take a huge breath of air" as the mask melts and is removed. You will see the toxins that are extracted off the skin at the end. Gentle neck, shoulders, & hand massage included. Effective and refreshing. (Good for all skin types, excluding extremely sensitive or rosacea-prone skin. Pregnant women should go for the Express Glow Facial instead.)
       - service: Add-on Treatments
         desc: Ask us about our Organic Peels. Customize your facial to fight
           hyperpigmentation & acne.
@@ -280,6 +285,22 @@ components:
     service: Pedicure for Men
     title: Men's Services
     type: img_half_right_toggle
+  - type: divider2x
+    bg_color: lightgreen
+    id: none
+  - img: /img/2016389_woman-having-massage.jpg
+    aos: none
+    cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
+    bg_color: lightgreen
+    cta_select: true
+    img_alt: Image of back care treatment
+    cta: See Pricing
+    desc: >-
+      <strong>Duration: 1 hour 10 minutes</strong><br>
+
+      A deep cleaning, a good scrub exfoliation, and black head removal...who doesn't need this? Enjoy a relaxing massage followed by a hydrating & soothing mask with hot towels. 
+    title: Back Care Treatment
+    type: img_half_right
   - type: divider
     bg_color: lightgreen
   - type: cta
