@@ -286,6 +286,22 @@ components:
     service: Pédicure pour hommes
     title: Services pour hommes
     type: img_half_right_toggle
+  - type: divider2x
+    bg_color: lightgreen
+    id: back_treatment
+  - img: /img/2016389_woman-having-massage.jpg
+    aos: none
+    cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
+    bg_color: lightgreen
+    cta_select: true
+    img_alt: Dos d'une personne qui recoit un traitement esthetique
+    cta: Voir les tarifs
+    desc: >-
+      <strong>Durée : 1 heure et 10 minutes</strong><br>
+
+      Un nettoyage en profondeur, un bon gommage exfoliant et une élimination des points noirs... qui n'en a pas besoin ? Profitez d'un massage relaxant suivi d'un masque hydratant et apaisant avec des serviettes chaudes.
+    title: Soin du dos
+    type: img_half_right
   - type: divider
     bg_color: lightgreen
   - type: cta
