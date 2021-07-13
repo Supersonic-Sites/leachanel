@@ -18,6 +18,11 @@ command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 HUGO_VERSION = "0.79.1"
 
 [[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+
+[[redirects]]
   from = "https://leachanel.netlify.app/book-now"
   to = "https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services"
   status = 301
