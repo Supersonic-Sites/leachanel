@@ -20,9 +20,9 @@
     {{ $styles = $styles | resources.PostCSS }}
     {{ if  hugo.IsProduction  }}
       {{ $styles = $styles | minify | fingerprint }}
-      
-      {{ else }}
       <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
+      {{ else }}
+      
     {{ end }}
     <link href="{{ $styles.RelPermalink }}" rel="stylesheet" integrity="{{ $styles.Data.Integrity }}" />
     
