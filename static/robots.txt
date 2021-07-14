@@ -1,4 +1,5 @@
 User-Agent: *
 Disallow: /thank-you/
+Disallow: /404/
 Disallow: /admin/
 Sitemap: sitemap.xml
