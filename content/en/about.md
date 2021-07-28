@@ -1,7 +1,7 @@
 ---
 title: About Léa Chanel
 description: Léa Chanel is a professional esthetician and runs a private home
-  salon dedicated to health and beauty services.
+  salon. located in Rigaud, QC, dedicated to health and beauty services.
 components:
   - type: header_sub
     bg_color: white

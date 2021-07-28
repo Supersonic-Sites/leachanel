@@ -1,7 +1,7 @@
 ---
 title: À propos de Léa
 description: Léa Chanel est esthéticienne professionnelle et dirige un salon
-  privé à domicile dédié aux services de santé et de beauté.
+  privé à domicile situé à Rigaud dédié aux services de santé et de beauté.
 slug: a-propos
 components:
   - type: header_sub

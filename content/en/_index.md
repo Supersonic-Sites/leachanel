@@ -1,7 +1,7 @@
 ---
 title: Home
 description: "Professional esthetic and beauty services offered in a chic and
-  beautiful private home salon.  "
+  beautiful private home salon in Rigaud, QC.  "
 components:
   - cta2: Contact Us
     img: /img/lea_chanel_background-1-.jpg

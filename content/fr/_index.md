@@ -1,7 +1,7 @@
 ---
 title: Accueil
 description: Services professionnels d'esthétique et de beauté offerts dans un
-  salon privé chic et confortable.
+  salon privé chic et confortable à Rigaud, QC.
 components:
   - cta2: Me contacter
     img: /img/lea_chanel_background-1-.jpg

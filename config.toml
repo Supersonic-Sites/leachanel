@@ -15,9 +15,9 @@ enableRobotsTXT = false
 
 [params]
 gtm = "GTM-5DLMNCL"
-servicename = "Léa Chanel Esthetic & Beauty Services"
+servicename = "Léa Chanel Esthetic & Beauty Services in Rigaud, QC"
 googlemap = "#"
-sitename = "Léa Chanel Esthetic & Beauty Services"
+sitename = "Léa Chanel Esthetic & Beauty Services in Rigaud, QC"
 usebasin = "#"
 videoOn = false
 description = "#"
@@ -73,7 +73,7 @@ target = "assets/js/lazysizes.js"
 [languages]
 
 [languages.fr]
-title = "Léa Chanel Services D'Esthétique"
+title = "Léa Chanel Services D'Esthétique à Rigaud, QC"
 description = "Services professionnels d'esthétique et de beauté offerts dans un salon privé chic et confortable."
 languageCode = "fr"
 contentDir = "content/fr"
@@ -116,7 +116,7 @@ url = "https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/servi
 weight = 7
 
 [languages.en]
-title = "Léa Chanel Esthetic & Beauty Services"
+title = "Léa Chanel Esthetic & Beauty Services in Rigaud, QC"
 description = "Professional esthetic and beauty services offered in a chic and beautiful private home salon. "
 languageCode = "en"
 contentDir = "content/en"
