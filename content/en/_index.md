@@ -52,7 +52,7 @@ components:
         desc: Give your hands some well deserved attention. Rejuvenate your nails and
           show off your relaxing treatment with an artistic splash of colour.
         aos: fade
-        img: /img/home_hand_care.jpg
+        img: /img/manucure.jpg
         cta_select: false
       - img_alt: Food and nail care
         cta: See Details
