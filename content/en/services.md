@@ -40,7 +40,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: hand_care
-  - img: /img/manucure.jpg
+  - img: /img/manicure.jpg
     aos: fade
     service_list:
       - service: Manicure Express/Polish Change
