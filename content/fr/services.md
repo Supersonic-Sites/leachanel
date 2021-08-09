@@ -37,7 +37,7 @@ components:
     bg_color: lightgreen
     id: hand_care
   - img: /img/manicure.jpg
-    aos: fade
+    aos: fade-up
     service_list:
       - service: Manucure Express/Changement de Polissage
         desc: "<strong>Durée : 30 minutes</strong><br>Limage, façonnage et polissage des
