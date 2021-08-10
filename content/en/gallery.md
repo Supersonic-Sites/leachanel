@@ -43,6 +43,22 @@ components:
         img: /img/img_20210506_203006_068.jpg
       - img_alt: "Celebrating the natural and beautiful "
         img: /img/img_20210503_162940_896.jpg
+      - img_alt: Make-up artist service at home or in salon
+        img: /img/img_20210517_095027_492.jpg
+      - img_alt: Make-up artist in Rigaud
+        img: /img/img_20210624_083001_395.jpg
+      - img_alt: Manicure results
+        img: /img/img_20210625_085544_507.jpg
+      - img_alt: Freshly manicured hands by Lea
+        img: /img/img_20210630_103218_363.jpg
+      - img_alt: Hand care service results in Rigaud
+        img: /img/img_20210714_073950_343.jpg
+      - img_alt: Foot care pedicure in Rigaud
+        img: /img/img_20210705_091709_145.jpg
+      - img_alt: hand care services in Rigaud
+        img: /img/img_20210721_074552_809.jpg
+      - img_alt: Green finished manicure
+        img: /img/img_20210804_164938_677.jpg
   - type: divider
     bg_color: lightgreen
   - type: cta
