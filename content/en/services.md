@@ -250,7 +250,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: men_care
-  - img: /img/fred-moon-vsi2kni4abc-unsplash.jpg
+  - img: /img/img_20210626_070911_800.jpg
     aos: fade
     service_list:
       - service: Manicure for Men
