@@ -57,6 +57,10 @@ components:
         img: /img/img_20210714_073950_343.jpg
       - img_alt: Résultat de pédicure avec Lea Chanel à Rigaud
         img: /img/img_20210705_091709_145.jpg
+      - img_alt: Résultat de Manicure
+        img: /img/img_20210721_074552_809.jpg
+      - img_alt: Résultat de manicure
+        img: /img/img_20210804_164938_677.jpg
   - type: divider
     bg_color: lightgreen
   - type: cta
