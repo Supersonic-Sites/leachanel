@@ -54,7 +54,7 @@ components:
         desc: Accordez à vos mains une attention bien méritée. Rajeunissez vos ongles et
           montrez votre soin relaxant avec une touche de couleur artistique.
         aos: fade
-        img: /img/manucure.jpg
+        img: /img/home_hand_care.jpg
         cta_select: false
       - img_alt: Photo de soins des pieds et des ongles
         cta: Voir les détails
