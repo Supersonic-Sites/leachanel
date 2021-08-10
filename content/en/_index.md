@@ -88,7 +88,7 @@ components:
           health with a manicure or pedicure. Check out my services page for
           hair removal options.
         aos: fade
-        img: /img/home_men_care.jpg
+        img: /img/men-care.jpg
   - type: divider
     bg_color: lightgreen
   - type: gallery
