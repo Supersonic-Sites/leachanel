@@ -289,7 +289,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: back_treatment
-  - img: /img/2016389_woman-having-massage.jpg
+  - img: /img/img_20210626_070911_800.jpg
     aos: none
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
