@@ -164,6 +164,15 @@ components:
           <strong>Duration: 2 hours 15 minutes</strong><br>
 
           Save some money by booking a *classic pedicure* paired with a gel/shellac manicure to receive the combo price.
+      - service: Pedicure for Kids
+        desc: >
+          <strong>Duration: 35 minutes</strong><br><br>
+
+          <strong>*Age 15 and under*</strong><br>
+
+          A good soak, cleaning and cutting of the nails, a good under-foot buff, and hydrating cream.
+
+          Sparkles? Pink? Blue? Purple and green? Who knows! Let's get pretty with polish! 
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
