@@ -35,6 +35,28 @@ components:
           Safe for sensitive skin.<br><br>
 
           (Pregnant women should go for the Express Glow Facial instead.)
+      - service: Online Skin Consultation
+        desc: >
+          <strong>Duration: 60 minutes</strong><br><br>
+
+          Do you want to understand your skin in-depth? Do you need expert advice and desire change for the better? Would you like to find out what products to use and learn where you've been missing steps?<br><br>
+
+
+          In this 1-hour Online Consultation, we will chat face-to-face and get to the bottom of the mysterious skin issues that you battle with everyday. I'm here to answer all of your questions and discuss what you have been doing and what you should be doing for your skin & its condition(s).<br><br>
+
+
+          We'll discuss things that may have never occurred to you, such as the way your body-type explains why you may struggle with specific skin complications, how your pillow case & fabric can help or hurt your skin, which skincare ingredients you should avoid, what water temperature to cleanse with, etc. <br><br>
+
+          We'll look over the products & methods you've been using on your skin, and see where changes ought to be made. <br><br>
+
+
+          My clients are always in awe of the fun facts and fascinating tips they take in during our consultation. <br><br>
+
+
+          Let's get to know what you're really dealing with so that we can treat and care for your skin accordingly.  <br><br>
+
+
+          After booking, a ZOOM meeting link will be sent to you shortly. <br><br>
       - service: Add-on Treatments
         desc: Ask us about our Organic Peels. Customize your facial to fight
           hyperpigmentation & acne.
