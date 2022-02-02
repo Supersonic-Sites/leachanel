@@ -9,20 +9,15 @@ components:
     title: Services
   - type: divider
     bg_color: lightgreen
-  - img: /img/service_facial_care.jpg
+  - img: /img/unnamed-10-.jpg
     aos: fade
     service_list:
-      - service: Classic Target Facial
+      - service: Classic Facial
         desc: >-
           <strong>Duration: 1 hour 30 minutes</strong><br>
 
           Good for ALL skin types. In the Classic Facial, we'll be treating your skin according to its needs, based on your skin type and skin condition. The main goal is to refresh, hydrate, and target-treat certain goals with potent active ingredients. Gentle neck, shoulders, & hand massage included. Effective, gentle, and safe for sensitive skin. (Pregnant women should go for the Express Glow Facial instead.)
-      - service: Oxygenation Facial
-        desc: >-
-          <strong>Duration: 1 hour 30 minutes</strong><br>
-
-          Ideal for dull, thick, blackhead-prone skin. In the Oxygenation Facial, we'll be treating your skin according to its needs, based on your skin type and skin condition. The facial is very similar to the Classic (deep cleaning and good exfoliation), however we will be using a specialized mask that resembles a bubble bath experience, only for the face! The bubble mask forces blood circulation with active ingredients, as it "suffocates" the skin (*you will breath as normal!* No worries, only referring to pores.)<br><br>This forces the skin to "take a huge breath of air" as the mask melts and is removed. You will see the toxins that are extracted off the skin at the end. Gentle neck, shoulders, & hand massage included. Effective and refreshing. (Good for all skin types, excluding extremely sensitive or rosacea-prone skin. Pregnant women should go for the Express Glow Facial instead.)
-      - service: Anti-Aging Firm & Plump Facial
+      - service: Anti-Aging Firm & Facial
         desc: >
           <strong>Duration: 1 hour 35 minutes</strong><br>
 
@@ -35,6 +30,11 @@ components:
           Safe for sensitive skin.<br><br>
 
           (Pregnant women should go for the Express Glow Facial instead.)
+      - service: Oxygenation Facial
+        desc: >-
+          <strong>Duration: 1 hour 30 minutes</strong><br>
+
+          Ideal for dull, thick, blackhead-prone skin. In the Oxygenation Facial, we'll be treating your skin according to its needs, based on your skin type and skin condition. The facial is very similar to the Classic (deep cleaning and good exfoliation), however we will be using a specialized mask that resembles a bubble bath experience, only for the face! The bubble mask forces blood circulation with active ingredients, as it "suffocates" the skin (*you will breath as normal!* No worries, only referring to pores.)<br><br>This forces the skin to "take a huge breath of air" as the mask melts and is removed. You will see the toxins that are extracted off the skin at the end. Gentle neck, shoulders, & hand massage included. Effective and refreshing. (Good for all skin types, excluding extremely sensitive or rosacea-prone skin. Pregnant women should go for the Express Glow Facial instead.)
       - service: Online Skin Consultation
         desc: >
           <strong>Duration: 60 minutes</strong><br><br>
@@ -57,20 +57,20 @@ components:
 
 
           After booking, a ZOOM meeting link will be sent to you shortly. <br><br>
-      - service: Add-on Treatments
-        desc: Ask us about our Organic Peels. Customize your facial to fight
-          hyperpigmentation & acne.
       - service: Kiddie Facial
         desc: >
           <strong>Duration: 45 minutes</strong><br><br>
 
-          Good for ALL skin types. <br><br>
+          Ages 6-12<br><br>
 
           In the Kiddie Facial, we'll be focusing on a good cleaning, light exfoliation, & hydratation for the skin resulting in an even glow. No extractions. No massage included.
 
           Effective, gentle, and safe for sensitive skin.<br><br>
 
           For teens with concerns such as breakouts, acne, and redness, etc. the Express Glow Facial is the better option.
+      - service: Add-on Treatments
+        desc: Ask us about our Organic Peels. Customize your facial to fight
+          hyperpigmentation & acne.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
@@ -80,13 +80,13 @@ components:
       <strong>Duration: 1 hour</strong><br>
 
       Good for ALL skin types. In the Express Glow Facial, we'll be focusing on a deep clean, exfoliation, and hydratation for the skin resulting in an even glow. Quick extractions if necessary. No massage included. Effective, gentle, and safe for sensitive skin. Also safe for PREGNANT women.
-    service: Express Glow Facial
+    service: Express Facial
     title: Facial Care
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
     id: hand_care
-  - img: /img/manicure.jpg
+  - img: /img/img_20211221_084941_500.jpg
     aos: fade
     service_list:
       - service: Manicure Express/Polish Change
@@ -102,26 +102,26 @@ components:
         desc: "<strong>Duration: 30 minutes</strong><br>Removal of old nail-polish.
           Filing & buffing if necessary, followed by meticulous polish
           application."
-      - service: GEL Manicure
+      - service: Gel/Shellac Manicure
         desc: "<strong>Duration: 1 hour</strong><br>Filing, shaping, buffing of nails.
-          Cuticle removal, gel nail polish application, followed by gentle,
-          hydrating massage. (No nail extensions)"
-      - service: GEL Relaxation Spa Treatment Manicure
+          Cuticle removal, gel/shellac nail polish application, followed by
+          gentle, hydrating massage. (No nail extensions)"
+      - service: Gel/Shellac Relaxation Spa Treatment Manicure
         desc: >-
           <strong>Duration: 30 minutes</strong><br>
 
-          Filing, shaping, & buffing of nails. Cuticle removal. Gel polish application. Natural scrub, hydrating relaxation massage, and finishes off with revitalizing 10 minute mask application.
-      - service: GEL Removal Only
+          Filing, shaping, & buffing of nails. Cuticle removal. Gel/Shellac polish application. Natural scrub, hydrating relaxation massage, and finishes off with revitalizing 10 minute mask application.
+      - service: Gel/Shellac Removal Only
         desc: >-
           <strong>Duration: 15 minutes</strong><br>
 
-          Acetone soak-off. Buff/file nails. Replenish with hydration. Gel removals are included FREE when followed with a Gel Manicure or Gel Polish Change. 
-      - service: GEL Polish Change Only
+          Acetone soak-off. Buff/file nails. Replenish with hydration. Gel/Shellac removals are included FREE when followed with a Gel/Shellac Manicure or Gel/Shellac Polish Change. 
+      - service: Gel/Shellac Polish Change Only
         desc: >-
           <strong>Duration: 1 hour</strong><br>
 
-          Gel soak-off removal. Filing, shaping, & buffing of nails. Clean up. Gel polish application followed by hydration cream & cuticle oil.
-      - service: GEL Mani + Pedicure Combo
+          Gel/Shellac soak-off removal. Filing, shaping, & buffing of nails. Clean up. Gel/Shellac polish application followed by hydration cream & cuticle oil.
+      - service: Gel/Shellac Mani + Pedicure Combo
         desc: >-
           <strong>Duration: 2 hours 15 minutes</strong><br>
 
@@ -161,7 +161,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: foot_care
-  - img: /img/how-soon-ngu-7vz3dtqdt3q-unsplash.jpg
+  - img: /img/unnamed-13-.jpg
     aos: fade
     service_list:
       - service: Pedicure Classic
@@ -210,7 +210,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: hair_removal
-  - img: /img/jose-hernandez-uribe-aq6d5cimeb0-unsplash.jpg
+  - img: /img/unnamed-16-.jpg
     aos: fade
     service_list:
       - service: Eyebrow Shaping Wax
@@ -288,22 +288,39 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: make_up
-  - img: /img/20157400_761628824025067_4473844401235338807_o.jpg
+  - img: /img/unnamed-8-.jpg
     aos: fade
     service_list:
-      - service: Prom Makeup
-        desc: If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day. My
-          goal is to set a relaxing mood, and make you feel and look like a
-          queen.
-      - service: Graduation Makeup
-        desc: If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day.
-          You will look like the sophisticated, successful woman that you are.
-          Congratulations. Let's do this!
-      - service: Special Events
-        desc: "If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day. "
+      - service: Special Event Makeup
+        desc: "Whether for your prom, graduation, a Holiday party, or any other special
+          occasion, Léa offers professional makeup application using high-end
+          makeup products. By experience, she will help you decide on the
+          perfect tones, shades, and makeup styles to suit your skin type and
+          facial structure.  Booking a trial in advance is always a good choice.
+          Please email or call for more information. "
+      - service: Makeup Private Lesson
+        desc: If you feel intimidated by that makeup bag staring back at you.... If you
+          feel lost or frustrated when trying to apply your makeup….I'm here to
+          help you! Applying makeup can be daunting and a real challenge without
+          proper guidance. We'll work together to create the PERFECT makeup
+          day-look considering your skin type, skin tone, and eye color, then,
+          transforming it into a stunning evening look! *Bring your makeup bag
+          so that I can see what you've been working with! Product
+          recommendations included! Bring a notebook & your makeup kit.)
+      - service: Makeup Group Lesson
+        desc: We'll work together to create the PERFECT makeup day-look using your
+          current makeup & brushes. We understand that applying makeup can be
+          intimidating and a real challenge without guidance. We'll consider
+          your skin type, skin tone, and eye color. Don't know if what's in your
+          makeup bag is any good? No problem! We will have makeup available and
+          will discuss product recommendations for you! Bring a notebook and
+          your makeup kit!)
+      - service: Makeup & Facial Combo
+        desc: "For any special event, you’ll want to look and feel your very best. The
+          secret to a flawless makeup look is hydrated, plump, and smooth skin.
+          What better way to ensure a beautiful glow than to book a hydration
+          facial with your makeup application? Relaxed and radiant is the way to
+          go.  "
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
@@ -315,13 +332,13 @@ components:
       to you! <br><br>
 
       I offer makeup applications for the bride as well as for bridesmaids and the mother-of-the-bride.
-    service: Wedding Makeup
+    service: Bridal Makeup
     title: Makeup
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
     id: men_care
-  - img: /img/img_20210626_070911_800.jpg
+  - img: /img/unnamed-11-.jpg
     aos: fade
     service_list:
       - service: Manicure for Men
@@ -344,6 +361,13 @@ components:
           <strong>Duration: 45 minutes</strong><br>
 
           Hair removal of upper and/or lower back area using warm cream wax. Soothing post-wax cream ensures calming of the skin and no leftover stickiness.
+      - service: Men’s Facial Treatment
+        desc: We'll be treating your skin according to it's needs, based on your skin
+          type and skin condition/concerns. The main goal is to refresh,
+          hydrate, and target-treat certain goals with potent active
+          ingredients. We'll work on things such as ingrown hairs, blackhead
+          removal, and dry, itchy skin. Contact us to inquire about adding on a
+          peel treatment to target acne or hyperpigmentation
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true

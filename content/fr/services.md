@@ -10,7 +10,7 @@ components:
     title: Services
   - type: divider
     bg_color: lightgreen
-  - img: /img/service_facial_care.jpg
+  - img: /img/unnamed-10-.jpg
     aos: fade
     service_list:
       - service: Facial Classique
@@ -18,7 +18,7 @@ components:
           <strong>Durée : 1h30</strong><br>
 
           Bon pour TOUS les types de peau. Dans le soin du visage classique, nous traiterons votre peau en fonction de ses besoins, en fonction de votre type de peau et de votre état de peau. L'objectif principal est de rafraîchir, hydrater et cibler certains objectifs avec des ingrédients actifs puissants. Massage doux du cou, des épaules et des mains inclus. Efficace, doux et sans danger pour les peaux sensibles. (Les femmes enceintes devraient plutôt opter pour le soin du visage Express Glow.)
-      - service: Visage Anti-Âge Ferme
+      - service: Visage Anti-Âge
         desc: >
           <strong>Durée : 1h35</strong><br>
 
@@ -35,9 +35,7 @@ components:
         desc: >
           <strong>Durée : 45min</strong><br>
 
-          *Pour les 6 à 15 ans seulement*<br>
-
-          Bon pour TOUS les types de peau.<br><br>
+          *Pour les 6 à 12 ans seulement*<br><br>
 
           Dans le Kiddie Facial, nous nous concentrerons sur un bon nettoyage, une exfoliation légère et une hydratation de la peau pour un éclat uniforme. Aucune extraction. Aucun massage inclus.
 
@@ -79,13 +77,13 @@ components:
       <strong>Durée : 1 heure</strong><br>
 
       Bon pour TOUS les types de peau. Dans l'Express Glow Facial, nous nous concentrerons sur un nettoyage en profondeur, une exfoliation et une hydratation de la peau pour un éclat uniforme. Extractions rapides si nécessaire. Aucun massage inclus. Efficace, doux et sans danger pour les peaux sensibles. Également sans danger pour les femmes ENCEINTES.
-    service: Soin du visage éclat express
+    service: Soin du visage express
     title: Soins du visage
     type: img_half_right_toggle
   - type: divider2x
     bg_color: lightgreen
     id: hand_care
-  - img: /img/manicure.jpg
+  - img: /img/img_20211221_084941_500.jpg
     aos: fade-up
     service_list:
       - service: Manucure Express/Changement de Polissage
@@ -102,26 +100,26 @@ components:
         desc: "<strong>Durée : 30 minutes</strong><br>Enlèvement de l'ancien vernis à
           ongles. Limage et polissage si nécessaire, suivi d'une application de
           polissage méticuleuse."
-      - service: GEL Manucure
+      - service: Gel/Shellac Manucure
         desc: "<strong>Durée : 1 heure</strong><br>Limage, façonnage, polissage des
           ongles. Élimination des cuticules, pose de vernis gel, suivi d'un
           massage doux et hydratant. (Pas d'extensions d'ongles)"
-      - service: GEL Détente Spa Soin Manucure
+      - service: Gel/Shellac Détente Spa Soin Manucure
         desc: >-
           <strong>Durée : 30 minutes</strong><br>
 
           Limage, façonnage et polissage des ongles. Élimination des cuticules. Application de vernis gel. Gommage naturel, modelage de relaxation hydratant et se termine par une application de masque revitalisant de 10 minutes.
-      - service: Retrait de GEL uniquement
+      - service: Retrait de Gel/Shellac uniquement
         desc: >-
           <strong>Durée : 15 minutes</strong><br>
 
-          Absorption d'acétone. Polir/limer les ongles. Renouveler avec l'hydratation. Les retraits de gel sont inclus GRATUITEMENT lorsqu'ils sont suivis d'une manucure au gel ou d'un changement de vernis au gel.
-      - service: Changement de vernis GEL uniquement
+          Absorption d'acétone. Polir/limer les ongles. Renouveler avec l'hydratation. Les retraits de gel/shellac sont inclus GRATUITEMENT lorsqu'ils sont suivis d'une manucure au gel/shellac ou d'un changement de vernis au gel.
+      - service: Changement de vernis Gel/Shellac uniquement
         desc: >-
           <strong>Durée : 1 heure</strong><br>
 
-          Élimination par trempage du gel. Limage, façonnage et polissage des ongles. Nettoyer. Application de vernis gel suivie d'une crème hydratante et d'une huile pour cuticules.
-      - service: Combo GEL Mains + Pédicure
+          Élimination par trempage du gel. Limage, façonnage et polissage des ongles. Nettoyer. Application de vernis gel/shellac suivie d'une crème hydratante et d'une huile pour cuticules.
+      - service: Combo Gel/Shellac Mains + Pédicure
         desc: >-
           <strong>Durée : 2 heures 15 minutes</strong><br>
 
@@ -145,7 +143,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: foot_care
-  - img: /img/how-soon-ngu-7vz3dtqdt3q-unsplash.jpg
+  - img: /img/unnamed-13-.jpg
     aos: fade
     service_list:
       - service: Pédicure Classique
@@ -187,7 +185,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: hair_removal
-  - img: /img/jose-hernandez-uribe-aq6d5cimeb0-unsplash.jpg
+  - img: /img/unnamed-16-.jpg
     aos: fade
     service_list:
       - service: "Épilation à la cire: modelage des sourcils"
@@ -267,22 +265,47 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: make_up
-  - img: /img/20157400_761628824025067_4473844401235338807_o.jpg
+  - img: /img/unnamed-8-.jpg
     aos: fade
     service_list:
-      - service: Maquillage De Bal
-        desc: Si vous recherchez une personnalité apaisante et joyeuse et une
-          application de maquillage efficace et de haute qualité, je suis le MUA
-          pour votre journée spéciale. Mon objectif est de créer une ambiance
-          relaxante et de vous faire sentir et ressembler à une reine.
-      - service: Maquillage pour graduation
-        desc: Si vous recherchez une personnalité apaisante et joyeuse et une
-          application de maquillage efficace et de haute qualité, je suis la
-          pour votre journée spéciale. Vous ressemblerez à la femme sophistiquée
-          et réussie que vous êtes. Toutes nos félicitations. Faisons cela!
       - service: Événements spéciaux
-        desc: Si vous recherchez une personnalité apaisante et joyeuse et une
-          application de maquillage efficace et de haute qualité.
+        desc: Que ce soit pour votre bal de fin d'année, votre remise de diplôme, une
+          fête ou toute autre occasion spéciale, Léa vous propose un maquillage
+          professionnel à l'aide de produits de maquillage haut de gamme. Par
+          expérience, elle vous aidera à choisir les tons, les nuances et les
+          styles de maquillage parfaits en fonction de votre type de peau et de
+          la structure de votre visage. Réserver un essai à l'avance est
+          toujours un bon choix. S'il vous plaît envoyé un mail ou appelez pour
+          plus d'informations.
+      - service: Cours Privé de Maquillage
+        desc: >-
+          Si vous vous sentez intimidée par cette trousse de maquillage... Si
+          vous vous sentez perdue ou frustrée lorsque vous essayez d'appliquer
+          votre maquillage... je suis là pour vous aider ! L'application de
+          maquillage peut être intimidante et un véritable défi sans conseils
+          appropriés. Nous travaillerons ensemble pour créer le maquillage de
+          jour PARFAIT en tenant compte de votre type de peau, de votre teint et
+          de la couleur de vos yeux, puis le transformerons en un look de soirée
+          époustouflant !<br><br>
+
+
+          * Apportez votre trousse de maquillage pour que je puisse voir avec quoi vous avez travaillé ! Recommandations de produits incluses ! Apportez un cahier et votre trousse de maquillage.)
+      - service: Cours de Maquillage (Groupe)
+        desc: Nous travaillerons ensemble pour créer le maquillage de jour PARFAIT en
+          utilisant votre maquillage et vos pinceaux actuels. Nous comprenons
+          que l'application de maquillage peut être intimidante et un véritable
+          défi sans conseils. Nous tiendrons compte de votre type de peau, de
+          votre teint et de la couleur de vos yeux. Vous ne savez pas si ce
+          qu'il y a dans votre trousse de maquillage est bon ? Aucun problème!
+          Nous aurons du maquillage disponible et discuterons des
+          recommandations de produits pour vous! Apportez un cahier et votre
+          trousse de maquillage!)
+      - service: Combo Maquillage et Traitement du Visage
+        desc: Pour tout événement spécial, vous voudrez paraître et vous sentir à votre
+          meilleur. Le secret d'un maquillage impeccable est une peau hydratée,
+          repulpée et lisse. Quoi de mieux pour s'assurer un bel éclat que de
+          réserver un soin du visage hydratant avec votre application de
+          maquillage ? Détendu et radieux est la voie à suivre.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
@@ -300,7 +323,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: men_care
-  - img: /img/img_20210626_070911_800.jpg
+  - img: /img/unnamed-11-.jpg
     aos: fade
     service_list:
       - service: Manucure pour hommes
@@ -323,6 +346,14 @@ components:
           <strong>Durée : 45 minutes</strong><br>
 
           Épilation du haut et/ou du bas du dos à l'aide de cire crème chaude. La crème post-épilation apaisante assure un apaisement de la peau et aucune adhérence résiduelle.
+      - service: Soin du Visage Pour Homme
+        desc: Nous traiterons votre peau en fonction de vos besoins, en fonction de
+          votre type de peau et de son état/préoccupations. L'objectif principal
+          est de rafraîchir, d'hydrater et de cibler certains objectifs avec de
+          puissants ingrédients actifs. Nous travaillerons sur des choses telles
+          que les poils incarnés, l'élimination des points noirs et la peau
+          sèche qui démange. Contactez-nous pour en savoir plus sur l'ajout d'un
+          traitement de peeling pour cibler l'acné ou l'hyperpigmentation.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true

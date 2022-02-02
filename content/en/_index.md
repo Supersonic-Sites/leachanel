@@ -43,7 +43,7 @@ components:
           based on your skin's needs. Gentle, effective, and safe for sensitive
           skin.
         aos: fade
-        img: /img/home_facial.jpg
+        img: /img/unnamed-9-.jpg
         cta_select: false
       - img_alt: Hand and nail care
         cta: See Details
@@ -52,7 +52,7 @@ components:
         desc: Give your hands some well deserved attention. Rejuvenate your nails and
           show off your relaxing treatment with an artistic splash of colour.
         aos: fade
-        img: /img/manicure.jpg
+        img: /img/img_20211228_200831_116.jpg
         cta_select: false
       - img_alt: Food and nail care
         cta: See Details
@@ -61,7 +61,7 @@ components:
         desc: Decompress and enjoy a foot soak, scrub, and revitalizing nail treatment.
           Conclude your session with a stunning polish application.
         aos: fade
-        img: /img/home_foot_care-1-.jpg
+        img: /img/unnamed-14-.jpg
         cta_select: false
       - img_alt: wax hair removal
         cta: Call To Action
@@ -70,7 +70,7 @@ components:
         desc: Say goodbye to unwanted hair anywhere and everywhere. Enjoy a soothing
           post-wax cream, calming the skin and ensuring no sticky residue.
         aos: fade
-        img: /img/home_hair_removal-1-.jpg
+        img: /img/unnamed-15-.jpg
       - img_alt: make-up services
         cta: Call To Action
         cta_link: services/#make_up

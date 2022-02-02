@@ -45,7 +45,7 @@ components:
           des soins personnalisés en fonction des besoins de votre peau. Doux,
           efficace et sans danger pour les peaux sensibles.
         aos: fade
-        img: /img/home_facial.jpg
+        img: /img/unnamed-9-.jpg
         cta_select: false
       - img_alt: Soins des mains et des ongles
         cta: Voir les détails
@@ -54,7 +54,7 @@ components:
         desc: Accordez à vos mains une attention bien méritée. Rajeunissez vos ongles et
           montrez votre soin relaxant avec une touche de couleur artistique.
         aos: fade
-        img: /img/home_hand_care.jpg
+        img: /img/img_20211228_200831_116.jpg
         cta_select: false
       - img_alt: Photo de soins des pieds et des ongles
         cta: Voir les détails
@@ -64,7 +64,7 @@ components:
           traitement revitalisant pour les ongles. Terminez votre séance par une
           superbe application de vernis.
         aos: fade
-        img: /img/home_foot_care-1-.jpg
+        img: /img/unnamed-14-.jpg
         cta_select: false
       - img_alt: Picture of legs freshly treated
         cta: Call To Action
@@ -74,7 +74,7 @@ components:
           crème post-épilation apaisante, apaisant la peau et garantissant
           l'absence de résidus collants.
         aos: fade
-        img: /img/home_hair_removal-1-.jpg
+        img: /img/unnamed-15-.jpg
         cta_select: false
       - img_alt: Léa en trait de maquiller
         cta: Call To Action
@@ -84,7 +84,7 @@ components:
           pour un mariage, bal de finissants ou tout autre événement spécial,
           Léa est là pour vous aider à briller lors de votre grand jour.
         aos: fade
-        img: /img/unnamed-8-.jpg
+        img: /img/img_20210927_152531_322.jpg
       - img_alt: Homme dans un salon d'esthetique
         cta: Call To Action
         cta_link: services/#men_care
