@@ -13,14 +13,9 @@
                     <img
                     class="lazyload w-full mb-6 h-72 object-cover" 
                     alt="{{ .img_alt }}"
-                    width="300px"
-                    height="168px" 
-                    data-srcset="
-                        {{ .img }}?nf_resize=smartcrop&w=500 500w,
-                        {{ .img }}?nf_resize=smartcrop&w=700 700w,
-                        {{ .img }}?nf_resize=smartcrop&w=800 800w"
-                    sizes="(max-width: 768px) 600px, 300px"
-                    data-src="{{ .img }}?nf_resize=smartcrop&w=500&h=auto"
+                    width="352px"
+                    height="288px" 
+                    src="{{ .img }}?nf_resize=smartcrop&w=500"
                      />
 
 
