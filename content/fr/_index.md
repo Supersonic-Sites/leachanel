@@ -84,7 +84,7 @@ components:
           pour un mariage, bal de finissants ou tout autre événement spécial,
           Léa est là pour vous aider à briller lors de votre grand jour.
         aos: fade
-        img: /img/home_makeup.jpg
+        img: /img/unnamed-8-.jpg
       - img_alt: Homme dans un salon d'esthetique
         cta: Call To Action
         cta_link: services/#men_care
