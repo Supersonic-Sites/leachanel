@@ -79,7 +79,7 @@ components:
           wedding, prom, graduation, or any other special event, I am here to
           help you shine on your big day.
         aos: fade
-        img: /img/home_makeup.jpg
+        img: /img/img_20210927_152531_322.jpg
       - img_alt: men's esthetic services
         cta: Call To Action
         cta_link: services/#men_care
