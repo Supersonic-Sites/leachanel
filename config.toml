@@ -11,7 +11,6 @@ filename = "sitemap.xml"
 
 [build]
 writeStats = true
-enableRobotsTXT = false
 
 [params]
 gtm = "GTM-5DLMNCL"

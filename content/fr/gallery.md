@@ -43,6 +43,24 @@ components:
         img: /img/img_20210506_203006_068.jpg
       - img_alt: Célébrer le naturel et le beau
         img: /img/img_20210503_162940_896.jpg
+      - img_alt: Service de maquillage professionel à Rigaud
+        img: /img/img_20210517_095027_444.jpg
+      - img_alt: Service de maquillage à Rigaud
+        img: /img/img_20210517_095027_492.jpg
+      - img_alt: Maquillage à domicile ou en salon
+        img: /img/img_20210624_083001_395.jpg
+      - img_alt: Manicure professionel à Rigaud
+        img: /img/img_20210625_085544_507.jpg
+      - img_alt: Manicure rose
+        img: /img/img_20210630_103218_363.jpg
+      - img_alt: Service de manicure professionel
+        img: /img/img_20210714_073950_343.jpg
+      - img_alt: Résultat de pédicure avec Lea Chanel à Rigaud
+        img: /img/img_20210705_091709_145.jpg
+      - img_alt: Résultat de Manicure
+        img: /img/img_20210721_074552_809.jpg
+      - img_alt: Résultat de manicure
+        img: /img/img_20210804_164938_677.jpg
   - type: divider
     bg_color: lightgreen
   - type: cta

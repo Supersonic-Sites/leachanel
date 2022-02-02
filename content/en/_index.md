@@ -52,7 +52,7 @@ components:
         desc: Give your hands some well deserved attention. Rejuvenate your nails and
           show off your relaxing treatment with an artistic splash of colour.
         aos: fade
-        img: /img/home_hand_care.jpg
+        img: /img/manicure.jpg
         cta_select: false
       - img_alt: Food and nail care
         cta: See Details
@@ -88,7 +88,7 @@ components:
           health with a manicure or pedicure. Check out my services page for
           hair removal options.
         aos: fade
-        img: /img/home_men_care.jpg
+        img: /img/men-care.jpg
   - type: divider
     bg_color: lightgreen
   - type: gallery

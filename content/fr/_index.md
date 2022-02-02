@@ -93,7 +93,7 @@ components:
           Investissez dans votre santé avec une manucure ou une pédicure.
           Consultez ma page de services pour les options d'épilation.
         aos: fade
-        img: /img/home_men_care.jpg
+        img: /img/men-care.jpg
   - type: divider
     bg_color: lightgreen
   - type: gallery

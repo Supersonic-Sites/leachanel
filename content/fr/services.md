@@ -1,5 +1,5 @@
 ---
-title: Services esthétiques
+title: Services Esthétiques
 description: Les services d'esthétique et de beauté comprennent les soins du
   visage, les soins des mains et des pieds, l'épilation, le maquillage et les
   soins pour hommes.
@@ -18,9 +18,58 @@ components:
           <strong>Durée : 1h30</strong><br>
 
           Bon pour TOUS les types de peau. Dans le soin du visage classique, nous traiterons votre peau en fonction de ses besoins, en fonction de votre type de peau et de votre état de peau. L'objectif principal est de rafraîchir, hydrater et cibler certains objectifs avec des ingrédients actifs puissants. Massage doux du cou, des épaules et des mains inclus. Efficace, doux et sans danger pour les peaux sensibles. (Les femmes enceintes devraient plutôt opter pour le soin du visage Express Glow.)
-      - service: Traitements complémentaires
+      - service: Visage Anti-Âge Ferme
+        desc: >
+          <strong>Durée : 1h35</strong><br>
+
+          Idéal pour les peaux matures.<br>
+
+          Dans ce soin du visage anti-âge, nous traiterons votre peau en fonction de ses besoins, en fonction de votre type de peau. L'objectif principal est de raffermir la peau en travaillant sa tonicité et son élasticité avec des ingrédients spécialisés et des techniques de massage. Dans le même temps, nous ciblerons bien sûr des conditions supplémentaires telles que les rougeurs et la pigmentation avec des ingrédients actifs puissants. La magie supplémentaire de ce soin du visage réside dans le peeling biologique aux AHA pour lutter contre les signes de vieillissement et les taches pigmentaires... un peeling TRÈS doux et indolore, sans aucun temps d'arrêt. Le masque chocolaté raffermissant et éclaircissant vous laisse une peau absolument radieuse.<br><br>
+
+
+          Massage doux du visage, du cou, des épaules et des mains inclus. Sans danger pour les peaux sensibles.<br><br>
+
+
+          (Les femmes enceintes devraient plutôt opter pour le soin du visage Express Glow.)
+      - service: Facial Pour Enfant
+        desc: >
+          <strong>Durée : 45min</strong><br>
+
+          *Pour les 6 à 15 ans seulement*<br>
+
+          Bon pour TOUS les types de peau.<br><br>
+
+          Dans le Kiddie Facial, nous nous concentrerons sur un bon nettoyage, une exfoliation légère et une hydratation de la peau pour un éclat uniforme. Aucune extraction. Aucun massage inclus.
+
+          Efficace, doux et sans danger pour les peaux sensibles.<br><br>
+
+
+          Pour les adolescents ayant des problèmes tels que les éruptions cutanées, l'acné, les rougeurs, etc., le soin du visage Express Glow est la meilleure option.
+      - service: Traitements Complémentaires
         desc: Renseignez-vous sur nos Peelings Bio. Personnalisez votre soin du visage
           pour lutter contre l'hyperpigmentation et l'acné.
+      - service: Consultation Santé de la Peau
+        desc: >
+          <strong>Durée : 45min</strong><br>
+
+          Vous voulez comprendre votre peau en profondeur ? Avez-vous besoin de conseils d'experts et souhaitez-vous changer pour le mieux? Souhaitez-vous savoir quels produits utiliser et savoir où vous avez manqué des étapes ?<br><br>
+
+
+          Au cours de cette consultation en ligne d'une heure, nous discuterons en face à face et découvrirons les mystérieux problèmes de peau avec lesquels vous vous battez tous les jours. Je suis ici pour répondre à toutes vos questions et discuter de ce que vous avez fait et de ce que vous devriez faire pour votre peau et ses conditions.<br><br>
+
+
+          Nous discuterons de choses qui ne vous sont peut-être jamais venues à l'esprit, telles que la façon dont votre type de corps explique pourquoi vous pouvez être aux prises avec des complications cutanées spécifiques, comment votre taie d'oreiller et votre tissu peuvent aider ou blesser votre peau, quels ingrédients de soin vous devriez éviter , avec quelle température de l'eau nettoyer, etc.<br><br>
+
+          Nous examinerons les produits et les méthodes que vous avez utilisés sur votre peau et verrons où les changements doivent être apportés.<br><br>
+
+
+          Mes clients sont toujours impressionnés par les faits amusants et les conseils fascinants qu'ils reçoivent lors de notre consultation.<br><br>
+
+
+          Voyons à quoi vous avez vraiment affaire afin que nous puissions traiter et prendre soin de votre peau en conséquence.<br><br>
+
+
+          Après la réservation, un lien de réunion ZOOM vous sera envoyé sous peu.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
@@ -36,8 +85,8 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: hand_care
-  - img: /img/img_20180206_171643.jpg
-    aos: fade
+  - img: /img/manicure.jpg
+    aos: fade-up
     service_list:
       - service: Manucure Express/Changement de Polissage
         desc: "<strong>Durée : 30 minutes</strong><br>Limage, façonnage et polissage des
@@ -251,7 +300,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: men_care
-  - img: /img/fred-moon-vsi2kni4abc-unsplash.jpg
+  - img: /img/img_20210626_070911_800.jpg
     aos: fade
     service_list:
       - service: Manucure pour hommes

@@ -22,9 +22,55 @@ components:
           <strong>Duration: 1 hour 30 minutes</strong><br>
 
           Ideal for dull, thick, blackhead-prone skin. In the Oxygenation Facial, we'll be treating your skin according to its needs, based on your skin type and skin condition. The facial is very similar to the Classic (deep cleaning and good exfoliation), however we will be using a specialized mask that resembles a bubble bath experience, only for the face! The bubble mask forces blood circulation with active ingredients, as it "suffocates" the skin (*you will breath as normal!* No worries, only referring to pores.)<br><br>This forces the skin to "take a huge breath of air" as the mask melts and is removed. You will see the toxins that are extracted off the skin at the end. Gentle neck, shoulders, & hand massage included. Effective and refreshing. (Good for all skin types, excluding extremely sensitive or rosacea-prone skin. Pregnant women should go for the Express Glow Facial instead.)
+      - service: Anti-Aging Firm & Plump Facial
+        desc: >
+          <strong>Duration: 1 hour 35 minutes</strong><br>
+
+          Ideal for mature skin types. <br><br>
+
+          In this anti-aging facial, we'll be treating your skin according to its' needs, based on your skin type. The main goal is to firm the skin by working on its tonicity & elasticity with specialized ingredients and massage techniques. At the same time, we will of course target-treat additional conditions such as redness & pigmentation with potent active ingredients. The extra magic, in this facial, is in the organic AHA peel to combat signs of aging & pigmentation spots...a VERY gentle, painless peel, with 0 down time. The chocolately firming & brightening mask leaves you with absolutely radiant skin. <br><br>
+
+          Gentle face, neck, shoulders, & hand massage included.
+
+          Safe for sensitive skin.<br><br>
+
+          (Pregnant women should go for the Express Glow Facial instead.)
+      - service: Online Skin Consultation
+        desc: >
+          <strong>Duration: 60 minutes</strong><br><br>
+
+          Do you want to understand your skin in-depth? Do you need expert advice and desire change for the better? Would you like to find out what products to use and learn where you've been missing steps?<br><br>
+
+
+          In this 1-hour Online Consultation, we will chat face-to-face and get to the bottom of the mysterious skin issues that you battle with everyday. I'm here to answer all of your questions and discuss what you have been doing and what you should be doing for your skin & its condition(s).<br><br>
+
+
+          We'll discuss things that may have never occurred to you, such as the way your body-type explains why you may struggle with specific skin complications, how your pillow case & fabric can help or hurt your skin, which skincare ingredients you should avoid, what water temperature to cleanse with, etc. <br><br>
+
+          We'll look over the products & methods you've been using on your skin, and see where changes ought to be made. <br><br>
+
+
+          My clients are always in awe of the fun facts and fascinating tips they take in during our consultation. <br><br>
+
+
+          Let's get to know what you're really dealing with so that we can treat and care for your skin accordingly.  <br><br>
+
+
+          After booking, a ZOOM meeting link will be sent to you shortly. <br><br>
       - service: Add-on Treatments
         desc: Ask us about our Organic Peels. Customize your facial to fight
           hyperpigmentation & acne.
+      - service: Kiddie Facial
+        desc: >
+          <strong>Duration: 45 minutes</strong><br><br>
+
+          Good for ALL skin types. <br><br>
+
+          In the Kiddie Facial, we'll be focusing on a good cleaning, light exfoliation, & hydratation for the skin resulting in an even glow. No extractions. No massage included.
+
+          Effective, gentle, and safe for sensitive skin.<br><br>
+
+          For teens with concerns such as breakouts, acne, and redness, etc. the Express Glow Facial is the better option.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
@@ -40,7 +86,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: hand_care
-  - img: /img/img_20180206_171643.jpg
+  - img: /img/manicure.jpg
     aos: fade
     service_list:
       - service: Manicure Express/Polish Change
@@ -80,10 +126,26 @@ components:
           <strong>Duration: 2 hours 15 minutes</strong><br>
 
           Save some money by booking a *classic pedicure* paired with a gel/shellac manicure to receive the combo price.
+      - service: Combo- Gel/Shellac Mani & Pedi
+        desc: >-
+          <strong>Duration: 2 hours 20 minutes</strong><br>
+
+          Get a gel/shellac manicure and a gel/shellac pedicure together for only $94. (No extensions or overlay available.)
       - service: Mani & Pedi Combo
         desc: |-
           <strong>Duration: 2 hours</strong><br>
           Get a regular manicure & pedicure combination.
+      - service: Manicure for Kids
+        desc: >
+          <strong>Duration: 35 hours</strong><br><br>
+
+          * Age 15 and under* <br>
+
+          Filing, shaping, & buffing of nails. Cream hydration application, followed by meticulous polish application.<br><br>
+
+          (No cuticle removal or massage)<br><br>
+
+          Sparkles? Pink? Blue? Purple and green? Who knows! Let's get pretty with polish!
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
@@ -124,6 +186,15 @@ components:
           <strong>Duration: 2 hours 15 minutes</strong><br>
 
           Save some money by booking a *classic pedicure* paired with a gel/shellac manicure to receive the combo price.
+      - service: Pedicure for Kids
+        desc: >
+          <strong>Duration: 35 minutes</strong><br><br>
+
+          <strong>*Age 15 and under*</strong><br>
+
+          A good soak, cleaning and cutting of the nails, a good under-foot buff, and hydrating cream.
+
+          Sparkles? Pink? Blue? Purple and green? Who knows! Let's get pretty with polish! 
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
@@ -250,7 +321,7 @@ components:
   - type: divider2x
     bg_color: lightgreen
     id: men_care
-  - img: /img/fred-moon-vsi2kni4abc-unsplash.jpg
+  - img: /img/img_20210626_070911_800.jpg
     aos: fade
     service_list:
       - service: Manicure for Men
