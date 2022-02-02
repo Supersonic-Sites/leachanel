@@ -11,14 +11,14 @@
                 <div class="flex flex-col items-center justify-items-end ">
                     
                     <img
-                    class="lazyload w-full mb-6" 
+                    class="lazyload w-full mb-6 h-72 object-cover" 
                     alt="{{ .img_alt }}"
                     width="300px"
                     height="168px" 
                     data-srcset="
-                        {{ .img }}?nf_resize=smartcrop&w=500&h=auto 500w,
-                        {{ .img }}?nf_resize=smartcrop&w=700&h=auto 700w,
-                        {{ .img }}?nf_resize=smartcrop&w=800&h=auto 800w"
+                        {{ .img }}?nf_resize=smartcrop&w=500 500w,
+                        {{ .img }}?nf_resize=smartcrop&w=700 700w,
+                        {{ .img }}?nf_resize=smartcrop&w=800 800w"
                     sizes="(max-width: 768px) 600px, 300px"
                     data-src="{{ .img }}?nf_resize=smartcrop&w=500&h=auto"
                      />
