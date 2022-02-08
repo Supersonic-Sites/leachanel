@@ -27,6 +27,9 @@ module.exports = {
   
   theme: {
     extend: {
+      height: {
+        '128': '32rem',
+      }
       fontFamily: {
         sans: [
           '"Cormorant Garamond"',
