@@ -131,10 +131,6 @@ components:
           <strong>Duration: 2 hours 20 minutes</strong><br>
 
           Get a gel/shellac manicure and a gel/shellac pedicure together for only $94. (No extensions or overlay available.)
-      - service: Mani & Pedi Combo
-        desc: |-
-          <strong>Duration: 2 hours</strong><br>
-          Get a regular manicure & pedicure combination.
       - service: Manicure for Kids
         desc: >
           <strong>Duration: 35 hours</strong><br><br>
@@ -146,6 +142,15 @@ components:
           (No cuticle removal or massage)<br><br>
 
           Sparkles? Pink? Blue? Purple and green? Who knows! Let's get pretty with polish!
+      - service: "Combo - Mani & Pedi "
+        desc: |-
+          <strong>Duration: 2 hours</strong><br>
+          Get a regular manicure & pedicure combination.
+      - service: Combo - Gel/Shellac Mani & Classic Pedi
+        desc: Save some money by booking a *classic pedicure* paired with a gel/shellac
+          manicure to receive the combo price.
+      - service: Combo - Gel/Shellac Mani & pedi
+        desc: Get a gel/shellac manicure and a gel/shellac pedicure togethe.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true

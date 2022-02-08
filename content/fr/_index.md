@@ -101,15 +101,21 @@ components:
       - img_alt: home salon
         img: /img/home_gallery_1.jpg
       - img_alt: manicure and coffee
-        img: /img/home_gallery_2.jpg
-      - img_alt: table de services de beauté
+        img: /img/fb_img_1596077624845-1-.jpg
+      - img_alt: beauty services
         img: /img/home_gallery_3.jpg
-      - img_alt: Une piece relaxante pour les traitement esthetique
+      - img_alt: private spa
         img: /img/home_gallery_4.jpg
-      - img_alt: Bol pour tramper les pieds rempli de mousse et de petales de rose
+      - img_alt: Professional Make-Up Service For Weddings in Rigaud
+        img: /img/wedding-makeup.jpeg
+      - img_alt: green salon
+        img: /img/leachanel-beauty-salon.jpg
+      - img_alt: pedicure services
         img: /img/home_gallery_6.jpg
-      - img_alt: Deux chaises vertes pour les services esthetiques
-        img: /img/home_gallery_5.jpg
+      - img_alt: Professional Manicure services
+        img: /img/professsional-manicure.jpg
+      - img_alt: Wedding makeup services
+        img: /img/_dsc2384.jpg
   - type: divider
     bg_color: lightgreen
   - type: heading_full

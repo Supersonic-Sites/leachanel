@@ -124,10 +124,13 @@ components:
           <strong>Durée : 2 heures 15 minutes</strong><br>
 
           Économisez de l'argent en réservant une *pédicure classique* associée à une manucure gel/gomme laque pour bénéficier du prix combiné.
-      - service: Combo manucure et pédicure
+      - service: Combo manucure et pédicure classique
         desc: |-
           <strong>Durée : 2 heures</strong><br>
           Obtenez une combinaison régulière de manucure et de pédicure.
+      - service: Combo Gel/Shellac manucure & édicure classique
+        desc: Économisez de l'argent en réservant une *pédicure classique* jumelée à une
+          manucure au gel/shellac pour recevoir le prix combiné.
     cta_link: https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services
     bg_color: lightgreen
     cta_select: true
