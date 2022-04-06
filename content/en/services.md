@@ -59,7 +59,7 @@ components:
           After booking, a ZOOM meeting link will be sent to you shortly. <br><br>
       - service: Kiddie Facial
         desc: >
-          <strong>Duration: 45 minutes</strong><br><br>
+          <strong>Duration: 40 minutes</strong><br><br>
 
           Ages 6-12<br><br>
 
