@@ -17,6 +17,11 @@ components:
           <strong>Duration: 1 hour 30 minutes</strong><br>
 
           Good for ALL skin types. In the Classic Facial, we'll be treating your skin according to its needs, based on your skin type and skin condition. The main goal is to refresh, hydrate, and target-treat certain goals with potent active ingredients. Gentle neck, shoulders, & hand massage included. Effective, gentle, and safe for sensitive skin. (Pregnant women should go for the Express Glow Facial instead.)
+      - service: BioAcne Facial
+        desc: >-
+          <strong>Duration: 1 hour</strong><br>
+
+          In the Anti Acne Bio Facial, we'll work on deep cleansing the skin and purging the built-up sebum and bacteria clogged in the pores, all while respecting the skin's natural PH balance. We will do a gentle organic Salicylic Acid Peel to eat away at dead & dry skin that is trapping the the unwanted impurities inside. (No pain, no downtime.) We'll also work on soothing & comforting the skin's redness & inflammation. Skin will be very rosy post-treatment due to healthy oxygenation of the skin. One must wear SPF post-treatment & avoid direct sun exposure for 48 hours.) 
       - service: Anti-Aging Firm & Facial
         desc: >
           <strong>Duration: 1 hour 35 minutes</strong><br>
@@ -35,6 +40,25 @@ components:
           <strong>Duration: 1 hour 30 minutes</strong><br>
 
           Ideal for dull, thick, blackhead-prone skin. In the Oxygenation Facial, we'll be treating your skin according to its needs, based on your skin type and skin condition. The facial is very similar to the Classic (deep cleaning and good exfoliation), however we will be using a specialized mask that resembles a bubble bath experience, only for the face! The bubble mask forces blood circulation with active ingredients, as it "suffocates" the skin (*you will breath as normal!* No worries, only referring to pores.)<br><br>This forces the skin to "take a huge breath of air" as the mask melts and is removed. You will see the toxins that are extracted off the skin at the end. Gentle neck, shoulders, & hand massage included. Effective and refreshing. (Good for all skin types, excluding extremely sensitive or rosacea-prone skin. Pregnant women should go for the Express Glow Facial instead.)
+      - service: Microdermabrasion Full Facial
+        desc: >-
+          <strong>Duration: 1 hour 20 minutes</strong><br>
+
+          Microdermabrasion is an advanced facial care treatment in which we’ll do a deep 
+
+          exfoliation using the Vortex Peel system: a three-pass combination of circular crystal abrasion & suction power. NO DOWNTIME. Skin may be very rosy for a few hours or until the end of the day. Avoid direct sun exposure for 48 hours and wear SPF. Full Facial included.)
+      - service: Microdermabrasion Treatment Only
+        desc: >-
+          <strong>Duration: 45 minutes</strong><br>
+
+          Microdermabrasion is an advanced facial care treatment in which we’ll do a deep 
+
+          exfoliation using the Vortex Peel system: a three-pass combination of circular crystal abrasion & suction power. NO DOWNTIME. Skin may be very rosy for a few hours or until the end of the day. Avoid direct sun exposure for 48 hours and wear SPF. Treatment alone, followed by hydrating & protective products applied over skin. No facial included.)
+      - service: Microdermabrasion Treatment Packages
+        desc: >-
+          <strong>Duration: From 45 minutes to 1 hour 30 minutes</strong><br>
+
+          To combat skin conditions such as acne scars, pigmentation damage, and fine lines, a series of treatments (4 to 6) paired closely together, is recommended. Contact Léa Chanel Beauty today to discuss pricing & which package would be most suitable for you.) 
       - service: Online Skin Consultation
         desc: >
           <strong>Duration: 60 minutes</strong><br><br>

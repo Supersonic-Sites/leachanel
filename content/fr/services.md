@@ -18,6 +18,11 @@ components:
           <strong>Durée : 1h30</strong><br>
 
           Bon pour TOUS les types de peau. Dans le soin du visage classique, nous traiterons votre peau en fonction de ses besoins, en fonction de votre type de peau et de votre état de peau. L'objectif principal est de rafraîchir, hydrater et cibler certains objectifs avec des ingrédients actifs puissants. Massage doux du cou, des épaules et des mains inclus. Efficace, doux et sans danger pour les peaux sensibles. (Les femmes enceintes devraient plutôt opter pour le soin du visage Express Glow.)
+      - service: Facial BioAcne
+        desc: >-
+          <strong>Durée : 1h30</strong><br>
+
+          Dans le soin du visage bio anti-acné, nous travaillerons sur le nettoyage en profondeur de la peau et la purge du sébum accumulé et des bactéries obstruées dans les pores, tout en respectant l'équilibre naturel du PH de la peau. Nous ferons un doux peeling à l'acide salicylique biologique pour ronger la peau morte et sèche qui emprisonne les impuretés indésirables à l'intérieur. (Pas de douleur, pas de temps d'arrêt.) Nous travaillerons également à apaiser et à réconforter les rougeurs et l'inflammation de la peau. La peau sera très rosée après le traitement grâce à une oxygénation saine de la peau. Il faut porter le post-traitement SPF et éviter l'exposition directe au soleil pendant 48 heures.)
       - service: Visage Anti-Âge
         desc: >
           <strong>Durée : 1h35</strong><br>
@@ -31,6 +36,25 @@ components:
 
 
           (Les femmes enceintes devraient plutôt opter pour le soin du visage Express Glow.)
+      - service: Microdermabrasion facial complet
+        desc: >-
+          <strong>Durée : 1 heure et 20min</strong><br>
+
+          Microdermabrasion is an advanced facial care treatment in which we’ll do a deep 
+
+          exfoliation using the Vortex Peel system: a three-pass combination of circular crystal abrasion & suction power. NO DOWNTIME. Skin may be very rosy for a few hours or until the end of the day. Avoid direct sun exposure for 48 hours and wear SPF. Full Facial included.)
+      - service: Traitement de microdermabrasion
+        desc: >-
+          <strong>Durée : 45min</strong><br>
+
+          La microdermabrasion est un soin du visage avancé dans lequel nous ferons une profonde
+
+          exfoliation à l'aide du système Vortex Peel : une combinaison en trois passes d'abrasion circulaire des cristaux et de puissance d'aspiration. AUCUN TEMPS D'ARRÊT. La peau peut être très rosée pendant quelques heures ou jusqu'en fin de journée. Évitez l'exposition directe au soleil pendant 48 heures et portez un FPS. Traitement seul, suivi de produits hydratants et protecteurs appliqués sur la peau. Aucun soin du visage inclus.)
+      - service: Forfaits de traitement de microdermabrasion
+        desc: >-
+          <strong>Durée : De 45 min à 1 heure 45min</strong><br>
+
+          Pour lutter contre les affections cutanées telles que les cicatrices d'acné, les dommages pigmentaires et les ridules, une série de traitements (4 à 6) étroitement associés est recommandée. Contactez Léa Chanel Beauty dès aujourd'hui pour discuter des prix et du forfait qui vous conviendrait le mieux.)
       - service: Facial Pour Enfant
         desc: >
           <strong>Durée : 45min</strong><br>
