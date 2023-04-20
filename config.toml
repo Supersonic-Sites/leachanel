@@ -100,6 +100,11 @@ url = "produits/"
 weight = 4
 
 [[languages.fr.menu.main]]
+name = "Cartes Cadeaux"
+url = "https://squareup.com/gift/MLNGBSW8QVPF3/order?fbclid=IwAR2Uh9WT0gXvjA6WVS1uy0a6sgapTj3aSpaO9hJK6OBQYbrMbs00G0wABZ4"
+weight = 6
+
+[[languages.fr.menu.main]]
 name = "Services"
 url = "services/"
 weight = 5
@@ -107,12 +112,12 @@ weight = 5
 [[languages.fr.menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 7
 
 [[languages.fr.menu.main]]
 name = "Rendez-vous"
 url = "https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services"
-weight = 7
+weight = 8
 
 [languages.en]
 title = "Léa Chanel Esthetic & Beauty Services in Rigaud, QC"
@@ -143,6 +148,11 @@ url = "products/"
 weight = "4"
 
 [[languages.en.menu.main]]
+name = "Gift Cards"
+url = "https://squareup.com/gift/MLNGBSW8QVPF3/order?fbclid=IwAR2Uh9WT0gXvjA6WVS1uy0a6sgapTj3aSpaO9hJK6OBQYbrMbs00G0wABZ4"
+weight = "6"
+
+[[languages.en.menu.main]]
 name = "Services"
 url = "services/"
 weight = "5"
@@ -150,9 +160,9 @@ weight = "5"
 [[languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
-weight = "6"
+weight = "7"
 
 [[languages.en.menu.main]]
 name = "Appointment"
 url = "https://squareup.com/appointments/book/lkzsutw147ekig/LS5KRH7VEZTBB/services"
-weight = "7"
+weight = "8"
