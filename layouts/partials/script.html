@@ -2,7 +2,5 @@
 {{ if $.Site.Params.VideoOn}}
 {{ $script := resources.Get "js/video.js" | minify}}
 <script src="{{ $script.Permalink }}" defer></script>
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/22677342.js"></script>
-<!-- End of HubSpot Embed Code -->
+
 {{ end }}
