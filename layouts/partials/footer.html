@@ -145,7 +145,7 @@
     </div>
     <div class="mt-12 border-t border-gray-200 pt-8 lg:flex lg:flex-row lg:justify-between">
       <p class="text-base text-black text-center">
-        Copyright &copy; {{ dateFormat "2006" now }} - <a href="{{ .Site.BaseURL | relLangURL }}privacy-policy"
+        Copyright © <span id="year"></span> - <a href="{{ .Site.BaseURL | relLangURL }}privacy-policy"
           class="underline hover:text-secondary transition duration-500">{{ i18n "privacypolicy" }}</a>
       </p>
       <div class="flex flex-col lg:flex-row items-center">
@@ -160,3 +160,9 @@
     </div>
   </div>
 </footer>
+<!-- Display Current Year in Footer -->
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        document.getElementById('year').textContent = new Date().getFullYear();
+    });
+</script>
